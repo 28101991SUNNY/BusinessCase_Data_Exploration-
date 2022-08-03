@@ -1,1 +1,16 @@
-Feature Engineering Techniques 
+Given Data set contains unique records of the Loan Applicants , their details and wether they got loan approval or not ! 
+
+## Task: Determine the eligibility for granting Home loan.
+
+Objective :
+
+1. To understand the patterns in the data.
+2. How to Handle the categorical features.
+3. How to deal with missing data.
+4. Feature Engineering
+5. Finding the most important features while taking the decision of granting a loan application.
+
+
+
+
+
