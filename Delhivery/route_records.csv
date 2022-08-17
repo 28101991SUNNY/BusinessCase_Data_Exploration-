@@ -1,0 +1,1573 @@
+,ROUTE,Number_of_Trips,Average_Actual_distance_to_destination,#source_states,#destination_states,destination_states,source_states,source_cities,route_type,destination_cities
+0,LowerParel -- Mumbai,53.0,16.428867921276826,1,1,Maharashtra,Maharashtra,LowerParel,Carting,Mumbai
+1,Mumbai -- Bhiwandi,46.0,20.199444672663994,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+2,Gurgaon -- Gurgaon,43.0,29.740842214324633,1,1,Haryana,Haryana,Gurgaon,Carting,Gurgaon
+3,Jaipur -- Ambabadi Jaipur,41.0,15.348495371188195,1,1,Rajasthan,Rajasthan,Jaipur,Carting,Ambabadi Jaipur
+4,Noida -- Del,40.0,10.882901760819868,1,1,Delhi,Uttar Pradesh,Noida,Carting,Del
+5,Hyderabad -- Hyderabad,39.0,35.69564140778872,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+6,Mumbai -- Mumbai,37.0,13.882862882594129,1,1,Maharashtra,Hub Maharashtra,Mumbai,Carting,Mumbai
+7,Mumbai -- Mumbai,36.0,17.526251439911803,1,1,Maharashtra,Hub Maharashtra,Mumbai,Carting,Mumbai
+8,Bhiwandi -- Mumbai,35.0,21.24153449796474,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+9,Mumbai -- Mumbai,34.0,15.90661390173936,1,1,Maharashtra,Hub Maharashtra,Mumbai,Carting,Mumbai
+10,Mumbai -- Mumbai,33.0,15.668725955779076,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+11,Bengaluru -- Bengaluru,33.0,28.06700353813313,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+12,Sonipat -- Sonipat,32.0,11.69124275431833,1,1,Haryana,Haryana,Sonipat,Carting,Sonipat
+13,Hyderabad -- Hyderabad,32.0,21.83557851561085,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+14,Mumbai -- Bhiwandi Mumbai,32.0,21.601109213090442,1,1,Maharashtra,Hub Maharashtra,Mumbai,Carting,Bhiwandi Mumbai
+15,Bengaluru -- Bengaluru,30.0,28.055789213744443,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+16,Bhiwandi -- Mumbai,30.0,21.39600211350558,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+17,Bengaluru -- Bengaluru,27.0,27.967086618382158,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+18,Faridabad -- FBD,26.0,9.677120990120999,1,1,Haryana,Haryana,Faridabad,Carting,FBD
+19,Sonipat -- Sonipat,26.0,12.182485537459739,1,1,Haryana,Haryana,Sonipat,Carting,Sonipat
+20,Bhiwandi -- Mumbai,25.0,21.531705315735692,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+21,Mumbai -- Bhiwandi,25.0,19.94219063782423,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+22,Faridabad -- Gurgaon,25.0,47.091621971430065,1,1,Haryana,Haryana,Faridabad,Carting,Gurgaon
+23,Bengaluru -- Bengaluru,25.0,28.01966762740182,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+24,HBR -- Bengaluru,24.0,21.32337533188367,1,1,Karnataka,Karnataka,HBR,Carting,Bengaluru
+25,Bhiwandi Mumbai -- Mumbai Bhiwandi,24.0,48.34948698433368,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+26,Bengaluru -- Bengaluru,24.0,41.396497358681835,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+27,CCU -- Kolkata,24.0,16.36750700431297,1,1,West Bengal,West Bengal,CCU,Carting,Kolkata
+28,Bhiwandi Mumbai -- Mumbai Bhiwandi,24.0,22.777751092442987,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+29,Kolkata -- Kolkata,23.0,17.718961815869186,1,1,West Bengal,West Bengal,Kolkata,Carting,Kolkata
+30,Chandigarh -- Chandigarh,23.0,77.02330723702053,2,2,Chandigarh Punjab,Punjab Chandigarh,Chandigarh,Carting,Chandigarh
+31,Bhiwandi -- Mumbai,23.0,21.548961428891474,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+32,Bengaluru -- HBR Bengaluru,23.0,20.391130504375315,1,1,Karnataka,Karnataka,Bengaluru,Carting,HBR Bengaluru
+33,Mumbai -- Mumbai,23.0,10.159853871984835,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+34,Jaipur Kotputli Paota Achrol Alwar -- Alwar Paota Jaipur Achrol,22.0,170.15604532470135,1,1,Rajasthan,Rajasthan,Jaipur Kotputli Paota Achrol Alwar,FTL,Alwar Paota Jaipur Achrol
+35,Ongole Kanigiri Kandukur Kavali -- Kanigiri Kandukur Kavali Ongole,22.0,177.80214967844555,1,1,Andhra Pradesh,Andhra Pradesh,Ongole Kanigiri Kandukur Kavali,FTL,Kanigiri Kandukur Kavali Ongole
+36,Amritsar Jalandhar Ludhiana Chandigarh -- Jalandhar Ludhiana Chandigarh Amritsar,22.0,325.6077239987755,1,1,Punjab,Punjab,Amritsar Jalandhar Ludhiana Chandigarh,FTL,Jalandhar Ludhiana Chandigarh Amritsar
+37,Bhiwandi -- Hyderabad,22.0,607.5146186007428,1,1,Telangana,Maharashtra,Bhiwandi,FTL,Hyderabad
+38,Chimkurthy Markapur Vinukonda Ongole Addanki -- Markapur Vinukonda Addanki Chimkurthy Ongole,22.0,116.94312871292227,1,1,Andhra Pradesh,Andhra Pradesh,Chimkurthy Markapur Vinukonda Ongole Addanki,FTL,Markapur Vinukonda Addanki Chimkurthy Ongole
+39,Chennai -- Chennai,22.0,31.96037488612257,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+40,Jamshedpur -- Ranchi,22.0,100.7659859826736,1,1,Jharkhand,Jharkhand,Jamshedpur,FTL,Ranchi
+41,Delhi -- Delhi,22.0,17.75759850004242,1,1,Delhi,Delhi,Delhi,Carting,Delhi
+42,Pune Solapur Osmanabad Barshi -- Solapur Osmanabad Barshi Pune,22.0,533.1170770638041,1,1,Maharashtra,Maharashtra,Pune Solapur Osmanabad Barshi,FTL,Solapur Osmanabad Barshi Pune
+43,Davangere Ranebennur Haveri Ukkadagatri -- Ranebennur Haveri Davangere Ukkadagatri,22.0,128.24533949795182,1,1,Karnataka,Karnataka,Davangere Ranebennur Haveri Ukkadagatri,Carting,Ranebennur Haveri Davangere Ukkadagatri
+44,Mumbai -- Nalasopara Mumbai,22.0,29.395414659666503,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Nalasopara Mumbai
+45,Srikakulam Narasnpeta Tekkali Paralakhemundi Palasa -- Narasnpeta Tekkali Paralakhemundi Srikakulam Palasa,22.0,120.68073720894908,2,2,Andhra Pradesh Orissa,Andhra Pradesh Orissa,Srikakulam Narasnpeta Tekkali Paralakhemundi Palasa,FTL,Narasnpeta Tekkali Paralakhemundi Srikakulam Palasa
+46,Srikakulam Rajam Bobbili Parvathipuram Palakonda Salur -- Rajam Salur Parvathipuram Palakonda Srikakulam Bobbili,22.0,154.49528330364112,1,1,Andhra Pradesh,Andhra Pradesh,Srikakulam Rajam Bobbili Parvathipuram Palakonda Salur,FTL,Rajam Salur Parvathipuram Palakonda Srikakulam Bobbili
+47,Bhiwandi Mumbai -- Mumbai Bhiwandi,22.0,25.134730128053004,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+48,Chandigarh RoopNagar AnandprShb -- Chandigarh RoopNagar AnandprShb,22.0,157.53067977808843,2,2,Chandigarh Punjab,Punjab Chandigarh,Chandigarh RoopNagar AnandprShb,FTL,Chandigarh RoopNagar AnandprShb
+49,Amravati Akola -- Akola Bhiwandi,22.0,483.6682010731376,1,1,Maharashtra,Maharashtra,Amravati Akola,FTL,Akola Bhiwandi
+50,Purnia Supaul Saharsa Madhepura Triveninganj -- Supaul Saharsa Madhepura Triveninganj Purnia,22.0,196.71486336660575,1,1,Bihar,Bihar,Purnia Supaul Saharsa Madhepura Triveninganj,FTL,Supaul Saharsa Madhepura Triveninganj Purnia
+51,Kollam Kottarakkara Punalur Pthnmthitt Adoor -- Kottarakkara Punalur Pthnmthitt Adoor Kollam,22.0,87.94574711040437,1,1,Kerala,Kerala,Kollam Kottarakkara Punalur Pthnmthitt Adoor,Carting,Kottarakkara Punalur Pthnmthitt Adoor Kollam
+52,Dhule Sakri Nandurbar Shahada Shirpur Shindkheda -- Sakri Nandurbar Shahada Shindkheda Dhule Shirpur,22.0,150.01623282769398,1,1,Maharashtra,Maharashtra,Dhule Sakri Nandurbar Shahada Shirpur Shindkheda,FTL,Sakri Nandurbar Shahada Shindkheda Dhule Shirpur
+53,Pukhrayan Orai Kanpur Akbarpur Konch Rath -- Orai Konch Akbarpur Pukhrayan Rath Kanpur,22.0,139.83494526036563,1,1,Uttar Pradesh,Uttar Pradesh,Pukhrayan Orai Kanpur Akbarpur Konch Rath,FTL,Orai Konch Akbarpur Pukhrayan Rath Kanpur
+54,HBR Bengaluru -- Bengaluru HBR,22.0,20.69908066807781,1,1,Karnataka,Karnataka,HBR Bengaluru,Carting,Bengaluru HBR
+55,Humnabad Bidar Narayankhed Zahirabad Gulbarga -- Bidar Narayankhed Zahirabad Hyderabad Humnabad,22.0,256.6077018386736,2,2,Karnataka Telangana,Karnataka Telangana,Humnabad Bidar Narayankhed Zahirabad Gulbarga,FTL,Bidar Narayankhed Zahirabad Hyderabad Humnabad
+56,Motihari Raxaul Muzaffrpur Chakia -- Raxaul Muzaffrpur Chakia Motihari,22.0,197.79631532569155,1,1,Bihar,Bihar,Motihari Raxaul Muzaffrpur Chakia,FTL,Raxaul Muzaffrpur Chakia Motihari
+57,Bangana Nadaun Chandigarh Hamirpur Sujanpur -- Bhota Chandigarh Bangana Sujanpur Nadaun,22.0,255.5225843096684,2,2,Himachal Pradesh Punjab,Himachal Pradesh Punjab,Bangana Nadaun Chandigarh Hamirpur Sujanpur,FTL,Bhota Chandigarh Bangana Sujanpur Nadaun
+58,Ludhiana Jagraon Raikot -- Jagraon Raikot Ludhiana,22.0,85.72436326168489,1,1,Punjab,Punjab,Ludhiana Jagraon Raikot,FTL,Jagraon Raikot Ludhiana
+59,Muzaffrpur Darbhanga Benipur Jhanjharpur -- Darbhanga Benipur Jhanjharpur Muzaffrpur,22.0,177.20299995942452,1,1,Bihar,Bihar,Muzaffrpur Darbhanga Benipur Jhanjharpur,FTL,Darbhanga Benipur Jhanjharpur Muzaffrpur
+60,Trivandrum Neyatinkra Kallikkad Nedumangad -- Neyatinkra Kallikkad Nedumangad Trivandrum,22.0,34.26813193639022,1,1,Kerala,Kerala,Trivandrum Neyatinkra Kallikkad Nedumangad,Carting,Neyatinkra Kallikkad Nedumangad Trivandrum
+61,Delhi Gurgaon -- Gurgaon Pune,22.0,1151.5149396192553,2,2,Haryana Maharashtra,Delhi Haryana,Delhi Gurgaon,FTL,Gurgaon Pune
+62,Chandigarh Gurgaon -- Gurgaon Bengaluru,22.0,1905.7660507664164,2,2,Haryana Karnataka,Punjab Haryana,Chandigarh Gurgaon,FTL,Gurgaon Bengaluru
+63,Muzaffrpur Madhubani Jaynagar -- Madhubani Jaynagar Muzaffrpur,22.0,189.9580738702376,1,1,Bihar,Bihar,Muzaffrpur Madhubani Jaynagar,FTL,Madhubani Jaynagar Muzaffrpur
+64,Madhupur Deoghar Godda Sahebganj Dhanbad Giridih -- Dhanbad Godda Sahebganj Deoghar Giridih Madhupur,21.0,252.07225938617134,1,1,Jharkhand,Jharkhand,Madhupur Deoghar Godda Sahebganj Dhanbad Giridih,FTL,Dhanbad Godda Sahebganj Deoghar Giridih Madhupur
+65,Muzaffrpur Dholi Samastipur HazratJandaha -- Dholi Samastipur HazratJandaha Muzaffrpur,21.0,96.48218753945999,1,1,Bihar,Bihar,Muzaffrpur Dholi Samastipur HazratJandaha,FTL,Dholi Samastipur HazratJandaha Muzaffrpur
+66,Bhatinda Chandigarh -- Chandigarh Bhatinda,21.0,293.43855173303797,1,1,Punjab,Punjab,Bhatinda Chandigarh,FTL,Chandigarh Bhatinda
+67,Biswan Sitapur Lakhimpur Gola -- Sitapur Lakhimpur Gola Dhaurahara,21.0,167.43297409714307,1,1,Uttar Pradesh,Uttar Pradesh,Biswan Sitapur Lakhimpur Gola,FTL,Sitapur Lakhimpur Gola Dhaurahara
+68,Mumbai -- Mumbai,21.0,16.931003466080814,1,1,Maharashtra,Hub Maharashtra,Mumbai,Carting,Mumbai
+69,Gurgaon -- Bengaluru,21.0,1689.8731584720479,1,1,Karnataka,Haryana,Gurgaon,FTL,Bengaluru
+70,Pen Roha Mahad -- Roha Mahad Pen,21.0,126.15909118066213,1,1,Maharashtra,Maharashtra,Pen Roha Mahad,Carting,Roha Mahad Pen
+71,Itarsi Betul Pandhurna Bhopal Hoshangabad -- Betul Pandhurna Sausar Hoshangabad Itarsi,21.0,192.43634054145323,1,1,Madhya Pradesh,Madhya Pradesh,Itarsi Betul Pandhurna Bhopal Hoshangabad,FTL,Betul Pandhurna Sausar Hoshangabad Itarsi
+72,Bhiwandi Nashik -- Nashik Bhiwandi,21.0,231.04505503735237,1,1,Maharashtra,Maharashtra,Bhiwandi Nashik,FTL,Nashik Bhiwandi
+73,Patancheru -- Hyderabad,21.0,29.17604408270342,1,1,Telangana,Telangana,Patancheru,Carting,Hyderabad
+74,Ahmedabad -- Ahmedabad,21.0,29.003756209021724,1,1,Gujarat,Gujarat,Ahmedabad,Carting,Ahmedabad
+75,Chandigarh -- Chandigarh,21.0,73.96841241882373,2,2,Chandigarh Punjab,Chandigarh Punjab,Chandigarh,Carting,Chandigarh
+76,Gurgaon -- Faridabad,21.0,46.984699927936475,1,1,Haryana,Haryana,Gurgaon,Carting,Faridabad
+77,Bhopal Kanpur Auraiya Etawah -- Kanpur Auraiya Etawah Gurgaon,21.0,731.6344557928254,2,2,Uttar Pradesh Haryana,Madhya Pradesh Uttar Pradesh,Bhopal Kanpur Auraiya Etawah,FTL,Kanpur Auraiya Etawah Gurgaon
+78,FBD -- Delhi,21.0,20.154818411232856,1,1,Delhi,Haryana,FBD,Carting,Delhi
+79,Noida Khurja Jewar Pahasu Anupshahar Bulndshahr -- Sikandrabd Jewar Pahasu Anupshahar Noida Khurja,21.0,208.71404315589984,1,1,Uttar Pradesh,Uttar Pradesh,Noida Khurja Jewar Pahasu Anupshahar Bulndshahr,FTL,Sikandrabd Jewar Pahasu Anupshahar Noida Khurja
+80,"Hassan Channaraya Koppa Madikeri Ramanathapura Nagamangala
+ Krishnarajpet -- Channaraya Nagamangala Madikeri Ramanathapura Hassan
+ Krishnarajpet Koppa",21.0,200.49783192236836,1,1,Karnataka,Karnataka,"Hassan Channaraya Koppa Madikeri Ramanathapura Nagamangala
+ Krishnarajpet",FTL,"Channaraya Nagamangala Madikeri Ramanathapura Hassan
+ Krishnarajpet Koppa"
+81,Vijayawada Eluru Kaikaluru HanumanJNC Nuzvid -- Nuzvid Kaikaluru Vijayawada Eluru HanumanJNC,21.0,114.52719592010706,1,1,Andhra Pradesh,Andhra Pradesh,Vijayawada Eluru Kaikaluru HanumanJNC Nuzvid,FTL,Nuzvid Kaikaluru Vijayawada Eluru HanumanJNC
+82,Vijayawada Gudivada Machilipatnam Vuyyuru -- Gudivada Machilipatnam Vijayawada Vuyyuru,21.0,93.62363768960661,1,1,Andhra Pradesh,Andhra Pradesh,Vijayawada Gudivada Machilipatnam Vuyyuru,FTL,Gudivada Machilipatnam Vijayawada Vuyyuru
+83,Gurgaon -- Faridabad,21.0,47.660301239614554,1,1,Haryana,Haryana,Gurgaon,Carting,Faridabad
+84,Gurgaon -- Bengaluru,21.0,1689.7918936277388,1,1,Karnataka,Haryana,Gurgaon,FTL,Bengaluru
+85,Gurgaon -- Delhi,21.0,38.37694306206252,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+86,Baddi Chandigarh Kalka Nalagarh Solan Parwanoo -- Chandigarh Solan Baddi Parwanoo Kalka,21.0,138.01530225455198,3,3,Punjab Himachal Pradesh Haryana,Himachal Pradesh Punjab Haryana,Baddi Chandigarh Kalka Nalagarh Solan Parwanoo,FTL,Chandigarh Solan Baddi Parwanoo Kalka
+87,Muzaffrpur Sitamari Benipatti Sheohar Pupri -- Sheohar Pupri Muzaffrpur Sitamari Benipatti,21.0,134.68993393024746,1,1,Bihar,Bihar,Muzaffrpur Sitamari Benipatti Sheohar Pupri,FTL,Sheohar Pupri Muzaffrpur Sitamari Benipatti
+88,Muzaffrpur Dhaka Bettiah Narktiganj -- Dhaka Bettiah Narktiganj Muzaffrpur,21.0,259.41600707688707,1,1,Bihar,Bihar,Muzaffrpur Dhaka Bettiah Narktiganj,FTL,Dhaka Bettiah Narktiganj Muzaffrpur
+89,Muzaffrpur DalsinghSarai Rusera Manjhaul -- DalsinghSarai Rusera Manjhaul Muzaffrpur,21.0,186.0202850548723,1,1,Bihar,Bihar,Muzaffrpur DalsinghSarai Rusera Manjhaul,FTL,DalsinghSarai Rusera Manjhaul Muzaffrpur
+90,Chandigarh Moga Muktsar Ludhiana -- Moga Muktsar Ludhiana Chandigarh,21.0,387.521841337221,1,1,Punjab,Punjab,Chandigarh Moga Muktsar Ludhiana,FTL,Moga Muktsar Ludhiana Chandigarh
+91,Dhar Ratlam Jaora -- Ratlam Jaora Ahmedabad,21.0,333.38079113459406,1,2,Madhya Pradesh Gujarat,Madhya Pradesh,Dhar Ratlam Jaora,FTL,Ratlam Jaora Ahmedabad
+92,Hyderabad -- Gulbarga,21.0,164.6933326978981,1,1,Karnataka,Telangana,Hyderabad,FTL,Gulbarga
+93,Guntakal Rayadurgam Kalyandurg Anantapur Gooty -- Rayadurgam Kalyandurg Anantapur Gooty Guntakal,21.0,208.66998835841736,1,1,Andhra Pradesh,Andhra Pradesh,Guntakal Rayadurgam Kalyandurg Anantapur Gooty,FTL,Rayadurgam Kalyandurg Anantapur Gooty Guntakal
+94,Bhadrachalam Manuguru Sathupally Khammam -- Manuguru Sathupally Khammam Tallada,21.0,175.04142499174753,1,1,Telangana,Telangana,Bhadrachalam Manuguru Sathupally Khammam,FTL,Manuguru Sathupally Khammam Tallada
+95,Ahmedabad Godhra Dahod -- Godhra Dahod Jhabua,21.0,187.7915730039502,1,2,Gujarat Madhya Pradesh,Gujarat,Ahmedabad Godhra Dahod,FTL,Godhra Dahod Jhabua
+96,"Kazhakkoottam Attingal Kalluvathukal Pangodu Kilimanoor
+ Trivandrum -- Attingal Kalluvathukal Kilimanoor Trivandrum Pangodu",21.0,49.18053805006513,1,1,Kerala,Kerala,"Kazhakkoottam Attingal Kalluvathukal Pangodu Kilimanoor
+ Trivandrum",Carting,Attingal Kalluvathukal Kilimanoor Trivandrum Pangodu
+97,Kamareddy Bodhan Banswada Yellareddy Medak Narsapur -- Bodhan Banswada Yellareddy Medak Narsapur Kamareddy,21.0,177.92332991511879,1,1,Telangana,Telangana,Kamareddy Bodhan Banswada Yellareddy Medak Narsapur,FTL,Bodhan Banswada Yellareddy Medak Narsapur Kamareddy
+98,Kakinada Tuni Rajamundry Mandapeta -- Tuni Rajamundry Mandapeta Kakinada,21.0,166.68913122925088,1,1,Andhra Pradesh,Andhra Pradesh,Kakinada Tuni Rajamundry Mandapeta,FTL,Tuni Rajamundry Mandapeta Kakinada
+99,Delhi -- Chandigarh,21.0,210.095182859591,1,1,Punjab,Delhi,Delhi,FTL,Chandigarh
+100,Sonipat Moradabad Rudrapur -- Moradabad Rudrapur Sonipat,21.0,368.09759561167516,3,3,Uttar Pradesh Uttarakhand Haryana,Haryana Uttar Pradesh Uttarakhand,Sonipat Moradabad Rudrapur,FTL,Moradabad Rudrapur Sonipat
+101,Bhatinda TalwandiSabo Jhunir Mansa -- TalwandiSabo Mansa Bhatinda Jhunir,21.0,101.92531026260724,1,1,Punjab,Punjab,Bhatinda TalwandiSabo Jhunir Mansa,FTL,TalwandiSabo Mansa Bhatinda Jhunir
+102,FBD Palwal -- Palwal FBD,21.0,59.70126391762618,1,1,Haryana,Haryana,FBD Palwal,Carting,Palwal FBD
+103,Puttaprthi Hindupur Madakasira Pavagada -- Hindupur Puttaprthi Madakasira Pavagada,21.0,113.66696039702958,2,2,Andhra Pradesh Karnataka,Andhra Pradesh Karnataka,Puttaprthi Hindupur Madakasira Pavagada,Carting,Hindupur Puttaprthi Madakasira Pavagada
+104,Bengaluru Anantapur -- Anantapur Hyderabad Bengaluru,20.0,382.5941084694477,2,3,Andhra Pradesh Telangana Karnataka,Karnataka Andhra Pradesh,Bengaluru Anantapur,FTL,Anantapur Hyderabad Bengaluru
+105,Jamtara Dumka Pakur Dhanbad -- Dumka Pakur Dhanbad Jamtara,20.0,162.7934457398248,1,1,Jharkhand,Jharkhand,Jamtara Dumka Pakur Dhanbad,FTL,Dumka Pakur Dhanbad Jamtara
+106,Mumbai -- Bhiwandi,20.0,27.124909409880466,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+107,Pune -- Bhiwandi,20.0,101.12406511150212,1,1,Maharashtra,Maharashtra,Pune,FTL,Bhiwandi
+108,Guskhara Panagarh Bolpur Nanoor Durgapur -- Bolpur Guskhara Nanoor Durgapur Panagarh,20.0,113.90525358422592,1,1,West Bengal,West Bengal,Guskhara Panagarh Bolpur Nanoor Durgapur,FTL,Bolpur Guskhara Nanoor Durgapur Panagarh
+109,Alwar Bharatpur Weir Kherli -- Bharatpur Bayana Kherli Alwar,20.0,131.4201235035951,1,1,Rajasthan,Rajasthan,Alwar Bharatpur Weir Kherli,FTL,Bharatpur Bayana Kherli Alwar
+110,Bhopal -- Bhopal,20.0,17.379471755734777,1,1,Madhya Pradesh,Madhya Pradesh,Bhopal,Carting,Bhopal
+111,Ahmedabad -- Ahmedabad,20.0,26.073180021715324,1,1,Gujarat,Gujarat,Ahmedabad,Carting,Ahmedabad
+112,Bengaluru -- Bengaluru,20.0,10.433661497475397,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+113,Bhiwandi -- Mumbai,20.0,22.932675585826267,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+114,Kanpur -- Kanpur,20.0,20.756462487107328,1,1,Uttar Pradesh,Uttar Pradesh,Kanpur,Carting,Kanpur
+115,Gurgaon -- GGN,20.0,29.573333924793815,1,1,Haryana,Haryana,Gurgaon,Carting,GGN
+116,Kanpur Bewar Ghatampur -- Ghatampur Kanpur Hamirpur,20.0,104.26249046808968,1,1,Uttar Pradesh,Uttar Pradesh,Kanpur Bewar Ghatampur,Carting,Ghatampur Kanpur Hamirpur
+117,Gurgaon -- Delhi,20.0,32.539499980239455,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+118,Warangal Khanpur Mahbubabad Yellandu Rayaparthi -- Khanpur Mahbubabad Yellandu Rayaparthi Warangal,20.0,161.27928622337492,1,1,Telangana,Telangana,Warangal Khanpur Mahbubabad Yellandu Rayaparthi,FTL,Khanpur Mahbubabad Yellandu Rayaparthi Warangal
+119,Chandigarh -- Chandigarh Zirakpur,20.0,44.69010295495441,2,1,Punjab,Chandigarh Punjab,Chandigarh,Carting,Chandigarh Zirakpur
+120,Aurangabad -- Aurangabad,20.0,22.36375712877022,1,1,Maharashtra,Maharashtra,Aurangabad,Carting,Aurangabad
+121,Bengaluru -- Bengaluru,20.0,35.36214283629246,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+122,FBD -- Palwal,20.0,38.08871227778923,1,1,Haryana,Haryana,FBD,Carting,Palwal
+123,Bengaluru -- Bengaluru,20.0,27.573082292460658,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+124,Bhiwandi -- Akola,20.0,448.01354741004127,1,1,Maharashtra,Maharashtra,Bhiwandi,FTL,Akola
+125,Ahmedabad Gandhinagar Amd -- Amd Ahmedabad Gandhinagar,20.0,61.58350935025119,1,1,Gujarat,Gujarat,Ahmedabad Gandhinagar Amd,Carting,Amd Ahmedabad Gandhinagar
+126,Delhi -- Delhi,20.0,16.016706883300124,1,1,Delhi,Delhi,Delhi,Carting,Delhi
+127,Chandigarh Gurgaon -- Gurgaon Bhiwandi,20.0,1170.8179265189488,2,2,Haryana Maharashtra,Punjab Haryana,Chandigarh Gurgaon,FTL,Gurgaon Bhiwandi
+128,Hubli Ramdurg Bagalkot Rona Gadag -- Ramdurg Bagalkot Rona Gadag Hubli,20.0,237.8316811327773,1,1,Karnataka,Karnataka,Hubli Ramdurg Bagalkot Rona Gadag,FTL,Ramdurg Bagalkot Rona Gadag Hubli
+129,Pali -- Ajmer,20.0,145.4841860937566,1,1,Rajasthan,Rajasthan,Pali,Carting,Ajmer
+130,Hyderabad -- Hyderabad,20.0,21.77643858507266,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+131,Kanpur Unnao -- Unnao Kanpur,20.0,46.37458880609235,1,1,Uttar Pradesh,Uttar Pradesh,Kanpur Unnao,Carting,Unnao Kanpur
+132,"Jaipur Chomu Reengus Sikar Bikaner Didwana Sujangarh
+ Nokha Nagaur Tarnau -- Chomu Reengus Sikar Bikaner Nokha Sujangarh Jaipur Nagaur
+ Didwana Tarnau",20.0,351.61179571973815,1,1,Rajasthan,Rajasthan,"Jaipur Chomu Reengus Sikar Bikaner Didwana Sujangarh
+ Nokha Nagaur Tarnau",FTL,"Chomu Reengus Sikar Bikaner Nokha Sujangarh Jaipur Nagaur
+ Didwana Tarnau"
+133,Gurgaon -- Jaipur,20.0,195.87877669038258,1,1,Rajasthan,Haryana,Gurgaon,FTL,Jaipur
+134,Hubli Bailhongal Saundatti Gokak Dharwad -- Dharwad Gokak Bailhongal Hubli,20.0,84.23514315767282,1,1,Karnataka,Karnataka,Hubli Bailhongal Saundatti Gokak Dharwad,FTL,Dharwad Gokak Bailhongal Hubli
+135,"Ajmer Beawar Bilara Bijainagar Kekri Nasirabad Asind
+ Badnaur Raipur -- Beawar Bilara Badnaur Kekri Nasirabad Ajmer Bijainagar
+ Raipur",20.0,178.73723332414548,1,1,Rajasthan,Rajasthan,"Ajmer Beawar Bilara Bijainagar Kekri Nasirabad Asind
+ Badnaur Raipur",FTL,"Beawar Bilara Badnaur Kekri Nasirabad Ajmer Bijainagar
+ Raipur"
+136,"Shrirampur Shirdi Kopargaon Vaijiapur Nashik Sinnar
+ Sangamner -- Shirdi Kopargaon Vaijiapur Nashik Shrirampur Sinnar
+ Sangamner",20.0,204.5095291382335,1,1,Maharashtra,Maharashtra,"Shrirampur Shirdi Kopargaon Vaijiapur Nashik Sinnar
+ Sangamner",Carting,"Shirdi Kopargaon Vaijiapur Nashik Shrirampur Sinnar
+ Sangamner"
+137,Ludhiana Khanna Mandi SirhindFatehgarh Rajpura -- Khanna Ludhiana Rajpura Mandi SirhindFatehgarh,20.0,67.45704887614546,1,1,Punjab,Punjab,Ludhiana Khanna Mandi SirhindFatehgarh Rajpura,FTL,Khanna Ludhiana Rajpura Mandi SirhindFatehgarh
+138,Atmakur Srisailam Kurnool Nandikotkr -- Srisailam Kurnool Nandikotkr Atmakur,20.0,141.57220575066722,1,1,Andhra Pradesh,Andhra Pradesh,Atmakur Srisailam Kurnool Nandikotkr,FTL,Srisailam Kurnool Nandikotkr Atmakur
+139,Bengaluru -- Bengaluru,20.0,41.54163758158072,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+140,Karimnagar Chinnur Manthani Ramagundam -- Ramagundam Manthani Karimnagar Chinnur Peddapalli,20.0,76.47092868985717,1,1,Telangana,Telangana,Karimnagar Chinnur Manthani Ramagundam,FTL,Ramagundam Manthani Karimnagar Chinnur Peddapalli
+141,Ahmedabad Gandhinagar Amd -- Amd Ahmedabad Gandhinagar,19.0,48.12476008385912,1,1,Gujarat,Gujarat,Ahmedabad Gandhinagar Amd,Carting,Amd Ahmedabad Gandhinagar
+142,Ranchi Bokaro Phusro Peterbar -- Bokaro Peterbar Phusro Ranchi,19.0,109.7270839376442,1,1,Jharkhand,Jharkhand,Ranchi Bokaro Phusro Peterbar,Carting,Bokaro Peterbar Phusro Ranchi
+143,MAA -- Chennai,19.0,34.42565421828793,1,1,Tamil Nadu,Tamil Nadu,MAA,Carting,Chennai
+144,Ahmedabad -- Ahmedabad,19.0,24.23584099647792,1,1,Gujarat,Gujarat,Ahmedabad,Carting,Ahmedabad
+145,Bengaluru -- Bengaluru,19.0,34.19900453183078,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+146,Mumbai -- Bhiwandi,19.0,21.510987659854877,1,1,Maharashtra,Hub Maharashtra,Mumbai,Carting,Bhiwandi
+147,Mumbai -- Mumbai,19.0,17.089211797796327,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+148,Bhiwandi Mumbai -- Mumbai Bhiwandi,19.0,17.41830825752287,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+149,Hubli Khanapur Kittur Belgaum -- Belgaum Hubli Kittur Khanapur,19.0,131.6251121359039,1,1,Karnataka,Karnataka,Hubli Khanapur Kittur Belgaum,FTL,Belgaum Hubli Kittur Khanapur
+150,Bhiwandi Mumbai -- Mumbai Bhiwandi,19.0,28.5172841139472,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+151,Nawalgarh Rajgarh Taranagar Sikar Pilani -- Pilani Taranagar Sikar Nawalgarh Rajgarh,19.0,112.8165938691241,1,1,Rajasthan,Rajasthan,Nawalgarh Rajgarh Taranagar Sikar Pilani,FTL,Pilani Taranagar Sikar Nawalgarh Rajgarh
+152,Bengaluru -- Bengaluru,19.0,10.488713989118146,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+153,Surat -- Surat,19.0,15.56291785057503,1,1,Gujarat,Gujarat,Surat,Carting,Surat
+154,Bhiwandi -- Delhi,19.0,1114.2146702968728,1,1,Delhi,Maharashtra,Bhiwandi,FTL,Delhi
+155,Del -- Sonipat,19.0,40.936321813705476,1,1,Haryana,Delhi,Del,Carting,Sonipat
+156,Gurgaon -- Delhi,19.0,45.9885464480844,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+157,Gurgaon -- Delhi,19.0,33.45550197777104,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+158,Bhadrak Kendujhar Karanjia Barbil Joda -- Joda Karanjia Bhadrak Kendujhar Barbil,19.0,230.36360282593728,1,1,Orissa,Orissa,Bhadrak Kendujhar Karanjia Barbil Joda,FTL,Joda Karanjia Bhadrak Kendujhar Barbil
+159,Chhatarpur Tikamgarh Satna Panna -- Tikamgarh Satna Chhatarpur Panna,19.0,292.0929347702137,1,1,Madhya Pradesh,Madhya Pradesh,Chhatarpur Tikamgarh Satna Panna,FTL,Tikamgarh Satna Chhatarpur Panna
+160,Gurgaon -- Delhi,19.0,61.11810240822029,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+161,Ahmedabad -- Ahmedabad,19.0,23.83853420480188,1,1,Gujarat,Gujarat,Ahmedabad,Carting,Ahmedabad
+162,Hyderabad Kurnool -- Kurnool Bengaluru,19.0,390.99958024585703,2,2,Andhra Pradesh Karnataka,Telangana Andhra Pradesh,Hyderabad Kurnool,FTL,Kurnool Bengaluru
+163,Gurgaon Loharu ChrkhiDdri Jhajjar Bhiwani -- Jhajjar ChrkhiDdri Gurgaon Bhiwani Loharu,19.0,128.53477252541197,1,1,Haryana,Haryana,Gurgaon Loharu ChrkhiDdri Jhajjar Bhiwani,FTL,Jhajjar ChrkhiDdri Gurgaon Bhiwani Loharu
+164,Ranchi -- Dhanbad,19.0,120.07836781529025,1,1,Jharkhand,Jharkhand,Ranchi,Carting,Dhanbad
+165,Mumbai -- Bhiwandi,19.0,21.50850443860566,1,1,Maharashtra,Hub Maharashtra,Mumbai,Carting,Bhiwandi
+166,"Musiri Thuraiyur Perambalur Ariyalur Lalpet Jayamkondan
+ Kulithalai -- Thuraiyur Perambalur Ariyalur Jayamkondan Kulithalai Lalpet
+ Tiruchi",19.0,219.84512096769882,1,1,Tamil Nadu,Tamil Nadu,"Musiri Thuraiyur Perambalur Ariyalur Lalpet Jayamkondan
+ Kulithalai",FTL,"Thuraiyur Perambalur Ariyalur Jayamkondan Kulithalai Lalpet
+ Tiruchi"
+167,Hapur GZB Pilkhuwa -- GZB Pilkhuwa Hapur,19.0,68.00542382233812,1,1,Uttar Pradesh,Uttar Pradesh,Hapur GZB Pilkhuwa,Carting,GZB Pilkhuwa Hapur
+168,Bhopal -- Bhopal,19.0,14.343240423301964,1,1,Madhya Pradesh,Madhya Pradesh,Bhopal,Carting,Bhopal
+169,MAA Chennai -- Chennai MAA,19.0,41.3030389310426,1,1,Tamil Nadu,Tamil Nadu,MAA Chennai,Carting,Chennai MAA
+170,Ludhiana Jalandhar -- Jalandhar Amritsar,19.0,129.28915417427098,1,1,Punjab,Punjab,Ludhiana Jalandhar,FTL,Jalandhar Amritsar
+171,Bengaluru -- Bengaluru,19.0,28.017785282046912,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+172,Gurgaon -- Sonipat,19.0,69.96866561560665,1,1,Haryana,Haryana,Gurgaon,Carting,Sonipat
+173,Bhiwandi -- Mumbai,19.0,16.45916860215348,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+174,Mumbai -- Mumbai,19.0,10.919129155550312,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+175,Mumbai -- Nalasopara Mumbai,19.0,29.88209368175005,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Nalasopara Mumbai
+176,Junagadh Veraval Kodinar Una Talala Mangrol -- Junagadh Kodinar Una Talala Mangrol Veraval,19.0,179.53859606080465,1,1,Gujarat,Gujarat,Junagadh Veraval Kodinar Una Talala Mangrol,Carting,Junagadh Kodinar Una Talala Mangrol Veraval
+177,Delhi -- FBD,19.0,19.968008833079416,1,1,Haryana,Delhi,Delhi,Carting,FBD
+178,Gurgaon -- GGN,19.0,29.54713311711355,1,1,Haryana,Haryana,Gurgaon,Carting,GGN
+179,Mumbai -- Mumbai,19.0,17.617532377928775,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+180,Tirupati Puttur Koduru Rajampet -- Puttur Koduru Rajampet Tirupati,19.0,177.32716662228032,1,1,Andhra Pradesh,Andhra Pradesh,Tirupati Puttur Koduru Rajampet,Carting,Puttur Koduru Rajampet Tirupati
+181,Bengaluru -- Bengaluru,19.0,31.80716774276172,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+182,Makrana Degana Merta Ajmer Kishangarh Parbatsar -- Degana Merta Ajmer Kishangarh Parbatsar Makrana,19.0,131.91646153831778,1,1,Rajasthan,Rajasthan,Makrana Degana Merta Ajmer Kishangarh Parbatsar,FTL,Degana Merta Ajmer Kishangarh Parbatsar Makrana
+183,Jaipur -- Jaipur,19.0,24.703338450733167,1,1,Rajasthan,Rajasthan,Jaipur,Carting,Jaipur
+184,Ahmedabad -- Ahmedabad,19.0,25.511464287797622,1,1,Gujarat,Gujarat,Ahmedabad,Carting,Ahmedabad
+185,Delhi -- Gurgaon,18.0,46.324555742076704,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+186,Chennai -- Chennai,18.0,34.2076974260714,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+187,Coimbatore Udumalpet Pollachi -- Udumalpet Pollachi Coimbatore,18.0,134.6804793837247,1,1,Tamil Nadu,Tamil Nadu,Coimbatore Udumalpet Pollachi,Carting,Udumalpet Pollachi Coimbatore
+188,Delhi -- Gurgaon,18.0,46.20547291922624,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+189,Delhi Kanpur -- Kanpur Allahabad,18.0,564.6127367516489,2,1,Uttar Pradesh,Delhi Uttar Pradesh,Delhi Kanpur,FTL,Kanpur Allahabad
+190,Kurnool Nandyal Betamcherla Bngnpalle Dhone -- Nandyal Bngnpalle Kurnool Betamcherla Dhone,18.0,119.25327842259341,1,1,Andhra Pradesh,Andhra Pradesh,Kurnool Nandyal Betamcherla Bngnpalle Dhone,FTL,Nandyal Bngnpalle Kurnool Betamcherla Dhone
+191,Vadodara -- Anand,18.0,33.349457940598924,1,1,Gujarat,Gujarat,Vadodara,Carting,Anand
+192,SrinagarUK Karnaprayag Chamoli -- Karnaprayag Chamoli SrinagarUK,18.0,95.57959404069337,1,1,Uttarakhand,Uttarakhand,SrinagarUK Karnaprayag Chamoli,FTL,Karnaprayag Chamoli SrinagarUK
+193,Kolkata Bagnan Kolaghat Ghatal -- Bagnan Kolaghat Panskura Kolkata,18.0,104.81452353418939,1,1,West Bengal,West Bengal,Kolkata Bagnan Kolaghat Ghatal,Carting,Bagnan Kolaghat Panskura Kolkata
+194,Chhata Kaman -- Kaman FBD,18.0,71.38297952717986,2,2,Rajasthan Haryana,Uttar Pradesh Rajasthan,Chhata Kaman,Carting,Kaman FBD
+195,Gurgaon -- Bhopal,18.0,562.9570494722188,1,1,Madhya Pradesh,Haryana,Gurgaon,FTL,Bhopal
+196,Bengaluru -- Bengaluru,18.0,31.090644997021254,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+197,Haridwar Kotdwara -- Kotdwara Haridwar,18.0,75.12494454863565,1,1,Uttarakhand,Uttarakhand,Haridwar Kotdwara,FTL,Kotdwara Haridwar
+198,Chennai -- MAA,18.0,31.426689101875542,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,MAA
+199,Rudrapur Ramnagar Kashipur -- Ramnagar Kashipur Rudrapur,18.0,123.36078362179336,1,1,Uttarakhand,Uttarakhand,Rudrapur Ramnagar Kashipur,FTL,Ramnagar Kashipur Rudrapur
+200,Jalandhar Chandigarh Ludhiana -- Ludhiana Jalandhar Chandigarh,18.0,199.81552842909161,2,1,Punjab,Road Punjab Punjab,Jalandhar Chandigarh Ludhiana,FTL,Ludhiana Jalandhar Chandigarh
+201,Delhi -- Bhiwandi,18.0,1114.1821965403951,1,1,Maharashtra,Delhi,Delhi,FTL,Bhiwandi
+202,Bhiwandi Mumbai -- Mumbai Bhiwandi,18.0,22.73714664267863,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+203,Gurgaon -- Sasaram,18.0,804.2106701511767,1,1,Bihar,Haryana,Gurgaon,FTL,Sasaram
+204,Mumbai -- Mumbai,18.0,17.777542116321545,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+205,Kolkata Hooghly Hoogly -- Hooghly Kolkata Hoogly,18.0,41.71612379644578,1,1,West Bengal,West Bengal,Kolkata Hooghly Hoogly,Carting,Hooghly Kolkata Hoogly
+206,Karimnagar Kaghaznagar Mancherial Asifabad Bellmpalli -- Mancherial Karimnagar Bellmpalli Asifabad Kaghaznagar,18.0,129.91451023614206,1,1,Telangana,Telangana,Karimnagar Kaghaznagar Mancherial Asifabad Bellmpalli,FTL,Mancherial Karimnagar Bellmpalli Asifabad Kaghaznagar
+207,Boisar Dahanu -- Dahanu Boisar,18.0,38.54344427562279,1,1,Maharashtra,Maharashtra,Boisar Dahanu,Carting,Dahanu Boisar
+208,Delhi Janakpuri -- Janakpuri Delhi,18.0,16.027530349093183,1,1,Delhi,Delhi,Delhi Janakpuri,Carting,Janakpuri Delhi
+209,Parakkdavu Mundakayam Karukachal -- Mundakayam Karukachal Parakkdavu Kottayam,18.0,23.422071378074513,1,1,Kerala,Kerala,Parakkdavu Mundakayam Karukachal,Carting,Mundakayam Karukachal Parakkdavu Kottayam
+210,Delhi Gurgaon -- Gurgaon Kolkata,18.0,1263.1132114856546,2,2,Haryana West Bengal,Delhi Haryana,Delhi Gurgaon,FTL,Gurgaon Kolkata
+211,Bengaluru Bhubaneshwar -- Bhubaneshwar Kolkata,18.0,1567.5775073229772,2,2,Orissa West Bengal,Karnataka Orissa,Bengaluru Bhubaneshwar,FTL,Bhubaneshwar Kolkata
+212,Jamnagar Khambhalia Bhatiya Dwarka -- Khambhalia Bhatiya Dwarka Rajkot,18.0,100.27071622028542,1,1,Gujarat,Gujarat,Jamnagar Khambhalia Bhatiya Dwarka,FTL,Khambhalia Bhatiya Dwarka Rajkot
+213,Bengaluru -- Bengaluru,18.0,28.15583967527745,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+214,Gurgaon -- Sonipat,18.0,70.70500961450196,1,1,Haryana,Haryana,Gurgaon,Carting,Sonipat
+215,Junagadh Porbandar Jamjodhpur Bhanvad -- Porbandar Bhanvad Junagadh Jamjodhpur,18.0,139.49277856027587,1,1,Gujarat,Gujarat,Junagadh Porbandar Jamjodhpur Bhanvad,Carting,Porbandar Bhanvad Junagadh Jamjodhpur
+216,Pune -- Gurgaon,18.0,1120.729445880629,1,1,Haryana,Maharashtra,Pune,FTL,Gurgaon
+217,Balotra Pokhran Phalodi Barmer Jaisalmer Jodhpur -- Barmer Phalodi Jodhpur Jaisalmer Pokhran Balotra,18.0,332.0340221422344,1,1,Rajasthan,Rajasthan,Balotra Pokhran Phalodi Barmer Jaisalmer Jodhpur,FTL,Barmer Phalodi Jodhpur Jaisalmer Pokhran Balotra
+218,Hyderabad Warangal Ghanpur Jangaon -- Warangal Ghanpur Jangaon Hyderabad,18.0,266.37117250543355,1,1,Telangana,Telangana,Hyderabad Warangal Ghanpur Jangaon,FTL,Warangal Ghanpur Jangaon Hyderabad
+219,Bhiwandi Sonipat -- Sonipat Chandigarh,18.0,1129.6097046756192,2,2,Haryana Punjab,Maharashtra Haryana,Bhiwandi Sonipat,FTL,Sonipat Chandigarh
+220,Muzaffrpur Kanti Saraiya -- Kanti Saraiya Muzaffrpur,18.0,45.53792755604781,1,1,Bihar,Bihar,Muzaffrpur Kanti Saraiya,Carting,Kanti Saraiya Muzaffrpur
+221,Bengaluru -- Bengaluru,18.0,10.429366974617116,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+222,Jalandhar Phagwara -- Phagwara Jalandhar,18.0,19.8953235717082,1,1,Punjab,Punjab,Jalandhar Phagwara,Carting,Phagwara Jalandhar
+223,Buxar Dumraon Jagdishpur Sasaram -- Dumraon Jagdishpur Sasaram Buxar,18.0,104.39343308983575,1,1,Bihar,Bihar,Buxar Dumraon Jagdishpur Sasaram,FTL,Dumraon Jagdishpur Sasaram Buxar
+224,Chennai -- MAA,18.0,31.564109096480667,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,MAA
+225,Guwahati -- Kolkata Delhi,18.0,1411.2084238132204,1,2,West Bengal Delhi,Assam,Guwahati,FTL,Kolkata Delhi
+226,Gurgaon -- GGN,18.0,29.68134182383261,1,1,Haryana,Haryana,Gurgaon,Carting,GGN
+227,Mumbai -- Bhiwandi,18.0,20.032646398536563,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+228,Hyderabad Kadthal Kalwakurthy Devarakonda Haliya -- Kadthal Kalwakurthy Devarakonda Haliya Hyderabad,18.0,198.78046089478036,1,1,Telangana,Telangana,Hyderabad Kadthal Kalwakurthy Devarakonda Haliya,FTL,Kadthal Kalwakurthy Devarakonda Haliya Hyderabad
+229,Sonari Sivasagar -- Sivasagar Sonari,18.0,38.566464922746675,1,1,Assam,Assam,Sonari Sivasagar,Carting,Sivasagar Sonari
+230,Surat -- Delhi,18.0,931.9808211513217,1,1,Delhi,Gujarat,Surat,FTL,Delhi
+231,Gorakhpur Deoria Kushinagar Padrauna Kaptanganj Salempur -- Deoria Salempur Padrauna Kaptanganj Gorakhpur Kushinagar,18.0,148.27988522711587,1,1,Uttar Pradesh,Uttar Pradesh,Gorakhpur Deoria Kushinagar Padrauna Kaptanganj Salempur,FTL,Deoria Salempur Padrauna Kaptanganj Gorakhpur Kushinagar
+232,Gorakhpur Sahatwar Bariya Ratanpura Sikandarpur -- Sikandarpur Bariya Ratanpura Gorakhpur Sahatwar,18.0,212.72685336813433,1,1,Uttar Pradesh,Uttar Pradesh,Gorakhpur Sahatwar Bariya Ratanpura Sikandarpur,FTL,Sikandarpur Bariya Ratanpura Gorakhpur Sahatwar
+233,Sonipat -- Gurgaon,17.0,71.95184782858702,1,1,Haryana,Haryana,Sonipat,Carting,Gurgaon
+234,FBD Faridabad -- Faridabad FBD,17.0,19.548507394443032,1,1,Haryana,Haryana,FBD Faridabad,Carting,Faridabad FBD
+235,Coimbatore Kotagiri Ooty Coonoor Gudalur -- Coonoor Ooty Gudalur Kotagiri Coimbatore,17.0,88.51009753679902,1,1,Tamil Nadu,Tamil Nadu,Coimbatore Kotagiri Ooty Coonoor Gudalur,Carting,Coonoor Ooty Gudalur Kotagiri Coimbatore
+236,GGN -- Gurgaon,17.0,29.79507173798001,1,1,Haryana,Haryana,GGN,Carting,Gurgaon
+237,Rudrapur Nainital Ranikhet Almora Pithorgarh -- Nainital Ranikhet Almora Pithorgarh Rudrapur,17.0,165.51322902390973,1,1,Uttarakhand,Uttarakhand,Rudrapur Nainital Ranikhet Almora Pithorgarh,FTL,Nainital Ranikhet Almora Pithorgarh Rudrapur
+238,Gurgaon -- Ahmedabad,17.0,735.5504501901656,1,1,Gujarat,Haryana,Gurgaon,FTL,Ahmedabad
+239,Pune -- Pune,17.0,21.94865558451499,1,1,Maharashtra,Maharashtra,Pune,Carting,Pune
+240,Madurai Sivakasi Sankaran Maharajapuram Rajpalayam -- Sivakasi Sankaran Rajpalayam Madurai Maharajapuram,17.0,174.51114142534493,1,1,Tamil Nadu,Tamil Nadu,Madurai Sivakasi Sankaran Maharajapuram Rajpalayam,FTL,Sivakasi Sankaran Rajpalayam Madurai Maharajapuram
+241,Delhi -- Gurgaon,17.0,32.97078865230509,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+242,HBR Bengaluru -- Bengaluru HBR,17.0,21.028436052579917,1,1,Karnataka,Karnataka,HBR Bengaluru,Carting,Bengaluru HBR
+243,BOM -- LowerParel,17.0,15.486131147027121,1,1,Maharashtra,Maharashtra,BOM,Carting,LowerParel
+244,Salem Tirchngode -- Tirchngode Mettur,17.0,83.23061756998041,1,1,Tamil Nadu,Tamil Nadu,Salem Tirchngode,Carting,Tirchngode Mettur
+245,Chandigarh BilaspurHP SundarNgr Mandi Kullu -- BilaspurHP SundarNgr Mandi Kullu Chandigarh,17.0,193.80095065304133,2,2,Himachal Pradesh Punjab,Punjab Himachal Pradesh,Chandigarh BilaspurHP SundarNgr Mandi Kullu,FTL,BilaspurHP SundarNgr Mandi Kullu Chandigarh
+246,Bengaluru -- Bengaluru,17.0,28.05594748250433,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+247,Gurgaon -- Delhi,17.0,62.94344109108103,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+248,Islampur Karad Chiplun Khed Kolhapur -- Karad Chiplun Khed Kolhapur Islampur,17.0,156.0095041830127,1,1,Maharashtra,Maharashtra,Islampur Karad Chiplun Khed Kolhapur,FTL,Karad Chiplun Khed Kolhapur Islampur
+249,Guna Ashokngr -- Guna Ashokngr,17.0,95.40722061935475,1,1,Madhya Pradesh,Madhya Pradesh,Guna Ashokngr,FTL,Guna Ashokngr
+250,Thiruvarur Thirthurpondi Pushpavanam -- Thirthurpondi Pushpavanam Thiruvarur,17.0,82.10343940313976,1,1,Tamil Nadu,Tamil Nadu,Thiruvarur Thirthurpondi Pushpavanam,Carting,Thirthurpondi Pushpavanam Thiruvarur
+251,Bilimora Vansda -- Vansda Bilimora,17.0,57.158576351701576,1,1,Gujarat,Gujarat,Bilimora Vansda,Carting,Vansda Bilimora
+252,Pune -- PNQ,17.0,21.320454573293834,1,1,Maharashtra,Maharashtra,Pune,Carting,PNQ
+253,FBD -- Gurgaon,17.0,46.34470715349507,1,1,Haryana,Haryana,FBD,Carting,Gurgaon
+254,Bengaluru -- Bengaluru,17.0,42.28972443169045,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+255,Tirpur Dharapuram Kangayam Tirupur Avinashi -- Dharapuram Kangayam Tirupur Avinashi Tirpur,17.0,107.97124477880023,1,1,Tamil Nadu,Tamil Nadu,Tirpur Dharapuram Kangayam Tirupur Avinashi,Carting,Dharapuram Kangayam Tirupur Avinashi Tirpur
+256,Bhopal -- Bhopal,17.0,18.34783999326786,1,1,Madhya Pradesh,Madhya Pradesh,Bhopal,Carting,Bhopal
+257,FBD Faridabad -- Faridabad FBD,17.0,10.336929000742131,1,1,Haryana,Haryana,FBD Faridabad,Carting,Faridabad FBD
+258,Bengaluru -- Bengaluru,17.0,28.032800023958558,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+259,Silchar -- Guwahati,17.0,175.76337277221344,1,1,Assam,Assam,Silchar,FTL,Guwahati
+260,Naraingarh Lalru Chandigarh -- Lalru Chandigarh Naraingarh,17.0,39.1533543649324,2,2,Punjab Haryana,Haryana Punjab,Naraingarh Lalru Chandigarh,Carting,Lalru Chandigarh Naraingarh
+261,Dausa Hindaun Karauli Gangapur Jaipur Bassi Lalsot -- Hindaun Karauli Gangapur Jaipur Bassi Dausa Lalsot,17.0,232.40831012992058,1,1,Rajasthan,Rajasthan,Dausa Hindaun Karauli Gangapur Jaipur Bassi Lalsot,Carting,Hindaun Karauli Gangapur Jaipur Bassi Dausa Lalsot
+262,Tirupati Sriklahsti Venktagiri Gudur -- Sriklahsti Venktagiri Gudur Tirupati,17.0,153.8658656738082,1,1,Andhra Pradesh,Andhra Pradesh,Tirupati Sriklahsti Venktagiri Gudur,FTL,Sriklahsti Venktagiri Gudur Tirupati
+263,Bengaluru -- Bengaluru,17.0,41.498607893988435,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+264,Nadiad Umreth Anand -- Umreth Anand Nadiad,17.0,49.984536626914384,1,1,Gujarat,Gujarat,Nadiad Umreth Anand,Carting,Umreth Anand Nadiad
+265,Hospet Gangavathi Koppal -- Gangavathi Koppal Hospet,17.0,79.30218899652768,1,1,Karnataka,Karnataka,Hospet Gangavathi Koppal,Carting,Gangavathi Koppal Hospet
+266,Chandigarh -- Gurgaon,17.0,236.73887620875811,1,1,Haryana,Punjab,Chandigarh,FTL,Gurgaon
+267,Gurgaon -- Sonipat,17.0,70.59735424475063,1,1,Haryana,Haryana,Gurgaon,Carting,Sonipat
+268,Rajamundry Amalapuram Draksharamam Palakollu Razole -- Palakollu Draksharamam Rajamundry Amalapuram Razole,17.0,93.98444699264294,1,1,Andhra Pradesh,Andhra Pradesh,Rajamundry Amalapuram Draksharamam Palakollu Razole,FTL,Palakollu Draksharamam Rajamundry Amalapuram Razole
+269,Rampur Bareilly Faridpur -- Bareilly Faridpur Rampur,17.0,137.41070985141937,1,1,Uttar Pradesh,Uttar Pradesh,Rampur Bareilly Faridpur,FTL,Bareilly Faridpur Rampur
+270,Muzaffrngr Deoband Dehradun Sonipat -- Deoband Dehradun Sonipat Muzaffrngr,17.0,261.64827391720246,3,3,Uttar Pradesh Uttarakhand Haryana,Uttar Pradesh Uttarakhand Haryana,Muzaffrngr Deoband Dehradun Sonipat,FTL,Deoband Dehradun Sonipat Muzaffrngr
+271,Mumbai -- Mumbai,17.0,14.07251428833203,1,1,Maharashtra,Hub Maharashtra,Mumbai,Carting,Mumbai
+272,Mumbai -- Mumbai,17.0,9.41532813216256,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+273,Nichlaul Gorakhpur Anandnagar Maharajganj -- Gorakhpur Anandnagar Maharajganj Nichlaul,17.0,87.41207872973143,1,1,Uttar Pradesh,Uttar Pradesh,Nichlaul Gorakhpur Anandnagar Maharajganj,Carting,Gorakhpur Anandnagar Maharajganj Nichlaul
+274,Bijnor Najibabad Dhampur Kanth Thakurdwara Rampur Chandpur -- Najibabad Dhampur Kanth Thakurdwara Rampur Chandpur Bijnor,17.0,209.40068453936988,1,1,Uttar Pradesh,Uttar Pradesh,Bijnor Najibabad Dhampur Kanth Thakurdwara Rampur Chandpur,FTL,Najibabad Dhampur Kanth Thakurdwara Rampur Chandpur Bijnor
+275,Bengaluru -- Bengaluru,17.0,27.99781542016764,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+276,Sonipat Kurukshetra Pehowa Kaithal Safidon -- Kurukshetra Pehowa Kaithal Assandh Sonipat,17.0,254.1563671984189,1,1,Haryana,Haryana,Sonipat Kurukshetra Pehowa Kaithal Safidon,FTL,Kurukshetra Pehowa Kaithal Assandh Sonipat
+277,Tirunelveli Eral Tirchchndr Thisayanvilai Peikulam -- Eral Tirchchndr Thisayanvilai Peikulam Tirunelveli,17.0,129.9811359526947,1,1,Tamil Nadu,Tamil Nadu,Tirunelveli Eral Tirchchndr Thisayanvilai Peikulam,Carting,Eral Tirchchndr Thisayanvilai Peikulam Tirunelveli
+278,FBD Faridabad -- Faridabad FBD,17.0,23.386042385690224,1,1,Haryana,Haryana,FBD Faridabad,Carting,Faridabad FBD
+279,FBD -- Gurgaon,17.0,47.10016185857654,1,1,Haryana,Haryana,FBD,Carting,Gurgaon
+280,Gurgaon -- Delhi,17.0,54.27156597207069,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+281,Chandausi Rampur Sambhal Aonla -- Rampur Sambhal Chandausi Aonla,17.0,116.45634642228552,1,1,Uttar Pradesh,Uttar Pradesh,Chandausi Rampur Sambhal Aonla,FTL,Rampur Sambhal Chandausi Aonla
+282,Jalandhar Kapurthala Nakodar -- Nakodar Kapurthala Jalandhar,17.0,42.25044778911184,1,1,Punjab,Punjab,Jalandhar Kapurthala Nakodar,FTL,Nakodar Kapurthala Jalandhar
+283,Warangal Husnabad Jammikunta -- Husnabad Jammikunta Warangal,17.0,90.41742376490913,1,1,Telangana,Telangana,Warangal Husnabad Jammikunta,FTL,Husnabad Jammikunta Warangal
+284,Mumbai -- Bhiwandi Mumbai,16.0,21.588141214256165,1,1,Maharashtra,Hub Maharashtra,Mumbai,Carting,Bhiwandi Mumbai
+285,Bengaluru -- Bengaluru,16.0,32.000053743195515,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+286,Jalandhar Ludhiana -- Chandigarh Ludhiana,16.0,147.70487438870566,2,1,Punjab,Road Punjab Punjab,Jalandhar Ludhiana,Carting,Chandigarh Ludhiana
+287,Gurgaon -- Chandigarh,16.0,236.85806081490634,1,1,Punjab,Haryana,Gurgaon,FTL,Chandigarh
+288,Dehradun Mussoorie -- Mussoorie Dehradun,16.0,38.67327105574277,1,1,Uttarakhand,Uttarakhand,Dehradun Mussoorie,FTL,Mussoorie Dehradun
+289,Kolkata Ranchi -- Ranchi Gurgaon,16.0,881.6212636512892,2,2,Jharkhand Haryana,West Bengal Jharkhand,Kolkata Ranchi,FTL,Ranchi Gurgaon
+290,Mumbai -- Mumbai,16.0,16.645213938019513,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+291,Chandigarh -- Chandigarh,16.0,31.40849326521261,1,1,Punjab,Chandigarh,Chandigarh,Carting,Chandigarh
+292,Gurgaon -- Bhiwandi,16.0,1078.076311738461,1,1,Maharashtra,Haryana,Gurgaon,FTL,Bhiwandi
+293,Pune -- Pune,16.0,21.799409517481237,1,1,Maharashtra,Maharashtra,Pune,Carting,Pune
+294,Tumkur Doddablpur Chikblapur Bagepalli Gauribidanur -- Doddablpur Chikblapur Bagepalli Gauribidanur Tumkur,16.0,124.64552583349871,1,1,Karnataka,Karnataka,Tumkur Doddablpur Chikblapur Bagepalli Gauribidanur,Carting,Doddablpur Chikblapur Bagepalli Gauribidanur Tumkur
+295,Chandigarh -- Ludhiana,16.0,87.95359905606091,1,1,Punjab,Punjab,Chandigarh,FTL,Ludhiana
+296,Jalgaon Bhusawal Raver Burhanpur -- Bhusawal Raver Burhanpur Jalgaon,16.0,117.63668966319315,2,2,Maharashtra Madhya Pradesh,Maharashtra Madhya Pradesh,Jalgaon Bhusawal Raver Burhanpur,Carting,Bhusawal Raver Burhanpur Jalgaon
+297,Baraut Shamli Budhana Sonipat -- Shamli Budhana Sonipat Baraut Baghpat,16.0,79.30947789726444,2,2,Uttar Pradesh Haryana,Uttar Pradesh Haryana,Baraut Shamli Budhana Sonipat,FTL,Shamli Budhana Sonipat Baraut Baghpat
+298,Kanpur Fatehpur Banda Mahoba -- Fatehpur Banda Mahoba Kanpur,16.0,260.0978511434552,1,1,Uttar Pradesh,Uttar Pradesh,Kanpur Fatehpur Banda Mahoba,FTL,Fatehpur Banda Mahoba Kanpur
+299,Gurgaon -- Hyderabad,16.0,1236.57207218458,1,1,Telangana,Haryana,Gurgaon,FTL,Hyderabad
+300,Bengaluru -- Bengaluru,16.0,42.03612549558521,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+301,Bengaluru -- Bengaluru,16.0,42.21006466513346,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+302,Bengaluru -- Bengaluru,16.0,10.83559299934188,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+303,Visakhapatnam Srikakulam -- Srikakulam Visakhapatnam,16.0,180.63138944319533,1,1,Andhra Pradesh,Andhra Pradesh,Visakhapatnam Srikakulam,Carting,Srikakulam Visakhapatnam
+304,Hyderabad Bhuvanagiri Mothkur Thirumalagiri -- Bhuvanagiri Mothkur Thirumalagiri Hyderabad,16.0,161.75414541091268,1,1,Telangana,Telangana,Hyderabad Bhuvanagiri Mothkur Thirumalagiri,FTL,Bhuvanagiri Mothkur Thirumalagiri Hyderabad
+305,HBR -- Bengaluru,16.0,24.270659142581408,1,1,Karnataka,Karnataka,HBR,Carting,Bengaluru
+306,Gurgaon -- Ranchi,16.0,1010.9532225291338,1,1,Jharkhand,Haryana,Gurgaon,FTL,Ranchi
+307,Sangola Solapur Pandharpur Atapadi -- Solapur Pandharpur Atapadi Sangola,16.0,99.82949174169661,1,1,Maharashtra,Maharashtra,Sangola Solapur Pandharpur Atapadi,Carting,Solapur Pandharpur Atapadi Sangola
+308,Sawantwadi Malvan -- Malvan Sawantwadi,16.0,60.44271989088466,1,1,Maharashtra,Maharashtra,Sawantwadi Malvan,Carting,Malvan Sawantwadi
+309,Kurnool Wanaparthy Raichur JoguGadwal nan -- Raichur Kurnool JoguGadwal Wanaparthy nan,16.0,187.0367793894975,3,3,Karnataka Andhra Pradesh Telangana nan,Andhra Pradesh Telangana Karnataka nan,Kurnool Wanaparthy Raichur JoguGadwal nan,FTL,Raichur Kurnool JoguGadwal Wanaparthy nan
+310,Murbad Asangaon Bhiwandi -- Asangaon Bhiwandi Murbad,16.0,72.12899703285329,1,1,Maharashtra,Maharashtra,Murbad Asangaon Bhiwandi,Carting,Asangaon Bhiwandi Murbad
+311,Gurgaon -- Noida,16.0,64.1285982709046,1,1,Uttar Pradesh,Haryana,Gurgaon,Carting,Noida
+312,Kottayam Haripad Alappuzha Tiruvalla Kozhenchery -- Tiruvalla Alappuzha Kottayam Kozhenchery Haripad,16.0,66.3903789814223,1,1,Kerala,Kerala,Kottayam Haripad Alappuzha Tiruvalla Kozhenchery,Carting,Tiruvalla Alappuzha Kottayam Kozhenchery Haripad
+313,Bengaluru -- Bengaluru,16.0,31.806705196133457,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+314,Kolkata Bhubaneshwar -- Bhubaneshwar Bengaluru,16.0,1342.1430812668066,2,2,Orissa Karnataka,West Bengal Orissa,Kolkata Bhubaneshwar,FTL,Bhubaneshwar Bengaluru
+315,Sonipat -- Gurgaon,16.0,72.1862975849824,1,1,Haryana,Haryana,Sonipat,Carting,Gurgaon
+316,Jabalpur Lakhnadon Seoni Chhindwara Mandla -- Lakhnadon Seoni Chhindwara Mandla Jabalpur,16.0,250.87513898165153,1,1,Madhya Pradesh,Madhya Pradesh,Jabalpur Lakhnadon Seoni Chhindwara Mandla,FTL,Lakhnadon Seoni Chhindwara Mandla Jabalpur
+317,Tinusukia DoomDooma Namsai Tezu Dibrugarh Chabua Roing -- DoomDooma Namsai Tezu Roing Chabua Tinusukia Dibrugarh,16.0,111.09854271072166,2,2,Assam Arunachal Pradesh,Assam Arunachal Pradesh,Tinusukia DoomDooma Namsai Tezu Dibrugarh Chabua Roing,Carting,DoomDooma Namsai Tezu Roing Chabua Tinusukia Dibrugarh
+318,Delhi -- Gurgaon,16.0,33.64588925585234,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+319,Thiruvadanai Oriyur Manamelkudi Sivaganga -- Oriyur Manamelkudi Sivaganga Thiruvadanai,16.0,166.52760661714765,1,1,Tamil Nadu,Tamil Nadu,Thiruvadanai Oriyur Manamelkudi Sivaganga,Carting,Oriyur Manamelkudi Sivaganga Thiruvadanai
+320,FBD -- Delhi,16.0,20.004977365122517,1,1,Delhi,Haryana,FBD,Carting,Delhi
+321,Bengaluru -- BLR,16.0,34.7002288255731,1,1,Karnataka,Karnataka,Bengaluru,Carting,BLR
+322,Sasaram Kanpur Kolkata Dhanbad -- Kanpur Gurgaon Dhanbad Sasaram,16.0,1028.0247258396525,4,4,Uttar Pradesh Haryana Jharkhand Bihar,Bihar Uttar Pradesh West Bengal Jharkhand,Sasaram Kanpur Kolkata Dhanbad,FTL,Kanpur Gurgaon Dhanbad Sasaram
+323,"Suratgarh Srivijaynagar Hanumangarh RaisingNgr Pilibanga
+ Anupgarh -- Srivijaynagar Anupgarh Pilibanga Hanumangarh Suratgarh
+ RaisingNgr",16.0,144.65845307511267,1,1,Rajasthan,Rajasthan,"Suratgarh Srivijaynagar Hanumangarh RaisingNgr Pilibanga
+ Anupgarh",Carting,"Srivijaynagar Anupgarh Pilibanga Hanumangarh Suratgarh
+ RaisingNgr"
+324,Gurgaon -- Delhi,16.0,50.31527124693009,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+325,Bhopal Sehore Ashta -- Sehore Ashta Bhopal,16.0,149.59955918677844,1,1,Madhya Pradesh,Madhya Pradesh,Bhopal Sehore Ashta,FTL,Sehore Ashta Bhopal
+326,Bhiwandi Mumbai -- Mumbai Bhiwandi,16.0,38.68937778807034,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+327,Delhi -- Delhi,16.0,15.781446165119949,1,1,Delhi,Delhi,Delhi,Carting,Delhi
+328,Dindigul Oddnchtram Palani Kodaikanal Batlagundu Vadipatti -- Oddnchtram Palani Kodaikanal Batlagundu Vadipatti Gujiliam,16.0,90.67099196899932,1,1,Tamil Nadu,Tamil Nadu,Dindigul Oddnchtram Palani Kodaikanal Batlagundu Vadipatti,FTL,Oddnchtram Palani Kodaikanal Batlagundu Vadipatti Gujiliam
+329,Aluva Cochin Kunnathund -- Cochin Kunnathund Aluva,16.0,33.53805577723821,1,1,Kerala,Kerala,Aluva Cochin Kunnathund,Carting,Cochin Kunnathund Aluva
+330,Mumbai -- Mumbai,16.0,14.217587126700314,1,1,Maharashtra,Hub Maharashtra,Mumbai,Carting,Mumbai
+331,Gurgaon -- Kolkata,16.0,1300.5721606356,1,1,West Bengal,Haryana,Gurgaon,FTL,Kolkata
+332,Gurgaon -- Jaipur,16.0,195.79729477121083,1,1,Rajasthan,Haryana,Gurgaon,FTL,Jaipur
+333,Sonipat -- Gurgaon,16.0,72.30936411004608,1,1,Haryana,Haryana,Sonipat,Carting,Gurgaon
+334,Bengaluru Kolhapur Surat -- Kolhapur Surat Ahmedabad,16.0,1110.015338675844,3,2,Maharashtra Gujarat,Karnataka Maharashtra Gujarat,Bengaluru Kolhapur Surat,FTL,Kolhapur Surat Ahmedabad
+335,Pattukotai Peravurani Aranthangi Karaikudi Ponnamaravathi -- Peravurani Aranthangi Karaikudi Ponnamaravathi Pudukkotti,16.0,122.08983451868728,1,1,Tamil Nadu,Tamil Nadu,Pattukotai Peravurani Aranthangi Karaikudi Ponnamaravathi,FTL,Peravurani Aranthangi Karaikudi Ponnamaravathi Pudukkotti
+336,Mumbai -- Mumbai,16.0,17.5812812832987,1,1,Maharashtra,Hub Maharashtra,Mumbai,Carting,Mumbai
+337,Bhiwandi -- Pune,16.0,101.02663307832235,1,1,Maharashtra,Maharashtra,Bhiwandi,FTL,Pune
+338,Durgapur Mejia Rghunthpur Hura Purulia Jhalda -- Mejia Rghunthpur Hura Purulia Jhalda Durgapur,16.0,249.7694877761138,1,1,West Bengal,West Bengal,Durgapur Mejia Rghunthpur Hura Purulia Jhalda,FTL,Mejia Rghunthpur Hura Purulia Jhalda Durgapur
+339,Coimbatore Sathyamangalam Anthiyour Gobicheti -- Sathyamangalam Gobicheti Coimbatore Anthiyour,16.0,111.73236695847122,1,1,Tamil Nadu,Tamil Nadu,Coimbatore Sathyamangalam Anthiyour Gobicheti,Carting,Sathyamangalam Gobicheti Coimbatore Anthiyour
+340,Faizabad Gosainganj -- Gosainganj Akbarpur,16.0,45.024980627081135,1,1,Uttar Pradesh,Uttar Pradesh,Faizabad Gosainganj,Carting,Gosainganj Akbarpur
+341,Aurangabad Jalna Sillod -- Jalna Aurangabad Sillod,16.0,158.74477050986653,1,1,Maharashtra,Maharashtra,Aurangabad Jalna Sillod,Carting,Jalna Aurangabad Sillod
+342,Gurgaon -- FBD,16.0,47.03877096615738,1,1,Haryana,Haryana,Gurgaon,Carting,FBD
+343,Hyderabad -- Hyderabad,16.0,16.548425186590702,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+344,Delhi Janakpuri -- Janakpuri Delhi,16.0,19.02638806202009,1,1,Delhi,Delhi,Delhi Janakpuri,Carting,Janakpuri Delhi
+345,GreaterThane -- Mumbai,16.0,20.530092845299183,1,1,Maharashtra,Maharashtra,GreaterThane,Carting,Mumbai
+346,Chandigarh Patiala Malerkotla Sunam Nabha -- Patiala Malerkotla Sangrur Chandigarh Nabha Dhuri,15.0,128.4317688251243,1,1,Punjab,Punjab,Chandigarh Patiala Malerkotla Sunam Nabha,FTL,Patiala Malerkotla Sangrur Chandigarh Nabha Dhuri
+347,Silchar Hailakandi Karimganj Badarpur -- Hailakandi Karimganj Badarpur Silchar,15.0,65.07218506168438,1,1,Assam,Assam,Silchar Hailakandi Karimganj Badarpur,FTL,Hailakandi Karimganj Badarpur Silchar
+348,Jabalpur Sihora Katni Barhi -- Sihora Katni Barhi Jabalpur,15.0,96.00337763671834,1,1,Madhya Pradesh,Madhya Pradesh,Jabalpur Sihora Katni Barhi,FTL,Sihora Katni Barhi Jabalpur
+349,Gurgaon -- Kolkata,15.0,1301.41031507001,1,1,West Bengal,Haryana,Gurgaon,FTL,Kolkata
+350,Bengaluru Kurnool -- Kurnool Hyderabad Bengaluru,15.0,390.8920910626774,2,3,Andhra Pradesh Telangana Karnataka,Karnataka Andhra Pradesh,Bengaluru Kurnool,FTL,Kurnool Hyderabad Bengaluru
+351,Anantapur Dharmavram Puttaprthi Kadiri Rayachoti Pulivendula -- Dharmavram Puttaprthi Kadiri Rayachoti Pulivendula Anantapur,15.0,260.00415314104146,1,1,Andhra Pradesh,Andhra Pradesh,Anantapur Dharmavram Puttaprthi Kadiri Rayachoti Pulivendula,FTL,Dharmavram Puttaprthi Kadiri Rayachoti Pulivendula Anantapur
+352,Surendranagar Limbdi Chotila -- Limbdi Botad Surendranagar,15.0,110.65250329445163,1,1,Gujarat,Gujarat,Surendranagar Limbdi Chotila,FTL,Limbdi Botad Surendranagar
+353,Bengaluru -- Bengaluru,15.0,31.438253600509697,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+354,Gurgaon -- FBD,15.0,47.23437674214619,1,1,Haryana,Haryana,Gurgaon,Carting,FBD
+355,Jaipur -- Jaipur,15.0,13.208352692276256,1,1,Rajasthan,Rajasthan,Jaipur,Carting,Jaipur
+356,Bhiwandi -- Mumbai,15.0,22.6311074150312,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+357,CCU -- Kolkata,15.0,16.547281612817137,1,1,West Bengal,West Bengal,CCU,Carting,Kolkata
+358,Gurgaon -- Faridabad,15.0,46.91926804386735,1,1,Haryana,Haryana,Gurgaon,Carting,Faridabad
+359,Bengaluru -- Bengaluru,15.0,28.053639030379397,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+360,Pune -- Bhiwandi,15.0,100.7431397746471,1,1,Maharashtra,Maharashtra,Pune,FTL,Bhiwandi
+361,Nawanshahr Machhiwara Ludhiana Garhshnker -- Machhiwara Ludhiana Nawanshahr,15.0,67.94599295693298,1,1,Punjab,Punjab,Nawanshahr Machhiwara Ludhiana Garhshnker,FTL,Machhiwara Ludhiana Nawanshahr
+362,Gurgaon -- Delhi,15.0,46.2766847381683,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+363,Pune -- Bhiwandi,15.0,101.13309037977587,1,1,Maharashtra,Maharashtra,Pune,FTL,Bhiwandi
+364,Hubli Shimoga Sirsi Sagara -- Sirsi Bengaluru Sagara Shimoga,15.0,316.57356711316214,1,1,Karnataka,Karnataka,Hubli Shimoga Sirsi Sagara,FTL,Sirsi Bengaluru Sagara Shimoga
+365,Kharagpur ChandroknaRD AmaDubi -- Jhargram Kharagpur ChandroknaRD AmaDubi,15.0,103.7837061017094,1,1,West Bengal,West Bengal,Kharagpur ChandroknaRD AmaDubi,FTL,Jhargram Kharagpur ChandroknaRD AmaDubi
+366,Goa Karwar Mallapur Dandeli Hubli -- Karwar Mallapur Dandeli Hubli Goa,15.0,296.68643171921013,2,2,Karnataka Goa,Goa Karnataka,Goa Karwar Mallapur Dandeli Hubli,FTL,Karwar Mallapur Dandeli Hubli Goa
+367,Pune -- Goa,15.0,361.6889810413748,1,1,Goa,Maharashtra,Pune,FTL,Goa
+368,Bengaluru Gurgaon -- Gurgaon Chandigarh,15.0,1869.5466504939009,2,2,Haryana Punjab,Karnataka Haryana,Bengaluru Gurgaon,FTL,Gurgaon Chandigarh
+369,Mumbai -- Mumbai LowerParel,15.0,15.530596386922346,1,1,Maharashtra,Hub Maharashtra,Mumbai,Carting,Mumbai LowerParel
+370,Jaipur -- Jaipur Ambabadi,15.0,20.85600620747928,1,1,Rajasthan,Rajasthan,Jaipur,Carting,Jaipur Ambabadi
+371,Delhi -- FBD,15.0,20.197327104048632,1,1,Haryana,Delhi,Delhi,Carting,FBD
+372,Villupuram Panruti Neyveli Virudhchlm Pennadam Chinnasalem -- Panruti Neyveli Virudhchlm Pennadam Chinnasalem Villupuram,15.0,202.1608529374007,1,1,Tamil Nadu,Tamil Nadu,Villupuram Panruti Neyveli Virudhchlm Pennadam Chinnasalem,Carting,Panruti Neyveli Virudhchlm Pennadam Chinnasalem Villupuram
+373,MAA -- Chennai,15.0,31.733481286024144,1,1,Tamil Nadu,Tamil Nadu,MAA,Carting,Chennai
+374,Mumbai -- Mumbai,15.0,10.137218510904153,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+375,Gurgaon -- Chandigarh,15.0,236.85685494646415,1,1,Punjab,Haryana,Gurgaon,FTL,Chandigarh
+376,Bengaluru -- Bengaluru,15.0,29.08996932963874,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+377,Kolkata Midnapore Kharagpur -- Kharagpur Kolkata Midnapore,15.0,196.466268499794,1,1,West Bengal,West Bengal,Kolkata Midnapore Kharagpur,FTL,Kharagpur Kolkata Midnapore
+378,Jassur Dalhousie Chamba Pathankot -- Dalhousie Chamba Pathankot Jassur,15.0,85.49968778191774,2,2,Himachal Pradesh Punjab,Himachal Pradesh Punjab,Jassur Dalhousie Chamba Pathankot,FTL,Dalhousie Chamba Pathankot Jassur
+379,Ahmedabad -- Ahmedabad,15.0,19.27907306837316,1,1,Gujarat,Gujarat,Ahmedabad,Carting,Ahmedabad
+380,Hyderabad -- Hyderabad,15.0,26.808461863457975,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+381,MAA Chennai -- Chennai MAA,15.0,36.622346361755326,1,1,Tamil Nadu,Tamil Nadu,MAA Chennai,Carting,Chennai MAA
+382,Gurgaon -- Noida,15.0,63.56973464767622,1,1,Uttar Pradesh,Haryana,Gurgaon,Carting,Noida
+383,Pune -- Pune,15.0,21.41720350038381,1,1,Maharashtra,Maharashtra,Pune,Carting,Pune
+384,Noida -- Noida,15.0,13.897370706822889,1,1,Uttar Pradesh,Uttar Pradesh,Noida,Carting,Noida
+385,Kolkata Bardhaman Rupnarayanpur Durgapur Asansol -- Bardhaman Durgapur Kolkata Rupnarayanpur Asansol,15.0,281.203394423708,1,1,West Bengal,West Bengal,Kolkata Bardhaman Rupnarayanpur Durgapur Asansol,FTL,Bardhaman Durgapur Kolkata Rupnarayanpur Asansol
+386,Bengaluru -- Bengaluru,15.0,17.35567115028673,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+387,Patran Chandigarh Samana -- Chandigarh Samana Patran,15.0,110.11372142898948,1,1,Punjab,Punjab,Patran Chandigarh Samana,FTL,Chandigarh Samana Patran
+388,Vellore Arani Polur Chetpet -- Arani Polur Chetpet Vellore,15.0,118.40186393891462,1,1,Tamil Nadu,Tamil Nadu,Vellore Arani Polur Chetpet,FTL,Arani Polur Chetpet Vellore
+389,Ahmedabad Surat -- Surat Bengaluru,15.0,1163.7456074522574,1,2,Gujarat Karnataka,Gujarat,Ahmedabad Surat,FTL,Surat Bengaluru
+390,Udaipur Chittaurgarh Rajsamand Bhilwara -- Chittaurgarh Bhilwara Udaipur Rajsamand,15.0,208.2292295751466,1,1,Rajasthan,Rajasthan,Udaipur Chittaurgarh Rajsamand Bhilwara,FTL,Chittaurgarh Bhilwara Udaipur Rajsamand
+391,Dibrugarh Khonsa -- Duliajan Dibrugarh,15.0,78.44001487864534,2,1,Assam,Assam Arunachal Pradesh,Dibrugarh Khonsa,Carting,Duliajan Dibrugarh
+392,MAA Bengaluru Pune -- Bengaluru Pune Bhiwandi,15.0,977.6074612089338,3,2,Karnataka Maharashtra,Tamil Nadu Karnataka Maharashtra,MAA Bengaluru Pune,FTL,Bengaluru Pune Bhiwandi
+393,Gurgaon -- Bhubaneshwar,15.0,1269.6663355738553,1,1,Orissa,Haryana,Gurgaon,FTL,Bhubaneshwar
+394,Dibrugarh Digboi Margherita -- Digboi Margherita Dibrugarh,15.0,128.59205514963466,1,1,Assam,Assam,Dibrugarh Digboi Margherita,Carting,Digboi Margherita Dibrugarh
+395,Bengaluru Bhopal -- Bhopal Gurgaon,15.0,1579.3668838269311,2,2,Madhya Pradesh Haryana,Karnataka Madhya Pradesh,Bengaluru Bhopal,FTL,Bhopal Gurgaon
+396,Mumbai -- Mumbai,15.0,10.334462046601185,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+397,Mumbai -- Bhiwandi,15.0,16.395110585066558,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+398,Kolkata -- Kolkata,15.0,20.29695835147122,1,1,West Bengal,West Bengal,Kolkata,Carting,Kolkata
+399,Ranchi Ramgarh Hazaribag JhumriTlya -- Ramgarh Hazaribag JhumriTlya Gurgaon,15.0,1016.3001655808439,1,2,Jharkhand Haryana,Jharkhand,Ranchi Ramgarh Hazaribag JhumriTlya,FTL,Ramgarh Hazaribag JhumriTlya Gurgaon
+400,Delhi Gurgaon -- Gurgaon Hyderabad,15.0,1108.6709047417512,2,2,Haryana Telangana,Delhi Haryana,Delhi Gurgaon,FTL,Gurgaon Hyderabad
+401,Silvassa -- Vapi,15.0,14.349975927453377,1,1,Gujarat,Dadra and Nagar Haveli,Silvassa,Carting,Vapi
+402,MAA Pondicherry Kalpakkam Marakkanam -- Pondicherry Marakkanam MAA Kalpakkam,15.0,204.6226960698739,2,2,Pondicherry Tamil Nadu,Tamil Nadu Pondicherry,MAA Pondicherry Kalpakkam Marakkanam,FTL,Pondicherry Marakkanam MAA Kalpakkam
+403,MAA Nellore -- Nellore Hyderabad,15.0,474.09728412338535,2,2,Andhra Pradesh Telangana,Tamil Nadu Andhra Pradesh,MAA Nellore,FTL,Nellore Hyderabad
+404,Gurgaon -- Sonipat,14.0,70.07480615052259,1,1,Haryana,Haryana,Gurgaon,Carting,Sonipat
+405,Del -- Delhi,14.0,10.439840206086535,1,1,Delhi,Delhi,Del,Carting,Delhi
+406,Jasai Mumbai -- Mumbai Jasai,14.0,32.36719978082075,1,1,Maharashtra,Maharashtra,Jasai Mumbai,Carting,Mumbai Jasai
+407,Bengaluru Hiriyur Chitradurga Davangere -- Hiriyur Chitradurga Davangere Hubli,14.0,313.8994934963512,1,1,Karnataka,Karnataka,Bengaluru Hiriyur Chitradurga Davangere,FTL,Hiriyur Chitradurga Davangere Hubli
+408,Mumbai -- Mumbai,14.0,15.530817873659897,1,1,Maharashtra,Hub Maharashtra,Mumbai,Carting,Mumbai
+409,Bhiwandi -- Pune,14.0,101.234824973833,1,1,Maharashtra,Maharashtra,Bhiwandi,FTL,Pune
+410,Thamarassery SultnBthry -- SultnBthry Bengaluru,14.0,211.69929200913018,1,2,Kerala Karnataka,Kerala,Thamarassery SultnBthry,FTL,SultnBthry Bengaluru
+411,Gulbarga Sindagi Indi Aland -- Sindagi Indi Aland Gulbarga,14.0,199.27552016931665,1,1,Karnataka,Karnataka,Gulbarga Sindagi Indi Aland,Carting,Sindagi Indi Aland Gulbarga
+412,Ahmedabad Udaipur Pali -- Udaipur Pali Jaipur,14.0,523.1092300507165,2,1,Rajasthan,Gujarat Rajasthan,Ahmedabad Udaipur Pali,FTL,Udaipur Pali Jaipur
+413,Gurgaon -- Delhi,14.0,46.56343375170537,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+414,Bhatpara Mungeli -- Mungeli Kawardha,14.0,72.89416394236072,1,1,Chhattisgarh,Chhattisgarh,Bhatpara Mungeli,Carting,Mungeli Kawardha
+415,Ambasamdrm Tirunelveli Tenkasi -- Tirunelveli Tenkasi Ambasamdrm,14.0,82.52716767698314,1,1,Tamil Nadu,Tamil Nadu,Ambasamdrm Tirunelveli Tenkasi,FTL,Tirunelveli Tenkasi Ambasamdrm
+416,Ranchi -- Jamshedpur,14.0,100.71648570951034,1,1,Jharkhand,Jharkhand,Ranchi,FTL,Jamshedpur
+417,Gwalior Morena Bhind Ambah -- Morena Ambah Gwalior Bhind,14.0,130.8309965690633,1,1,Madhya Pradesh,Madhya Pradesh,Gwalior Morena Bhind Ambah,FTL,Morena Ambah Gwalior Bhind
+418,Pune -- Bhiwandi,14.0,100.98076351049384,1,1,Maharashtra,Maharashtra,Pune,FTL,Bhiwandi
+419,Gonda Tulsipur Balrampur -- Balrampur Gonda Tulsipur,14.0,81.36526421213982,1,1,Uttar Pradesh,Uttar Pradesh,Gonda Tulsipur Balrampur,Carting,Balrampur Gonda Tulsipur
+420,Surat -- Surat,14.0,14.635152429640042,1,1,Gujarat,Gujarat,Surat,Carting,Surat
+421,Bengaluru -- Bengaluru,14.0,28.08171649009281,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+422,Mysore Hunsur Gonikoppal HDKote -- Krishnarajngr Gonikoppal HDKote Mysore,14.0,123.87644468408429,1,1,Karnataka,Karnataka,Mysore Hunsur Gonikoppal HDKote,FTL,Krishnarajngr Gonikoppal HDKote Mysore
+423,Chandigarh Kathua Jammu Samba -- Kathua Jammu Samba Chandigarh,14.0,406.5740439312577,2,2,Jammu & Kashmir Punjab,Punjab Jammu & Kashmir,Chandigarh Kathua Jammu Samba,FTL,Kathua Jammu Samba Chandigarh
+424,Bhavnagar Amreli Palitana -- Amreli Bhavnagar,14.0,111.13376221994797,1,1,Gujarat,Gujarat,Bhavnagar Amreli Palitana,FTL,Amreli Bhavnagar
+425,Hyderabad Kamareddy Karimnagar -- Kamareddy Hyderabad Karimnagar,14.0,172.1458856006736,1,1,Telangana,Telangana,Hyderabad Kamareddy Karimnagar,FTL,Kamareddy Hyderabad Karimnagar
+426,Gurgaon -- Jaipur,14.0,195.82308298660905,1,1,Rajasthan,Haryana,Gurgaon,FTL,Jaipur
+427,Gwalior Guna -- Gurgaon Gwalior,14.0,398.47261779930017,1,2,Haryana Madhya Pradesh,Madhya Pradesh,Gwalior Guna,FTL,Gurgaon Gwalior
+428,"Guwahati LakhimpurN Dhemaji Likabali Tezpur Pasighat Gohpur
+ Mangaldoi Dhekiajuli Bishwanath Naharlagun Silapathar Nirjuli -- Tezpur Dhemaji Silapathar Pasighat Mangaldoi Itanagar
+ Gohpur Bishwanath Dhekiajuli Guwahati LakhimpurN",14.0,281.59648637447793,2,2,Assam Arunachal Pradesh,Assam Arunachal Pradesh,"Guwahati LakhimpurN Dhemaji Likabali Tezpur Pasighat Gohpur
+ Mangaldoi Dhekiajuli Bishwanath Naharlagun Silapathar Nirjuli",FTL,"Tezpur Dhemaji Silapathar Pasighat Mangaldoi Itanagar
+ Gohpur Bishwanath Dhekiajuli Guwahati LakhimpurN"
+429,Bengaluru -- Gurgaon,14.0,1694.5843885707397,1,1,Haryana,Karnataka,Bengaluru,FTL,Gurgaon
+430,Ludhiana Moga Muktsar -- Moga Muktsar Bhatinda,14.0,154.41869281062313,1,1,Punjab,Punjab,Ludhiana Moga Muktsar,FTL,Moga Muktsar Bhatinda
+431,Hassan Tiptur Arsikere nan Mudigere Sakleshpur Chikmagalur -- Tiptur Arsikere nan Chikmagalur Sakleshpur Hassan Mudigere,14.0,139.80738741360574,1,1,Karnataka nan,Karnataka nan,Hassan Tiptur Arsikere nan Mudigere Sakleshpur Chikmagalur,FTL,Tiptur Arsikere nan Chikmagalur Sakleshpur Hassan Mudigere
+432,Bhubaneshwar Jaleswar Balasore Basta Bhadrak Soro -- Bhadrak Kolkata Basta Soro Balasore Jaleswar,14.0,193.02324346162368,1,2,Orissa West Bengal,Orissa,Bhubaneshwar Jaleswar Balasore Basta Bhadrak Soro,FTL,Bhadrak Kolkata Basta Soro Balasore Jaleswar
+433,Gurgaon -- MAA,14.0,1721.2807525756527,1,1,Tamil Nadu,Haryana,Gurgaon,FTL,MAA
+434,MAA -- Chennai,14.0,25.341723083694593,1,1,Tamil Nadu,Tamil Nadu,MAA,Carting,Chennai
+435,Noida Dadri -- Dadri Noida,14.0,22.3857531337316,1,1,Uttar Pradesh,Uttar Pradesh,Noida Dadri,Carting,Dadri Noida
+436,Nanded Loha Gangakher Parli Ambajogai -- Loha Gangakher Parli Ambajogai Pune,14.0,324.90057438087814,1,1,Maharashtra,Maharashtra,Nanded Loha Gangakher Parli Ambajogai,FTL,Loha Gangakher Parli Ambajogai Pune
+437,Bengaluru -- Bengaluru,14.0,28.557876447270527,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+438,Anand Khambhat -- Khambhat Anand,14.0,72.97508953784781,1,1,Gujarat,Gujarat,Anand Khambhat,Carting,Khambhat Anand
+439,MAA -- Chennai,14.0,24.787128805487647,1,1,Tamil Nadu,Tamil Nadu,MAA,Carting,Chennai
+440,Bhiwandi Mumbai -- Mumbai Bhiwandi,14.0,24.119573518437612,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+441,Kolkata Hooghly Hoogly -- Hooghly Hoogly Kolkata,14.0,44.47583942691595,1,1,West Bengal,West Bengal,Kolkata Hooghly Hoogly,Carting,Hooghly Hoogly Kolkata
+442,Bengaluru Hoskote -- Hoskote Bengaluru,14.0,16.62718244230071,1,1,Karnataka,Karnataka,Bengaluru Hoskote,Carting,Hoskote Bengaluru
+443,Del -- Gurgaon,14.0,48.632496276966336,1,1,Haryana,Delhi,Del,Carting,Gurgaon
+444,Hyderabad -- Hyderabad,14.0,36.00980268160641,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+445,Bengaluru -- Bengaluru,14.0,18.59239653571217,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+446,Vellore Bengaluru -- MAA Bengaluru Vellore,14.0,127.21125918466498,2,2,Tamil Nadu Karnataka,Tamil Nadu Karnataka,Vellore Bengaluru,FTL,MAA Bengaluru Vellore
+447,Allahabad Soraon Phulpur -- Allahabad Soraon Phulpur,14.0,86.78181438079972,1,1,Uttar Pradesh,Uttar Pradesh,Allahabad Soraon Phulpur,Carting,Allahabad Soraon Phulpur
+448,Bengaluru Tirupur Krishnagiri -- Bengaluru Coimbatore Dharmapuri Krishnagiri,14.0,72.41393995320746,2,2,Karnataka Tamil Nadu,Karnataka Tamil Nadu,Bengaluru Tirupur Krishnagiri,FTL,Bengaluru Coimbatore Dharmapuri Krishnagiri
+449,Kanpur -- Kanpur,14.0,24.281263767093016,1,1,Uttar Pradesh,Uttar Pradesh,Kanpur,Carting,Kanpur
+450,Ghumarwin Jahu JognderNgr -- Jahu JognderNgr BilaspurHP,14.0,117.85020813488437,1,1,Himachal Pradesh,Himachal Pradesh,Ghumarwin Jahu JognderNgr,FTL,Jahu JognderNgr BilaspurHP
+451,Delhi -- Delhi,14.0,18.48752029698326,1,1,Delhi,Delhi,Delhi,Carting,Delhi
+452,Angamaly Chalakudy Irinjlkuda -- Chalakudy Irinjlkuda Aluva,14.0,37.093860822539625,1,1,Kerala,Kerala,Angamaly Chalakudy Irinjlkuda,Carting,Chalakudy Irinjlkuda Aluva
+453,Bengaluru -- Bengaluru,14.0,17.4267276265842,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+454,Bengaluru -- HBR,14.0,19.70486822609697,1,1,Karnataka,Karnataka,Bengaluru,Carting,HBR
+455,Bengaluru -- Bengaluru,14.0,39.88769978598908,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+456,Chandigarh -- Chandigarh,14.0,31.654540646976763,1,1,Chandigarh,Punjab,Chandigarh,Carting,Chandigarh
+457,Chandigarh -- Gurgaon,14.0,236.67605936352408,1,1,Haryana,Punjab,Chandigarh,FTL,Gurgaon
+458,Chennai -- Chennai,14.0,37.4408365687239,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+459,Vapi -- Silvassa,14.0,14.405526652425852,1,1,Dadra and Nagar Haveli,Gujarat,Vapi,Carting,Silvassa
+460,Kanker Mahasamund Durg -- Mahasamund Durg Kanker,13.0,108.42676748912719,1,1,Chhattisgarh,Chhattisgarh,Kanker Mahasamund Durg,FTL,Mahasamund Durg Kanker
+461,Jaipur -- Gurgaon,13.0,195.91022795275063,1,1,Haryana,Rajasthan,Jaipur,FTL,Gurgaon
+462,Hyderabad -- Hyderabad,13.0,18.54367414064274,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+463,Bengaluru -- Bengaluru,13.0,20.949935617509787,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+464,Gurgaon -- Delhi,13.0,32.52777963703116,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+465,Wardha Deoli -- Deoli Yavatmal,13.0,48.62286665501511,1,1,Maharashtra,Maharashtra,Wardha Deoli,FTL,Deoli Yavatmal
+466,Sonipat -- Chandigarh,13.0,174.3823914550598,1,1,Punjab,Haryana,Sonipat,FTL,Chandigarh
+467,Del -- Sonipat,13.0,41.19259663914325,1,1,Haryana,Delhi,Del,Carting,Sonipat
+468,Bhiwandi Mumbai -- Mumbai Bhiwandi,13.0,21.233547411045603,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+469,Bengaluru Kolar Mulbagal Chintamani -- Kolar Mulbagal Chintamani Bengaluru,13.0,139.7151234111799,1,1,Karnataka,Karnataka,Bengaluru Kolar Mulbagal Chintamani,Carting,Kolar Mulbagal Chintamani Bengaluru
+470,Berhampore Morgram Rampurhat Ghanashyampur Kandi -- Morgram Rampurhat Khargram Berhampore Ghanashyampur,13.0,98.85241855298582,1,1,West Bengal,West Bengal,Berhampore Morgram Rampurhat Ghanashyampur Kandi,Carting,Morgram Rampurhat Khargram Berhampore Ghanashyampur
+471,Bengaluru -- Bengaluru,13.0,42.32074312109666,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+472,SultnBthry Kalpetta Mananthavady -- Kalpetta Mananthavady SultnBthry,13.0,41.874368172974826,1,1,Kerala,Kerala,SultnBthry Kalpetta Mananthavady,Carting,Kalpetta Mananthavady SultnBthry
+473,MAA Chennai -- Chennai MAA,13.0,74.66537193333066,1,1,Tamil Nadu,Tamil Nadu,MAA Chennai,Carting,Chennai MAA
+474,Pune PNQ -- PNQ Pune,13.0,12.669999047873349,1,1,Maharashtra,Maharashtra,Pune PNQ,Carting,PNQ Pune
+475,Pune -- Kolhapur,13.0,220.16477791220274,1,1,Maharashtra,Maharashtra,Pune,FTL,Kolhapur
+476,Balasore Betnoti Udala Sankerko Baripada -- Betnoti Baripada Balasore Udala,13.0,56.48798237688848,1,1,Orissa,Orissa,Balasore Betnoti Udala Sankerko Baripada,FTL,Betnoti Baripada Balasore Udala
+477,Mumbai -- Mumbai,13.0,9.277867901087017,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+478,Bengaluru -- HBR,13.0,21.393374036121692,1,1,Karnataka,Karnataka,Bengaluru,Carting,HBR
+479,Bengaluru -- Bengaluru,13.0,39.6663956943934,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+480,Goa -- Pune,13.0,361.3761317242486,1,1,Maharashtra,Goa,Goa,FTL,Pune
+481,Sonipat -- Gurgaon,13.0,72.22260060454924,1,1,Haryana,Haryana,Sonipat,Carting,Gurgaon
+482,Bhiwandi -- Gurgaon,13.0,1078.2235077658631,1,1,Haryana,Maharashtra,Bhiwandi,FTL,Gurgaon
+483,Dinhata Mainaguri Mathabhang -- Pundibari Mathabhang Dinhata CoochBehar,13.0,69.44844081481261,1,1,West Bengal,West Bengal,Dinhata Mainaguri Mathabhang,FTL,Pundibari Mathabhang Dinhata CoochBehar
+484,Murshidabad Lalgola Ragunthgnj Jangipur Sagardighi -- Lalgola Ragunthgnj Jangipur Sagardighi Berhampore,13.0,88.1083838871451,1,1,West Bengal,West Bengal,Murshidabad Lalgola Ragunthgnj Jangipur Sagardighi,Carting,Lalgola Ragunthgnj Jangipur Sagardighi Berhampore
+485,Surat -- Surat,13.0,12.735347893885217,1,1,Gujarat,Gujarat,Surat,Carting,Surat
+486,Bengaluru -- Bengaluru,13.0,18.646283499993476,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+487,Chandigarh YamunaNagar PaontSahib Ambala -- YamunaNagar PaontSahib Chandigarh,13.0,140.8541257953519,3,3,Haryana Himachal Pradesh Punjab,Punjab Haryana Himachal Pradesh,Chandigarh YamunaNagar PaontSahib Ambala,FTL,YamunaNagar PaontSahib Chandigarh
+488,Bengaluru -- HBR,13.0,21.190850345634885,1,1,Karnataka,Karnataka,Bengaluru,Carting,HBR
+489,Berhampore Domkal Nazirpur Nowda -- Domkal Nazirpur Nowda Berhampore,13.0,90.33005069627052,1,1,West Bengal,West Bengal,Berhampore Domkal Nazirpur Nowda,Carting,Domkal Nazirpur Nowda Berhampore
+490,Noida -- Noida,13.0,14.864558228113792,1,1,Uttar Pradesh,Uttar Pradesh,Noida,Carting,Noida
+491,Masaurhi Jehanabad Rajgir BiharSarif Nawada -- Jehanabad BiharSarif Chandi Nawada Rajgir,13.0,116.6853666516851,1,1,Bihar,Bihar,Masaurhi Jehanabad Rajgir BiharSarif Nawada,FTL,Jehanabad BiharSarif Chandi Nawada Rajgir
+492,Bengaluru -- Bengaluru,13.0,10.59730410640255,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+493,Manapparai Melur -- Melur Madurai,13.0,99.37726375215546,1,1,Tamil Nadu,Tamil Nadu,Manapparai Melur,FTL,Melur Madurai
+494,Koyilandy Vadakara Kallachi Kozhikode -- Vadakara Kallachi Kuthuparamba Koyilandy,13.0,50.5026577983068,1,1,Kerala,Kerala,Koyilandy Vadakara Kallachi Kozhikode,Carting,Vadakara Kallachi Kuthuparamba Koyilandy
+495,Junagadh Upleta Jetpur Dhoraji -- Jetpur Junagadh Dhoraji Upleta,13.0,48.865251566394754,1,1,Gujarat,Gujarat,Junagadh Upleta Jetpur Dhoraji,FTL,Jetpur Junagadh Dhoraji Upleta
+496,Berhampore Katwa Chapra Nakashipara Plassey -- Katwa Chapra Nakashipara Plassey Berhampore,13.0,173.5228046183736,1,1,West Bengal,West Bengal,Berhampore Katwa Chapra Nakashipara Plassey,Carting,Katwa Chapra Nakashipara Plassey Berhampore
+497,Sonipat Gajraula Rampur Amroha -- Gajraula Rampur Amroha Sonipat,13.0,361.39691780798927,2,2,Uttar Pradesh Haryana,Haryana Uttar Pradesh,Sonipat Gajraula Rampur Amroha,FTL,Gajraula Rampur Amroha Sonipat
+498,MAA Bengaluru -- Bengaluru,13.0,283.08061059973164,2,1,Karnataka,Tamil Nadu Karnataka,MAA Bengaluru,FTL,Bengaluru
+499,Bhiwandi -- Pune,13.0,101.12715846504221,1,1,Maharashtra,Maharashtra,Bhiwandi,FTL,Pune
+500,Bhiwandi -- Mumbai,13.0,36.424754484123135,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+501,DehriSone AurngbadBR Sasaram -- AurngbadBR Sasaram DehriSone,13.0,46.88046289685355,1,1,Bihar,Bihar,DehriSone AurngbadBR Sasaram,FTL,AurngbadBR Sasaram DehriSone
+502,Del -- Gurgaon,13.0,48.67331120335394,1,1,Haryana,Delhi,Del,Carting,Gurgaon
+503,Bhiwandi -- Gurgaon,13.0,1078.2360111333314,1,1,Haryana,Maharashtra,Bhiwandi,FTL,Gurgaon
+504,Hyderabad -- Hyderabad,13.0,35.58991683633973,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+505,Mumbai -- Bhiwandi,13.0,22.832395260131566,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+506,Bengaluru -- Bengaluru,13.0,24.254141226431116,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+507,Mumbai Bhiwandi -- Bhiwandi Mumbai,13.0,21.223104146792462,1,1,Maharashtra,Maharashtra,Mumbai Bhiwandi,Carting,Bhiwandi Mumbai
+508,Unjha Patan Bhabhar Mehsana Radhanpur -- Patan Bhabhar Radhanpur Unjha Mehsana,13.0,89.50738389690557,1,1,Gujarat,Gujarat,Unjha Patan Bhabhar Mehsana Radhanpur,FTL,Patan Bhabhar Radhanpur Unjha Mehsana
+509,Hyderabad -- Hyderabad,13.0,17.705948355232717,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+510,Manbazar Khatra Simlapal Hura -- Khatra Simlapal Hura Manbazar,13.0,88.05752104375756,1,1,West Bengal,West Bengal,Manbazar Khatra Simlapal Hura,FTL,Khatra Simlapal Hura Manbazar
+511,Gurgaon Muzaffrpur Purnia -- Muzaffrpur Purnia Gurgaon,13.0,2016.9419151617515,2,2,Bihar Haryana,Haryana Bihar,Gurgaon Muzaffrpur Purnia,FTL,Muzaffrpur Purnia Gurgaon
+512,Kolhapur Ratnagiri Shirala -- Ratnagiri Shirala Kolhapur,13.0,154.17448355439527,1,1,Maharashtra,Maharashtra,Kolhapur Ratnagiri Shirala,FTL,Ratnagiri Shirala Kolhapur
+513,Gulbarga Chittapur Sedam Chincholi -- Chittapur Sedam Chincholi Gulbarga,13.0,149.6692705487853,1,1,Karnataka,Karnataka,Gulbarga Chittapur Sedam Chincholi,Carting,Chittapur Sedam Chincholi Gulbarga
+514,Ludhiana -- Chandigarh,13.0,87.75524797015564,1,1,Punjab,Punjab,Ludhiana,FTL,Chandigarh
+515,PNQ -- Pune,13.0,10.049565971466775,1,1,Maharashtra,Maharashtra,PNQ,Carting,Pune
+516,Tiruchi -- Tiruchi,13.0,14.205495954909445,1,1,Tamil Nadu,Tamil Nadu,Tiruchi,Carting,Tiruchi
+517,Aluva Arimbur Sankaramangalam Shoranur Pazhayannur Thrissur -- Arimbur Sankaramangalam Shoranur Pazhayannur Thrissur Aluva,12.0,151.7448453814868,1,1,Kerala,Kerala,Aluva Arimbur Sankaramangalam Shoranur Pazhayannur Thrissur,Carting,Arimbur Sankaramangalam Shoranur Pazhayannur Thrissur Aluva
+518,Jaipur Chaksu SawaiMadhopur Tonk -- Chaksu Tonk Jaipur SawaiMadhopur,12.0,67.18272092290887,1,1,Rajasthan,Rajasthan,Jaipur Chaksu SawaiMadhopur Tonk,Carting,Chaksu Tonk Jaipur SawaiMadhopur
+519,Khammam Kodad Kusumnchi -- Kodad Kusumnchi Khammam,12.0,77.944004887441,1,1,Telangana,Telangana,Khammam Kodad Kusumnchi,FTL,Kodad Kusumnchi Khammam
+520,Bengaluru -- Bengaluru,12.0,41.42528923970826,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+521,Kolkata -- CCU,12.0,16.68609462357438,1,1,West Bengal,West Bengal,Kolkata,Carting,CCU
+522,Trivandrum Kollam -- Kollam Aluva,12.0,152.9258489732949,1,1,Kerala,Kerala,Trivandrum Kollam,FTL,Kollam Aluva
+523,Aluva Cochin -- Cochin Aluva,12.0,32.84735235389298,1,1,Kerala,Kerala,Aluva Cochin,Carting,Cochin Aluva
+524,Bengaluru -- Bengaluru,12.0,28.38856101710877,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+525,Sonipat -- Gurgaon,12.0,72.59173123866042,1,1,Haryana,Haryana,Sonipat,Carting,Gurgaon
+526,Ludhiana -- Chandigarh,12.0,87.82088422017218,1,1,Punjab,Punjab,Ludhiana,FTL,Chandigarh
+527,Bengaluru -- Bengaluru,12.0,28.630772969528223,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+528,Rewari Narnaul Gurgaon Bhiwadi Neemrana -- Gurgaon Rewari Neemrana Dharuhera Narnaul,12.0,104.18342061917622,2,2,Haryana Rajasthan,Haryana Rajasthan,Rewari Narnaul Gurgaon Bhiwadi Neemrana,FTL,Gurgaon Rewari Neemrana Dharuhera Narnaul
+529,Bhiwandi Mumbai -- Mumbai Bhiwandi,12.0,24.442603604428097,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+530,Panipat Karnal Sonipat -- Karnal Sonipat Panipat,12.0,70.60872367574781,1,1,Haryana,Haryana,Panipat Karnal Sonipat,FTL,Karnal Sonipat Panipat
+531,Surat -- Surat,12.0,10.556968341383387,1,1,Gujarat,Gujarat,Surat,Carting,Surat
+532,Bengaluru -- Bengaluru,12.0,42.34584681875628,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+533,Neemuch BariSadri Chittaurgarh Nimbahera -- BariSadri Chittaurgarh Nimbahera Neemuch,12.0,90.47689462587921,2,2,Rajasthan Madhya Pradesh,Madhya Pradesh Rajasthan,Neemuch BariSadri Chittaurgarh Nimbahera,FTL,BariSadri Chittaurgarh Nimbahera Neemuch
+534,Kamarpukur Kolkata Tarkeshwar Khanakul Arambag MirzapurWB -- MirzapurWB Tarkeshwar Khanakul Arambag Kamarpukur Kolkata,12.0,70.125590078499,1,1,West Bengal,West Bengal,Kamarpukur Kolkata Tarkeshwar Khanakul Arambag MirzapurWB,FTL,MirzapurWB Tarkeshwar Khanakul Arambag Kamarpukur Kolkata
+535,Allahabad Satna Churhat Sidhi Maihar Rewa -- Satna Rewa Sidhi Allahabad Maihar Churhat,12.0,266.34404839950804,2,2,Madhya Pradesh Uttar Pradesh,Uttar Pradesh Madhya Pradesh,Allahabad Satna Churhat Sidhi Maihar Rewa,FTL,Satna Rewa Sidhi Allahabad Maihar Churhat
+536,Bengaluru -- BLR,12.0,15.067041703132183,1,1,Karnataka,Karnataka,Bengaluru,Carting,BLR
+537,Malda Manikchak Paranpur Samsi Chanchal -- Manikchak Paranpur Samsi Malda Chanchal,12.0,43.62883497051658,1,1,West Bengal,West Bengal,Malda Manikchak Paranpur Samsi Chanchal,Carting,Manikchak Paranpur Samsi Malda Chanchal
+538,Itahar Kaliyaganj Malda Raiganj -- Kaliyaganj Malda Itahar Raiganj,12.0,69.87758991215946,1,1,West Bengal,West Bengal,Itahar Kaliyaganj Malda Raiganj,Carting,Kaliyaganj Malda Itahar Raiganj
+539,Gangarampr Bamangola Balurghat -- Balurghat Gangarmpur Gangarampr Malda,12.0,33.15789343049148,1,1,West Bengal,West Bengal,Gangarampr Bamangola Balurghat,Carting,Balurghat Gangarmpur Gangarampr Malda
+540,Mungaoli Bina Khurai Sagar -- Bina Khurai Rehli Mungaoli,12.0,102.97789491307861,1,1,Madhya Pradesh,Madhya Pradesh,Mungaoli Bina Khurai Sagar,FTL,Bina Khurai Rehli Mungaoli
+541,Theni Cumbum Kattappana Usilampatti Madurai -- Cumbum Kattappana Madurai Theni,12.0,147.3364553616042,2,2,Tamil Nadu Kerala,Tamil Nadu Kerala,Theni Cumbum Kattappana Usilampatti Madurai,FTL,Cumbum Kattappana Madurai Theni
+542,Pratapgarh Mandsaur Sitamau -- Mandsaur Sitamau Pratapgarh,12.0,102.48987515102543,2,2,Madhya Pradesh Rajasthan,Rajasthan Madhya Pradesh,Pratapgarh Mandsaur Sitamau,FTL,Mandsaur Sitamau Pratapgarh
+543,Bengaluru -- Bengaluru,12.0,39.67146574024053,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+544,Kanpur -- Kanpur,12.0,26.659887383514796,1,1,Uttar Pradesh,Uttar Pradesh,Kanpur,Carting,Kanpur
+545,Cjb Coimbatore -- Coimbatore Cjb,12.0,30.509563456962045,1,1,Tamil Nadu,Tamil Nadu,Cjb Coimbatore,Carting,Coimbatore Cjb
+546,MAA Hyderabad Bhopal -- Hyderabad Bhopal Gurgaon,12.0,1048.6870143955482,3,3,Telangana Madhya Pradesh Haryana,Tamil Nadu Telangana Madhya Pradesh,MAA Hyderabad Bhopal,FTL,Hyderabad Bhopal Gurgaon
+547,Kumbakonam Mylduthuri Mannargudi -- Mylduthuri Mannargudi Thirukkatupli,12.0,131.697659184404,1,1,Tamil Nadu,Tamil Nadu,Kumbakonam Mylduthuri Mannargudi,FTL,Mylduthuri Mannargudi Thirukkatupli
+548,Bengaluru -- Bengaluru,12.0,24.4752337538129,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+549,Gurgaon Vijayawada -- Vijayawada Hyderabad,12.0,1481.9261359905558,2,2,Andhra Pradesh Telangana,Haryana Andhra Pradesh,Gurgaon Vijayawada,FTL,Vijayawada Hyderabad
+550,Chennai -- Chennai,12.0,16.130861477432216,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+551,Bengaluru -- Bengaluru Aluva,12.0,286.4702916061577,1,2,Karnataka Kerala,Karnataka,Bengaluru,FTL,Bengaluru Aluva
+552,Gurgaon -- Sonipat,12.0,71.04664413703487,1,1,Haryana,Haryana,Gurgaon,Carting,Sonipat
+553,Bengaluru -- Bengaluru,12.0,18.54322808889191,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+554,Bengaluru -- Bengaluru,12.0,18.601506516143896,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+555,"Mainpuri Farrukhbad Shahabad Tilhar Jalalabad Chhibramau
+ Aliganj Shahjhnpur -- Farrukhbad Shahabad Shahjhnpur Jalalabad Aliganj Chhibramau
+ Mainpuri Tilhar",12.0,207.24705667359572,1,1,Uttar Pradesh,Uttar Pradesh,"Mainpuri Farrukhbad Shahabad Tilhar Jalalabad Chhibramau
+ Aliganj Shahjhnpur",FTL,"Farrukhbad Shahabad Shahjhnpur Jalalabad Aliganj Chhibramau
+ Mainpuri Tilhar"
+556,MAA -- Chennai,12.0,31.534480462603614,1,1,Tamil Nadu,Tamil Nadu,MAA,Carting,Chennai
+557,Bhiwandi -- Mumbai,12.0,16.56658346997662,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+558,Tirunelveli Vallior Marthandam -- Vallior Nagarcoil Tirunelveli,12.0,142.00394981718492,1,1,Tamil Nadu,Tamil Nadu,Tirunelveli Vallior Marthandam,FTL,Vallior Nagarcoil Tirunelveli
+559,Durgapur Kolkata -- Kolkata Durgapur,12.0,193.98847325694737,1,1,West Bengal,West Bengal,Durgapur Kolkata,FTL,Kolkata Durgapur
+560,Del -- Delhi,12.0,10.375296412555107,1,1,Delhi,Delhi,Del,Carting,Delhi
+561,Bangarapet Bethamangala Bengaluru Malur -- Bethamangala Bangarapet Malur Bengaluru,12.0,88.05182431818565,1,1,Karnataka,Karnataka,Bangarapet Bethamangala Bengaluru Malur,Carting,Bethamangala Bangarapet Malur Bengaluru
+562,MAA Chennai -- Chennai MAA,12.0,33.672733984899914,1,1,Tamil Nadu,Tamil Nadu,MAA Chennai,Carting,Chennai MAA
+563,"Pondicherry Cuddalore Chidambaram Sirkazhi Karaikal
+ Nagapttinm Thiruvarur -- Cuddalore Chidambaram Sirkazhi Karaikal Nagapttinm Thiruvarur
+ Pondicherry",12.0,230.2536020863552,2,2,Tamil Nadu Pondicherry,Pondicherry Tamil Nadu,"Pondicherry Cuddalore Chidambaram Sirkazhi Karaikal
+ Nagapttinm Thiruvarur",FTL,"Cuddalore Chidambaram Sirkazhi Karaikal Nagapttinm Thiruvarur
+ Pondicherry"
+564,Chandigarh -- Ludhiana,12.0,88.6063528600799,1,1,Punjab,Punjab,Chandigarh,FTL,Ludhiana
+565,"Mysore Nanjangud Gundlupet Chamarjngr Kollegala Malavalli
+ Tirumakudalu -- Nanjangud Gundlupet Chamarjngr Kollegala Malavalli
+ Tirumakudalu Mysore",12.0,154.32418972802103,1,1,Karnataka,Karnataka,"Mysore Nanjangud Gundlupet Chamarjngr Kollegala Malavalli
+ Tirumakudalu",FTL,"Nanjangud Gundlupet Chamarjngr Kollegala Malavalli
+ Tirumakudalu Mysore"
+566,Bengaluru -- Bengaluru,12.0,20.16458666932223,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+567,Ahmedabad -- Mehsana,12.0,81.85284566781831,1,1,Gujarat,Gujarat,Ahmedabad,FTL,Mehsana
+568,Chennai -- Chennai,12.0,16.591583191903243,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+569,Bihta Arrah -- Arrah Arwal,12.0,48.294643612159774,1,1,Bihar,Bihar,Bihta Arrah,FTL,Arrah Arwal
+570,Gurgaon -- Sonipat,12.0,70.29269500391437,1,1,Haryana,Haryana,Gurgaon,Carting,Sonipat
+571,LowerParel -- Mumbai,12.0,14.990811273645457,1,1,Maharashtra,Maharashtra,LowerParel,Carting,Mumbai
+572,Kolkata Bhubaneshwar Visakhapatnam -- Bhubaneshwar Visakhapatnam Hyderabad,12.0,1097.3338328336076,3,3,Orissa Andhra Pradesh Telangana,West Bengal Orissa Andhra Pradesh,Kolkata Bhubaneshwar Visakhapatnam,FTL,Bhubaneshwar Visakhapatnam Hyderabad
+573,Mehsana Vadnagar Palanpur Deesa -- Vadnagar Palanpur Deesa Mehsana,12.0,141.17310400636504,1,1,Gujarat,Gujarat,Mehsana Vadnagar Palanpur Deesa,FTL,Vadnagar Palanpur Deesa Mehsana
+574,Delhi Aligarh Mainpuri Shikohabad Firozabad -- Aligarh Mainpuri Shikohabad Firozabad Delhi,12.0,378.5707043480672,2,2,Uttar Pradesh Delhi,Delhi Uttar Pradesh,Delhi Aligarh Mainpuri Shikohabad Firozabad,FTL,Aligarh Mainpuri Shikohabad Firozabad Delhi
+575,Sonipat -- Gurgaon,12.0,72.75061860792998,1,1,Haryana,Haryana,Sonipat,Carting,Gurgaon
+576,Visakhapatnam Bheemunipatnam Vizianagaram -- Vizianagaram Visakhapatnam Bheemunipatnam,12.0,81.92048514323564,1,1,Andhra Pradesh,Andhra Pradesh,Visakhapatnam Bheemunipatnam Vizianagaram,Carting,Vizianagaram Visakhapatnam Bheemunipatnam
+577,"Karimnagar Vemulawada Jagtial Luxettipet Metpally DhrmpuriTS
+ nan -- Vemulawada nan DhrmpuriTS Karimnagar Jagtial Metpally
+ Luxettipet",12.0,125.94936146218366,1,1,Telangana nan,Telangana nan,"Karimnagar Vemulawada Jagtial Luxettipet Metpally DhrmpuriTS
+ nan",FTL,"Vemulawada nan DhrmpuriTS Karimnagar Jagtial Metpally
+ Luxettipet"
+578,Mumbai -- Bhiwandi,12.0,19.564595223725593,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+579,Bhiwandi Mumbai -- Mumbai Bhiwandi,12.0,24.77289874962835,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+580,Delhi -- FBD,12.0,20.18602845347765,1,1,Haryana,Delhi,Delhi,Carting,FBD
+581,Chennai -- MAA,12.0,24.981361657805383,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,MAA
+582,Pratapgarh Udaipur Banswara -- Udaipur Banswara Pratapgarh,12.0,183.07139929136812,1,1,Rajasthan,Rajasthan,Pratapgarh Udaipur Banswara,FTL,Udaipur Banswara Pratapgarh
+583,Bhiwandi Mumbai -- Mumbai Bhiwandi,12.0,28.345800425491063,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+584,Pune -- Aurangabad,12.0,202.99647339068994,1,1,Maharashtra,Maharashtra,Pune,FTL,Aurangabad
+585,Chandigarh -- Chandigarh,12.0,31.426572845233565,1,1,Punjab,Chandigarh,Chandigarh,Carting,Chandigarh
+586,Bengaluru -- Bengaluru,12.0,28.193030232599224,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+587,Jairampur Margherita -- Margherita Jairampur,12.0,63.640877082389046,2,2,Assam Arunachal Pradesh,Arunachal Pradesh Assam,Jairampur Margherita,Carting,Margherita Jairampur
+588,Pune -- PNQ,12.0,10.032462900995156,1,1,Maharashtra,Maharashtra,Pune,Carting,PNQ
+589,Bengaluru -- Bengaluru,12.0,39.7348267383016,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+590,Coimbatore -- Tirupur,12.0,23.107747477124956,1,1,Tamil Nadu,Tamil Nadu,Coimbatore,FTL,Tirupur
+591,Bhandara -- Bhandara Savner,12.0,101.52587689041673,1,1,Maharashtra,Maharashtra,Bhandara,Carting,Bhandara Savner
+592,Purnia Narpatganj Simrahi Araria Raniganj nan -- Araria Simrahi Purnia nan Raniganj,12.0,166.33059031209942,1,1,Bihar nan,Bihar nan,Purnia Narpatganj Simrahi Araria Raniganj nan,FTL,Araria Simrahi Purnia nan Raniganj
+593,Goa Canacona Ankola Honnavar Bhatkal -- Canacona Mangalore Honnavar Bhatkal Ankola,12.0,266.10875766955905,2,2,Goa Karnataka,Goa Karnataka,Goa Canacona Ankola Honnavar Bhatkal,FTL,Canacona Mangalore Honnavar Bhatkal Ankola
+594,Bhopal Narsinghgarh Pachore Shajapur Shujalpur -- Narsinghgarh Pachore Shajapur Bhopal Shujalpur,12.0,203.61713914985307,1,1,Madhya Pradesh,Madhya Pradesh,Bhopal Narsinghgarh Pachore Shajapur Shujalpur,FTL,Narsinghgarh Pachore Shajapur Bhopal Shujalpur
+595,Chandigarh -- Sonipat,12.0,174.26145484935103,1,1,Haryana,Punjab,Chandigarh,FTL,Sonipat
+596,Tiruchi -- Tiruchi,12.0,15.900678471831855,1,1,Tamil Nadu,Tamil Nadu,Tiruchi,Carting,Tiruchi
+597,Ahmedabad -- Gandhidham,12.0,254.57754009060966,1,1,Gujarat,Gujarat,Ahmedabad,FTL,Gandhidham
+598,Bengaluru -- Bengaluru,12.0,20.38169006700154,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+599,"Guwahati Rangia Kokrajhar Dhubri Bilasipara Tura Nalbari
+ Barpeta Bongaigaon Lakhipur -- Rangia Nalbari Dhubri Bilasipara Lakhipur Guwahati Barpeta
+ Bongaigaon Kokrajhar Tura",12.0,332.60222492932445,2,2,Assam Meghalaya,Assam Meghalaya,"Guwahati Rangia Kokrajhar Dhubri Bilasipara Tura Nalbari
+ Barpeta Bongaigaon Lakhipur",FTL,"Rangia Nalbari Dhubri Bilasipara Lakhipur Guwahati Barpeta
+ Bongaigaon Kokrajhar Tura"
+600,Mehsana Himmatnagar Modasa Khedbrahma -- Himmatnagar Modasa Khedbrahma Mehsana,11.0,168.81212737580367,1,1,Gujarat,Gujarat,Mehsana Himmatnagar Modasa Khedbrahma,FTL,Himmatnagar Modasa Khedbrahma Mehsana
+601,Banka Bhagalpur -- Bhagalpur Kahalgaon,11.0,62.390172445589094,1,1,Bihar,Bihar,Banka Bhagalpur,FTL,Bhagalpur Kahalgaon
+602,Gurgaon -- KN,11.0,46.1443030582902,1,1,Delhi,Haryana,Gurgaon,Carting,KN
+603,Srirangapatna Mandya Ramanagara Kanakapura Bengaluru -- Mandya Chanapatna Kanakapura Bengaluru Mysore,11.0,230.7515285714427,1,1,Karnataka,Karnataka,Srirangapatna Mandya Ramanagara Kanakapura Bengaluru,FTL,Mandya Chanapatna Kanakapura Bengaluru Mysore
+604,Hyderabad Anantapur -- Anantapur Bengaluru,11.0,457.73165223685265,2,2,Andhra Pradesh Karnataka,Telangana Andhra Pradesh,Hyderabad Anantapur,FTL,Anantapur Bengaluru
+605,Bhopal -- Bhopal,11.0,13.464267404726787,1,1,Madhya Pradesh,Madhya Pradesh,Bhopal,Carting,Bhopal
+606,Noida -- Gurgaon,11.0,61.708981076820585,1,1,Haryana,Uttar Pradesh,Noida,Carting,Gurgaon
+607,Delhi Gurgaon Hisar Hansi Meham -- Gurgaon Hisar Delhi Hansi Meham,11.0,251.18912553154715,2,2,Haryana Delhi,Delhi Haryana,Delhi Gurgaon Hisar Hansi Meham,FTL,Gurgaon Hisar Delhi Hansi Meham
+608,Noida Dadri -- Dadri Noida,11.0,26.61316800396878,1,1,Uttar Pradesh,Uttar Pradesh,Noida Dadri,Carting,Dadri Noida
+609,Mehsana Kadi -- Kadi Ahmedabad,11.0,84.69153889830976,1,1,Gujarat,Gujarat,Mehsana Kadi,FTL,Kadi Ahmedabad
+610,Hyderabad Bhopal -- Bhopal Gurgaon,11.0,1124.123332092348,2,2,Madhya Pradesh Haryana,Telangana Madhya Pradesh,Hyderabad Bhopal,FTL,Bhopal Gurgaon
+611,Kolkata -- CCU,11.0,23.623529746125243,1,1,West Bengal,West Bengal,Kolkata,Carting,CCU
+612,Bhiwandi Mumbai -- Mumbai Bhiwandi,11.0,39.88281020108234,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+613,Moodbidri Karkala Dhrmsthala Mangalore -- Karkala Dhrmsthala Mangalore Moodbidri,11.0,76.23834081577766,1,1,Karnataka,Karnataka,Moodbidri Karkala Dhrmsthala Mangalore,Carting,Karkala Dhrmsthala Mangalore Moodbidri
+614,MAA Kanchipuram Arakkonam -- Kanchipuram Arakkonam MAA,11.0,78.48715443882472,1,1,Tamil Nadu,Tamil Nadu,MAA Kanchipuram Arakkonam,Carting,Kanchipuram Arakkonam MAA
+615,Ganga Hisar Hanumangarh -- Sirsa Hanumangarh Ganga,11.0,179.72410037391603,2,2,Haryana Rajasthan,Rajasthan Haryana,Ganga Hisar Hanumangarh,FTL,Sirsa Hanumangarh Ganga
+616,Guwahati -- Silchar,11.0,175.9476579964561,1,1,Assam,Assam,Guwahati,FTL,Silchar
+617,Hisar Ratia Barwala Fatehabad -- Hisar Ratia Fatehabad Barwala,11.0,74.53639060343728,1,1,Haryana,Haryana,Hisar Ratia Barwala Fatehabad,FTL,Hisar Ratia Fatehabad Barwala
+618,Bengaluru -- HBR,11.0,21.073909968779287,1,1,Karnataka,Karnataka,Bengaluru,Carting,HBR
+619,Bhuj Anjar Nakhatrana -- Anjar Bhuj Nakhatrana,11.0,82.8836563992521,1,1,Gujarat,Gujarat,Bhuj Anjar Nakhatrana,FTL,Anjar Bhuj Nakhatrana
+620,Airport Chennai -- Chennai,11.0,23.533687373174306,1,1,Tamil Nadu,Tamil Nadu,Airport Chennai,Carting,Chennai
+621,Bhiwandi Lonavala -- Lonavala Bhiwandi,11.0,123.61133444742318,1,1,Maharashtra,Maharashtra,Bhiwandi Lonavala,FTL,Lonavala Bhiwandi
+622,Hyderabad Solapur -- Solapur Bhiwandi,11.0,552.9709133138612,2,1,Maharashtra,Telangana Maharashtra,Hyderabad Solapur,FTL,Solapur Bhiwandi
+623,Hyderabad -- Hyderabad,11.0,26.96544355953307,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+624,Ahmedabad -- Bhavnagar,11.0,138.3847514579799,1,1,Gujarat,Gujarat,Ahmedabad,FTL,Bhavnagar
+625,Bengaluru -- Bengaluru Aluva Kerala,11.0,279.352141315729,1,2,Karnataka Kerala,Karnataka,Bengaluru,FTL,Bengaluru Aluva Kerala
+626,Pune -- Pune,11.0,16.432490201098265,1,1,Maharashtra,Maharashtra,Pune,Carting,Pune
+627,CCU -- Kolkata,11.0,15.656755855736963,1,1,West Bengal,West Bengal,CCU,Carting,Kolkata
+628,Delhi -- Sonipat,11.0,35.7835424673898,1,1,Haryana,Delhi,Delhi,Carting,Sonipat
+629,Bengaluru -- Bengaluru,11.0,17.62989807836175,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+630,Chandigarh -- Chandigarh,11.0,31.42044023670544,1,1,Chandigarh,Punjab,Chandigarh,Carting,Chandigarh
+631,Jorhat Teok Mariani Mokokchung -- Teok Mariani Jorhat Mokokchung,11.0,54.3976426499835,2,2,Assam Nagaland,Assam Nagaland,Jorhat Teok Mariani Mokokchung,Carting,Teok Mariani Jorhat Mokokchung
+632,Agra Kirauli -- Kirauli Agra,11.0,26.533208485509206,1,1,Uttar Pradesh,Uttar Pradesh,Agra Kirauli,Carting,Kirauli Agra
+633,Durgapur Barjora Bankura Bishnupur -- Barjora Bankura Bishnupur Durgapur,11.0,72.56747849972434,1,1,West Bengal,West Bengal,Durgapur Barjora Bankura Bishnupur,Carting,Barjora Bankura Bishnupur Durgapur
+634,Bhubaneshwar Khurdha -- Khurdha Bhubaneshwar,11.0,29.206149014409345,1,1,Orissa,Orissa,Bhubaneshwar Khurdha,Carting,Khurdha Bhubaneshwar
+635,Sasaram Mohania Dinara Bikramgang -- Mohania Dinara Bikramgang Sasaram,11.0,101.05260979827462,1,1,Bihar,Bihar,Sasaram Mohania Dinara Bikramgang,FTL,Mohania Dinara Bikramgang Sasaram
+636,Kolkata -- Gurgaon,11.0,1300.5738130212103,1,1,Haryana,West Bengal,Kolkata,FTL,Gurgaon
+637,Hyderabad -- Hyderabad,11.0,16.45340694579684,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+638,MAA -- Chennai,11.0,31.51846304170524,1,1,Tamil Nadu,Tamil Nadu,MAA,Carting,Chennai
+639,Hyderabad Mahabubnagar Bijnapally Jadcherla Shadnagar -- Mahabubnagar Bijnapally Jadcherla Hyderabad Shadnagar,11.0,172.6253963341901,1,1,Telangana,Telangana,Hyderabad Mahabubnagar Bijnapally Jadcherla Shadnagar,FTL,Mahabubnagar Bijnapally Jadcherla Hyderabad Shadnagar
+640,Akhnoor Jammu -- Jammu Akhnoor,11.0,31.086410373741877,1,1,Jammu & Kashmir,Jammu & Kashmir,Akhnoor Jammu,Carting,Jammu Akhnoor
+641,Bengaluru -- Bengaluru,11.0,31.613779799861152,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+642,Chandigarh -- Zirakpur Chandigarh,11.0,44.67883710590912,2,2,Punjab Chandigarh,Punjab Chandigarh,Chandigarh,Carting,Zirakpur Chandigarh
+643,BLR -- Bengaluru,11.0,15.534084409573728,1,1,Karnataka,Karnataka,BLR,Carting,Bengaluru
+644,Bhiwandi -- Pune,11.0,101.23863743793376,1,1,Maharashtra,Maharashtra,Bhiwandi,FTL,Pune
+645,Pune Solapur -- Solapur Hyderabad,11.0,425.3357464426314,1,2,Maharashtra Telangana,Maharashtra,Pune Solapur,FTL,Solapur Hyderabad
+646,Bhiwandi Pune -- Pune Vijayawada,11.0,796.3832897100924,1,2,Maharashtra Andhra Pradesh,Maharashtra,Bhiwandi Pune,FTL,Pune Vijayawada
+647,Bengaluru -- Bengaluru,11.0,39.6761546233517,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+648,Sankari Erode -- Erode Perundurai,11.0,23.005805363775096,1,1,Tamil Nadu,Tamil Nadu,Sankari Erode,FTL,Erode Perundurai
+649,MAA Chennai -- Chennai MAA,11.0,42.84084210713675,1,1,Tamil Nadu,Tamil Nadu,MAA Chennai,Carting,Chennai MAA
+650,Purnia Katihar Naugchia -- Katihar Khagaria Naugchia,11.0,115.94703444911734,1,1,Bihar,Bihar,Purnia Katihar Naugchia,FTL,Katihar Khagaria Naugchia
+651,Bhiwandi -- Bhopal,11.0,644.8104417472764,1,1,Madhya Pradesh,Maharashtra,Bhiwandi,FTL,Bhopal
+652,"Golaghat Jorhat Sivasagar Dibrugarh Guwahati Bokakhat
+ Moranhat -- Jorhat Sivasagar Dibrugarh Moranhat Golaghat Bokakhat
+ Guwahati",11.0,258.5465870589864,1,1,Assam,Assam,"Golaghat Jorhat Sivasagar Dibrugarh Guwahati Bokakhat
+ Moranhat",FTL,"Jorhat Sivasagar Dibrugarh Moranhat Golaghat Bokakhat
+ Guwahati"
+653,Hyderabad Medchal Hyd -- Medchal Hyderabad,11.0,18.433619832052827,1,1,Telangana,Telangana,Hyderabad Medchal Hyd,Carting,Medchal Hyderabad
+654,Chennai -- Chennai,10.0,12.890782247702035,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+655,Bhubaneshwar Tangi Berhampur -- Berhampur Bhubaneshwar Tangi,10.0,183.03628949274412,1,1,Orissa,Orissa,Bhubaneshwar Tangi Berhampur,FTL,Berhampur Bhubaneshwar Tangi
+656,Pune -- Pune,10.0,21.66051582425311,1,1,Maharashtra,Maharashtra,Pune,Carting,Pune
+657,Sendhwa Dhule Bhiwandi -- Dhule Bhiwandi Bhopal,10.0,416.09055760508375,2,2,Maharashtra Madhya Pradesh,Madhya Pradesh Maharashtra,Sendhwa Dhule Bhiwandi,FTL,Dhule Bhiwandi Bhopal
+658,Hyderabad Bhubaneshwar -- Bhubaneshwar Kolkata,10.0,1181.342746544622,2,2,Orissa West Bengal,Telangana Orissa,Hyderabad Bhubaneshwar,FTL,Bhubaneshwar Kolkata
+659,Bengaluru -- Bengaluru,10.0,28.68663991794467,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+660,"Sikar Jhunjhunu Khetri NeemKaThana Sultana -- Jhunjhunu Sultana NeemKaThana Shrimadhopur Khetri Khandela
+ Buhana",10.0,68.51014412278363,1,1,Rajasthan,Rajasthan,Sikar Jhunjhunu Khetri NeemKaThana Sultana,FTL,"Jhunjhunu Sultana NeemKaThana Shrimadhopur Khetri Khandela
+ Buhana"
+661,Ahmedabad -- Ahmedabad,10.0,10.884082328610933,1,1,Gujarat,Gujarat,Ahmedabad,Carting,Ahmedabad
+662,Hyderabad -- Patancheru,10.0,29.205672793494948,1,1,Telangana,Telangana,Hyderabad,Carting,Patancheru
+663,Rasipurm -- Namakkal,10.0,27.004770033160035,1,1,Tamil Nadu,Tamil Nadu,Rasipurm,FTL,Namakkal
+664,Pune -- Pune,10.0,15.494579079393773,1,1,Maharashtra,Maharashtra,Pune,Carting,Pune
+665,Hisar Rawatsar Sidhmukh Nohar -- Rawatsar Nohar Hisar Bhadra,10.0,134.1605422243096,2,2,Rajasthan Haryana,Haryana Rajasthan,Hisar Rawatsar Sidhmukh Nohar,FTL,Rawatsar Nohar Hisar Bhadra
+666,Pune -- PNQ,10.0,10.11461334056791,1,1,Maharashtra,Maharashtra,Pune,Carting,PNQ
+667,Mumbai -- Mumbai,10.0,16.566411928717013,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+668,Bhiwandi -- Mumbai,10.0,21.54625030061181,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+669,Narsinghpur Gadarwara Jabalpur Narsingpur Bareli -- Gadarwara Bareli Narsinghpur Bhopal Narsingpur,10.0,147.83484075947283,1,1,Madhya Pradesh,Madhya Pradesh,Narsinghpur Gadarwara Jabalpur Narsingpur Bareli,FTL,Gadarwara Bareli Narsinghpur Bhopal Narsingpur
+670,Kolhapur Nipani Chikodi Athani Bijapur Jath -- Nipani Chikodi Athani Bijapur Jath Kolhapur,10.0,171.88603162347997,2,2,Karnataka Maharashtra,Maharashtra Karnataka,Kolhapur Nipani Chikodi Athani Bijapur Jath,FTL,Nipani Chikodi Athani Bijapur Jath Kolhapur
+671,Mumbai -- Mumbai,10.0,17.55211642237351,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+672,Bengaluru -- Bengaluru,10.0,16.079048129173607,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+673,Bengaluru -- Bengaluru,10.0,24.299602647637236,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+674,Chennai -- Chennai,10.0,28.356679112660846,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+675,Pune -- PNQ,10.0,10.185998893185268,1,1,Maharashtra,Maharashtra,Pune,Carting,PNQ
+676,Bengaluru -- BLR,10.0,25.680392262930617,1,1,Karnataka,Karnataka,Bengaluru,Carting,BLR
+677,Bengaluru -- Bengaluru,10.0,28.085669443153574,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+678,Bhiwandi -- Mumbai,10.0,21.33143131811483,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+679,Mumbai -- Bhiwandi,10.0,36.52761895584406,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+680,Mumbai -- Bhiwandi,10.0,20.331986313420476,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+681,Bhiwandi Mumbai -- Mumbai Bhiwandi,10.0,27.49094610590125,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+682,Pune -- PNQ,10.0,21.670112971659123,1,1,Maharashtra,Maharashtra,Pune,Carting,PNQ
+683,Delhi -- Gurgaon,10.0,32.45770501139461,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+684,Aluva -- Bengaluru,10.0,348.3147932195676,1,1,Karnataka,Kerala,Aluva,FTL,Bengaluru
+685,Chennai -- MAA,10.0,24.702434871323998,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,MAA
+686,MAA Ranipet Sholinghur Vellore -- Vellore Sholinghur MAA Ranipet,10.0,154.15631440758114,1,1,Tamil Nadu,Tamil Nadu,MAA Ranipet Sholinghur Vellore,FTL,Vellore Sholinghur MAA Ranipet
+687,Bhiwandi Mumbai -- Mumbai Bhiwandi,10.0,40.24516967561748,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+688,Hyderabad Hyd Medchal -- Medchal Hyd Hyderabad,10.0,16.691002312597657,1,1,Telangana,Telangana,Hyderabad Hyd Medchal,Carting,Medchal Hyd Hyderabad
+689,Bengaluru Bellary Molakalmuru Challakere -- Bellary Molakalmuru Challakere Bengaluru,10.0,493.6357851163244,1,1,Karnataka,Karnataka,Bengaluru Bellary Molakalmuru Challakere,FTL,Bellary Molakalmuru Challakere Bengaluru
+690,Pune -- Bengaluru,10.0,731.4311523157688,1,1,Karnataka,Maharashtra,Pune,FTL,Bengaluru
+691,Purnia Araria Raniganj Forbesganj Simrahi Narpatganj -- Araria Raniganj Forbesganj Simrahi Narpatganj Purnia,10.0,197.23245238488536,1,1,Bihar,Bihar,Purnia Araria Raniganj Forbesganj Simrahi Narpatganj,FTL,Araria Raniganj Forbesganj Simrahi Narpatganj Purnia
+692,Pune PNQ -- PNQ Pune,10.0,14.484991936607477,1,1,Maharashtra,Maharashtra,Pune PNQ,Carting,PNQ Pune
+693,Bengaluru -- Bengaluru,10.0,39.86321640477571,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+694,Ghaziabad -- Del,10.0,21.262688996645558,1,1,Delhi,Uttar Pradesh,Ghaziabad,Carting,Del
+695,Bengaluru -- Bengaluru,10.0,21.296337557656525,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+696,Hyderabad Pune -- Pune Bhiwandi,10.0,616.0094337209033,2,1,Maharashtra,Telangana Maharashtra,Hyderabad Pune,FTL,Pune Bhiwandi
+697,Jaipur -- Jaipur,10.0,11.669547184599729,1,1,Rajasthan,Rajasthan,Jaipur,Carting,Jaipur
+698,Guwahati Shillong Jowai -- Shillong Jowai Guwahati,10.0,87.77504748099572,2,2,Meghalaya Assam,Assam Meghalaya,Guwahati Shillong Jowai,FTL,Shillong Jowai Guwahati
+699,Bhiwandi Mumbai -- Mumbai Bhiwandi,10.0,24.146303679406905,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+700,Gandhidham Halvad Dhrangadhra -- Halvad Dhrangadhra Ahmedabad,10.0,228.80420815671272,1,1,Gujarat,Gujarat,Gandhidham Halvad Dhrangadhra,FTL,Halvad Dhrangadhra Ahmedabad
+701,Aurangabad -- Pune,10.0,203.3433665956587,1,1,Maharashtra,Maharashtra,Aurangabad,FTL,Pune
+702,Kolkata -- CCU,10.0,15.512500310477098,1,1,West Bengal,West Bengal,Kolkata,Carting,CCU
+703,Dhule Manmad Malegaon -- Manmad Malegaon Satana,10.0,92.86017435432485,1,1,Maharashtra,Maharashtra,Dhule Manmad Malegaon,FTL,Manmad Malegaon Satana
+704,Mumbai -- Mumbai,10.0,10.624475883213226,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+705,Ahmedabad Anand Vadodara -- Anand Vadodara Surat,10.0,156.8901942211065,1,1,Gujarat,Gujarat,Ahmedabad Anand Vadodara,FTL,Anand Vadodara Surat
+706,Kolkata -- CCU,10.0,24.27426215333598,1,1,West Bengal,West Bengal,Kolkata,Carting,CCU
+707,Ambur Tiruppattur -- Tiruppattur Ambur,10.0,77.3805118699876,1,1,Tamil Nadu,Tamil Nadu,Ambur Tiruppattur,Carting,Tiruppattur Ambur
+708,Jaipur -- Gurgaon,10.0,195.89424947407505,1,1,Haryana,Rajasthan,Jaipur,FTL,Gurgaon
+709,Pune -- Hyderabad,10.0,515.0390303688207,1,1,Telangana,Maharashtra,Pune,FTL,Hyderabad
+710,Aluva Thrissur Vadakkencherry Pallakad -- Thrissur Vadakkencherry Pallakad Bengaluru,10.0,318.0362614114316,1,2,Kerala Karnataka,Kerala,Aluva Thrissur Vadakkencherry Pallakad,FTL,Thrissur Vadakkencherry Pallakad Bengaluru
+711,Bengaluru -- Bengaluru,10.0,41.01367622247729,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+712,Mangalore Bantwal Puttur Sullia Kadaba -- Bengaluru Bantwal Puttur Sullia Kadaba,10.0,240.5028367290591,1,1,Karnataka,Karnataka,Mangalore Bantwal Puttur Sullia Kadaba,FTL,Bengaluru Bantwal Puttur Sullia Kadaba
+713,Delhi -- Sonipat,10.0,36.11087253883606,1,1,Haryana,Delhi,Delhi,Carting,Sonipat
+714,Hospet Sandur Bellary -- Sandur Bellary Hospet,10.0,85.25863789372234,1,1,Karnataka,Karnataka,Hospet Sandur Bellary,FTL,Sandur Bellary Hospet
+715,Mumbai -- Mumbai,10.0,12.907015503729912,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+716,MAA -- Chennai,10.0,26.906056572763582,1,1,Tamil Nadu,Tamil Nadu,MAA,Carting,Chennai
+717,Guwahati -- Guwahati,10.0,10.798666669853299,1,1,Assam,Assam,Guwahati,Carting,Guwahati
+718,Delhi Noida -- Noida Kanpur,9.0,390.64564935575373,2,1,Uttar Pradesh,Delhi Uttar Pradesh,Delhi Noida,FTL,Noida Kanpur
+719,Bengaluru -- Bengaluru,9.0,29.857170462230506,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+720,Bengaluru -- BLR,9.0,15.27793016000411,1,1,Karnataka,Karnataka,Bengaluru,Carting,BLR
+721,Chennai -- MAA,9.0,31.434713625144607,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,MAA
+722,Bengaluru Hassan -- Hassan Mangalore,9.0,252.44299712774247,1,1,Karnataka,Karnataka,Bengaluru Hassan,FTL,Hassan Mangalore
+723,Gurgaon -- Hisar,9.0,143.145527355616,1,1,Haryana,Haryana,Gurgaon,FTL,Hisar
+724,Mumbai -- Bhiwandi,9.0,22.80497575983084,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+725,Kolkata -- CCU,9.0,16.850039118143386,1,1,West Bengal,West Bengal,Kolkata,Carting,CCU
+726,Bengaluru -- Bengaluru,9.0,39.099951926040056,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+727,Bengaluru -- Bengaluru,9.0,19.523126940616773,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+728,Gurgaon GGN -- Gurgaon,9.0,13.436717143332778,1,1,Haryana,Haryana,Gurgaon GGN,Carting,Gurgaon
+729,Kanpur -- Kanpur,9.0,28.242953827451274,1,1,Uttar Pradesh,Uttar Pradesh,Kanpur,Carting,Kanpur
+730,Kolhapur Satara Khandala Wai -- Satara Wai Pune Khandala,9.0,207.94506438221472,1,1,Maharashtra,Maharashtra,Kolhapur Satara Khandala Wai,FTL,Satara Wai Pune Khandala
+731,Hyderabad -- Hyderabad,9.0,21.409051746559385,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+732,Jaipur Ajmer Pali Jodhpur Piparcity Gotan -- Ajmer Pali Jodhpur Gotan Piparcity Jaipur,9.0,481.9360656960567,1,1,Rajasthan,Rajasthan,Jaipur Ajmer Pali Jodhpur Piparcity Gotan,FTL,Ajmer Pali Jodhpur Gotan Piparcity Jaipur
+733,Sedam Chincholi Gulbarga Chittapur -- Chincholi Gulbarga Chittapur Sedam,9.0,134.56491220677802,1,1,Karnataka,Karnataka,Sedam Chincholi Gulbarga Chittapur,Carting,Chincholi Gulbarga Chittapur Sedam
+734,Bengaluru -- Bengaluru,9.0,10.545995666847777,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+735,Margherita Changlang -- Changlang Margherita,9.0,25.62560518116621,2,2,Arunachal Pradesh Assam,Assam Arunachal Pradesh,Margherita Changlang,Carting,Changlang Margherita
+736,Vadodara Dabhoi -- Dabhoi Vadodara,9.0,45.57616763318277,1,1,Gujarat,Gujarat,Vadodara Dabhoi,Carting,Dabhoi Vadodara
+737,Dhanbad -- Dhanbad,9.0,14.227839065241234,1,1,Jharkhand,Jharkhand,Dhanbad,Carting,Dhanbad
+738,Bengaluru -- Bengaluru,9.0,39.707479993099504,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+739,Chennai -- MAA,9.0,31.328537138629386,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,MAA
+740,BLR -- Bengaluru,9.0,16.93774059959067,1,1,Karnataka,Karnataka,BLR,Carting,Bengaluru
+741,Aurangabad Beed Georai Shevgaon Paithan -- Beed Georai Shevgaon Paithan Aurangabad,9.0,215.07031334987607,1,1,Maharashtra,Maharashtra,Aurangabad Beed Georai Shevgaon Paithan,FTL,Beed Georai Shevgaon Paithan Aurangabad
+742,Karur Dindigul -- Dindigul Madurai,9.0,122.71640183219081,1,1,Tamil Nadu,Tamil Nadu,Karur Dindigul,FTL,Dindigul Madurai
+743,Bhiwandi Bengaluru -- Bengaluru MAA,9.0,1097.5587075109308,2,2,Karnataka Tamil Nadu,Maharashtra Karnataka,Bhiwandi Bengaluru,FTL,Bengaluru MAA
+744,Bhiwandi -- Mumbai,9.0,22.733790891469987,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+745,Delhi OK -- OK Delhi,9.0,27.548383023089073,1,1,Delhi,Delhi,Delhi OK,Carting,OK Delhi
+746,Bengaluru -- Bengaluru,9.0,39.83179292078742,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+747,Guwahati -- Guwahati,9.0,12.198190500815631,1,1,Assam,Assam,Guwahati,Carting,Guwahati
+748,Chennai -- Chennai,9.0,15.568441264095298,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+749,Gurgaon -- Chandigarh,9.0,236.757634648951,1,1,Punjab,Haryana,Gurgaon,FTL,Chandigarh
+750,Bellary Hospet Sandur -- Hospet Bellary Sandur,9.0,103.67002699696967,1,1,Karnataka,Karnataka,Bellary Hospet Sandur,FTL,Hospet Bellary Sandur
+751,Pune -- Nanded,9.0,381.9090371218997,1,1,Maharashtra,Maharashtra,Pune,FTL,Nanded
+752,Sonipat Bahadurgarh -- Bahadurgarh Sonipat,9.0,56.24269179867975,1,1,Haryana,Haryana,Sonipat Bahadurgarh,FTL,Bahadurgarh Sonipat
+753,Bengaluru -- Bengaluru,9.0,39.68138049082205,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+754,Bhatinda Barnala Bhadaur -- Barnala Bhadaur Bhatinda,9.0,68.40949861213508,1,1,Punjab,Punjab,Bhatinda Barnala Bhadaur,FTL,Barnala Bhadaur Bhatinda
+755,"Koraput Jeypore Visakhapatnam Pappadahandi Nabarangpr -- Jeypore Nabarangpr Visakhapatnam Umerkote Koraput
+ Pappadahandi",9.0,157.9743707217905,2,2,Orissa Andhra Pradesh,Orissa Andhra Pradesh,Koraput Jeypore Visakhapatnam Pappadahandi Nabarangpr,Carting,"Jeypore Nabarangpr Visakhapatnam Umerkote Koraput
+ Pappadahandi"
+756,Chhapra Siwan -- Siwan Gopalganj,9.0,77.16197641885856,1,1,Bihar,Bihar,Chhapra Siwan,FTL,Siwan Gopalganj
+757,Bhiwandi -- Kolkata,9.0,1628.80743819667,1,1,West Bengal,Maharashtra,Bhiwandi,FTL,Kolkata
+758,Dola Umaria Shahdol Jabalpur PaliBirsighpr Anuppur -- Jabalpur Shahdol Dola Umaria Anuppur PaliBirsighpr,9.0,165.499970155093,1,1,Madhya Pradesh,Madhya Pradesh,Dola Umaria Shahdol Jabalpur PaliBirsighpr Anuppur,FTL,Jabalpur Shahdol Dola Umaria Anuppur PaliBirsighpr
+759,Sonipat Roorkee Haridwar Rishikesh -- Roorkee Haridwar Rishikesh Sonipat,9.0,333.9209159604336,2,2,Uttarakhand Haryana,Haryana Uttarakhand,Sonipat Roorkee Haridwar Rishikesh,FTL,Roorkee Haridwar Rishikesh Sonipat
+760,Vijayawada Nandigama -- Nandigama Vijayawada,9.0,82.6623591532454,1,1,Andhra Pradesh,Andhra Pradesh,Vijayawada Nandigama,Carting,Nandigama Vijayawada
+761,Pune -- PNQ,9.0,10.277718863805687,1,1,Maharashtra,Maharashtra,Pune,Carting,PNQ
+762,Guwahati -- Guwahati,9.0,16.129452544048018,1,1,Assam,Assam,Guwahati,Carting,Guwahati
+763,Gondia -- Balaghat,9.0,35.59398801588786,1,1,Madhya Pradesh,Maharashtra,Gondia,FTL,Balaghat
+764,Guwahati Chhaygaon -- Chhaygaon Guwahati,9.0,42.2307380196119,1,1,Assam,Assam,Guwahati Chhaygaon,Carting,Chhaygaon Guwahati
+765,"Mangalore Udupi Kundapura Bhatkal Honnavar Kumta Ankola
+ Uchila Surathkal -- Uchila Kundapura Bhatkal Honnavar Kumta Ankola Goa
+ Surathkal Udupi",9.0,195.25719263917483,1,2,Karnataka Goa,Karnataka,"Mangalore Udupi Kundapura Bhatkal Honnavar Kumta Ankola
+ Uchila Surathkal",FTL,"Uchila Kundapura Bhatkal Honnavar Kumta Ankola Goa
+ Surathkal Udupi"
+766,Bengaluru -- Bengaluru,9.0,18.3604116499066,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+767,Hyderabad Tandur Vikarabad Shadnagar -- Tandur Vikarabad Shadnagar Hyderabad,9.0,143.8692952589832,1,1,Telangana,Telangana,Hyderabad Tandur Vikarabad Shadnagar,Carting,Tandur Vikarabad Shadnagar Hyderabad
+768,Hyderabad -- Hyderabad,9.0,35.322390024918356,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+769,Sonipat Modinagar Daurala Khatauli -- Modinagar Meerut Khatauli Sonipat,9.0,52.920506291330554,2,2,Uttar Pradesh Haryana,Haryana Uttar Pradesh,Sonipat Modinagar Daurala Khatauli,FTL,Modinagar Meerut Khatauli Sonipat
+770,Delhi -- Delhi,9.0,10.626682046818372,1,1,Delhi,Delhi,Delhi,Carting,Delhi
+771,Pune -- PNQ,9.0,21.910513903371378,1,1,Maharashtra,Maharashtra,Pune,Carting,PNQ
+772,Jaipur Udaipur -- Udaipur Ahmedabad,9.0,456.2546307024663,1,2,Rajasthan Gujarat,Rajasthan,Jaipur Udaipur,FTL,Udaipur Ahmedabad
+773,Delhi -- Gurgaon,9.0,36.484570099563,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+774,Chandigarh -- Delhi,9.0,209.75130518018076,1,1,Delhi,Punjab,Chandigarh,FTL,Delhi
+775,PNQ -- Pune,9.0,10.18207786457566,1,1,Maharashtra,Maharashtra,PNQ,Carting,Pune
+776,Gomoh Dhanbad -- Dhanbad Gomoh,9.0,29.262427271747065,1,1,Jharkhand,Jharkhand,Gomoh Dhanbad,Carting,Dhanbad Gomoh
+777,Noida -- Gurgaon,9.0,66.78737745795208,1,1,Haryana,Uttar Pradesh,Noida,Carting,Gurgaon
+778,Delhi -- Gurgaon,9.0,54.93352695089182,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+779,Gurgaon Vadodara -- Vadodara Surat,9.0,562.9622832279153,2,1,Gujarat,Haryana Gujarat,Gurgaon Vadodara,FTL,Vadodara Surat
+780,Kolkata -- CCU,8.0,24.291034108659115,1,1,West Bengal,West Bengal,Kolkata,Carting,CCU
+781,Gurgaon Muzaffrpur Purnia -- Muzaffrpur Purnia Gurgaon,8.0,1775.6913349991505,2,2,Bihar Haryana,Haryana Bihar,Gurgaon Muzaffrpur Purnia,FTL,Muzaffrpur Purnia Gurgaon
+782,Bengaluru -- Bengaluru,8.0,18.90020155278618,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+783,Surat Vadodara -- Vadodara Ahmedabad,8.0,233.53999657529687,1,1,Gujarat,Gujarat,Surat Vadodara,FTL,Vadodara Ahmedabad
+784,Kolkata -- Kolkata,8.0,20.287792034426502,1,1,West Bengal,West Bengal,Kolkata,Carting,Kolkata
+785,Jaipur -- Jaipur Ambabadi,8.0,14.903594460082546,1,1,Rajasthan,Rajasthan,Jaipur,Carting,Jaipur Ambabadi
+786,Pune -- Mumbai,8.0,103.96038480050645,1,1,Maharashtra,Maharashtra,Pune,FTL,Mumbai
+787,Chennai -- Chennai,8.0,16.113147028682317,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+788,Bengaluru Jaipur -- Jaipur Delhi,8.0,1765.5353758374058,2,2,Rajasthan Delhi,Karnataka Rajasthan,Bengaluru Jaipur,FTL,Jaipur Delhi
+789,Gwalior -- Gurgaon,8.0,258.4243431564433,1,1,Haryana,Madhya Pradesh,Gwalior,FTL,Gurgaon
+790,MAA -- Chennai,8.0,31.561619093821363,1,1,Tamil Nadu,Tamil Nadu,MAA,Carting,Chennai
+791,Delhi Aligarh -- Aligarh nan,8.0,192.87404290476877,2,1,Uttar Pradesh nan,Delhi Uttar Pradesh,Delhi Aligarh,FTL,Aligarh nan
+792,Bengaluru -- Bengaluru,8.0,39.87741788574933,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+793,Bengaluru -- Bengaluru,8.0,10.564618179352129,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+794,"Sivaganga Paramakudi Ramnthpurm Rameswram Muthukulathur
+ Narikkudi -- Paramakudi Ramnthpurm Rameswram Muthukulathur Narikkudi
+ Madurai",8.0,237.67093765474496,1,1,Tamil Nadu,Tamil Nadu,"Sivaganga Paramakudi Ramnthpurm Rameswram Muthukulathur
+ Narikkudi",FTL,"Paramakudi Ramnthpurm Rameswram Muthukulathur Narikkudi
+ Madurai"
+795,Bengaluru Hoskote -- Hoskote Bengaluru,8.0,20.459650424176587,1,1,Karnataka,Karnataka,Bengaluru Hoskote,Carting,Hoskote Bengaluru
+796,Bengaluru -- Hyderabad,8.0,472.3821658775133,1,1,Telangana,Karnataka,Bengaluru,FTL,Hyderabad
+797,Surat Navsari Bilimora Valsad -- Navsari Bilimora Valsad Surat,8.0,90.22295405901627,1,1,Gujarat,Gujarat,Surat Navsari Bilimora Valsad,Carting,Navsari Bilimora Valsad Surat
+798,Bhopal -- Jabalpur,8.0,247.60597080501174,1,1,Madhya Pradesh,Madhya Pradesh,Bhopal,FTL,Jabalpur
+799,Hyderabad Mahabubnagar Bijnapally Jadcherla -- Mahabubnagar Bijnapally Jadcherla Hyderabad,8.0,175.44478907818387,1,1,Telangana,Telangana,Hyderabad Mahabubnagar Bijnapally Jadcherla,FTL,Mahabubnagar Bijnapally Jadcherla Hyderabad
+800,Raipur -- Raipur,8.0,9.550406982879736,1,1,Chhattisgarh,Chhattisgarh,Raipur,Carting,Raipur
+801,Banka Bhagalpur -- Bhagalpur Kahalgaon,8.0,58.30791615850217,1,1,Bihar,Bihar,Banka Bhagalpur,FTL,Bhagalpur Kahalgaon
+802,Bengaluru -- BLR,8.0,25.40825576096701,1,1,Karnataka,Karnataka,Bengaluru,Carting,BLR
+803,BLR -- Bengaluru,8.0,25.93319903747371,1,1,Karnataka,Karnataka,BLR,Carting,Bengaluru
+804,Hyderabad Patancheru -- Patancheru Shamshabad,8.0,45.447358506027726,1,1,Telangana,Telangana,Hyderabad Patancheru,Carting,Patancheru Shamshabad
+805,Ludhiana -- Ludhiana,8.0,9.054501144122062,1,1,Punjab,Punjab,Ludhiana,Carting,Ludhiana
+806,Kolkata -- CCU,8.0,16.67725290008136,1,1,West Bengal,West Bengal,Kolkata,Carting,CCU
+807,Goa Sawantwadi Kankavali -- Sawantwadi Kankavali Pune,8.0,338.1552394774341,2,1,Maharashtra,Goa Maharashtra,Goa Sawantwadi Kankavali,FTL,Sawantwadi Kankavali Pune
+808,BLR -- Bengaluru,8.0,25.540657277828842,1,1,Karnataka,Karnataka,BLR,Carting,Bengaluru
+809,Baharampur Katwa Chapra Nakashipara Plassey -- Katwa Chapra Nakashipara Plassey Baharampur,8.0,139.6517773422324,1,1,West Bengal,West Bengal,Baharampur Katwa Chapra Nakashipara Plassey,Carting,Katwa Chapra Nakashipara Plassey Baharampur
+810,"Vijayawada Khammam Nalgonda Hyderabad Choutuppal Miryalguda
+ Suryapet -- Khammam Nalgonda Hyderabad Choutuppal Miryalguda Vijayawada
+ Suryapet",8.0,407.02939052265117,2,2,Telangana Andhra Pradesh,Andhra Pradesh Telangana,"Vijayawada Khammam Nalgonda Hyderabad Choutuppal Miryalguda
+ Suryapet",FTL,"Khammam Nalgonda Hyderabad Choutuppal Miryalguda Vijayawada
+ Suryapet"
+811,Baharampur Domkal Nazirpur Nowda -- Domkal Nazirpur Nowda Baharampur,8.0,70.07594621002673,1,1,West Bengal,West Bengal,Baharampur Domkal Nazirpur Nowda,Carting,Domkal Nazirpur Nowda Baharampur
+812,Mumbai -- Mumbai,8.0,22.944376470820583,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+813,Delhi Vrindavan -- Aligarh Delhi,8.0,241.63199871608367,2,2,Uttar Pradesh Delhi,Delhi Uttar Pradesh,Delhi Vrindavan,FTL,Aligarh Delhi
+814,Chennai Malemruvathur -- Chennai Malemruvathur,8.0,131.06697444888758,1,1,Tamil Nadu,Tamil Nadu,Chennai Malemruvathur,Carting,Chennai Malemruvathur
+815,Ahmedabad -- Ahmedabad,8.0,11.223997316359968,1,1,Gujarat,Gujarat,Ahmedabad,Carting,Ahmedabad
+816,Ahmedabad -- Gurgaon,8.0,735.3648556634495,1,1,Haryana,Gujarat,Ahmedabad,FTL,Gurgaon
+817,Bengaluru -- HBR,8.0,23.842263664060457,1,1,Karnataka,Karnataka,Bengaluru,Carting,HBR
+818,Hyderabad -- Hyderabad,8.0,17.96207772641979,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+819,Guwahati -- Guwahati,8.0,10.956975920996197,1,1,Assam,Assam,Guwahati,Carting,Guwahati
+820,Brahmapuri Chamorshi Gadchiroli -- Chamorshi Gadchiroli,8.0,66.77531927764133,1,1,Maharashtra,Maharashtra,Brahmapuri Chamorshi Gadchiroli,Carting,Chamorshi Gadchiroli
+821,Gurgaon -- Noida,8.0,63.99773840099897,1,1,Uttar Pradesh,Haryana,Gurgaon,Carting,Noida
+822,Chennai -- Chennai,8.0,10.331613232802384,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+823,MAA Villupuram -- Villupuram Attur,8.0,176.51553959120128,1,1,Tamil Nadu,Tamil Nadu,MAA Villupuram,FTL,Villupuram Attur
+824,Hyderabad -- Hyderabad,8.0,21.452132399462386,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+825,Mangalore Bengaluru Hassan Bantwal Dhrmsthala -- Bantwal Hassan Mangalore Bengaluru Dhrmsthala,8.0,362.63921595282875,1,1,Karnataka,Karnataka,Mangalore Bengaluru Hassan Bantwal Dhrmsthala,FTL,Bantwal Hassan Mangalore Bengaluru Dhrmsthala
+826,Delhi -- Delhi,8.0,11.955968908450686,1,1,Delhi,Delhi,Delhi,Carting,Delhi
+827,CCU Fatepur Kakdwip -- Fatepur Kakdwip CCU,8.0,76.64362371470452,1,1,West Bengal,West Bengal,CCU Fatepur Kakdwip,Carting,Fatepur Kakdwip CCU
+828,Bongaon Helencha Kolkata -- Helencha Kolkata Bongaon,8.0,102.45203617926006,1,1,West Bengal,West Bengal,Bongaon Helencha Kolkata,FTL,Helencha Kolkata Bongaon
+829,Kolkata -- Guwahati,8.0,543.0261859011194,1,1,Assam,West Bengal,Kolkata,FTL,Guwahati
+830,Ahmedabad -- Mehsana,8.0,82.02565006864637,1,1,Gujarat,Gujarat,Ahmedabad,FTL,Mehsana
+831,Thoppur Dharmapuri Krishnagiri -- Dharmapuri Bengaluru Krishnagiri,8.0,153.99651325798783,1,2,Tamil Nadu Karnataka,Tamil Nadu,Thoppur Dharmapuri Krishnagiri,FTL,Dharmapuri Bengaluru Krishnagiri
+832,Mehsana Kadi -- Kadi Ahmedabad,8.0,84.37456696081665,1,1,Gujarat,Gujarat,Mehsana Kadi,FTL,Kadi Ahmedabad
+833,MAA Chennai -- Chennai MAA,8.0,30.89435093503922,1,1,Tamil Nadu,Tamil Nadu,MAA Chennai,Carting,Chennai MAA
+834,Varanasi Ghazipur Ghosi Dohrighat Mau Jiyanpur Chiraiyakot -- Ghazipur Mau Dohrighat Jiyanpur Ghosi Chiraiyakot Varanasi,8.0,82.54501922596509,1,1,Uttar Pradesh,Uttar Pradesh,Varanasi Ghazipur Ghosi Dohrighat Mau Jiyanpur Chiraiyakot,FTL,Ghazipur Mau Dohrighat Jiyanpur Ghosi Chiraiyakot Varanasi
+835,Chennai -- Chennai,8.0,15.328112250685242,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+836,Jind nan Rohtak Sonipat Gohana -- nan Gohana Jind Rohtak Sonipat,8.0,142.3249159870483,1,1,nan Haryana,Haryana nan,Jind nan Rohtak Sonipat Gohana,FTL,nan Gohana Jind Rohtak Sonipat
+837,Bengaluru -- Bengaluru,8.0,21.101540091291785,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+838,Mumbai -- Mumbai,8.0,10.427123423674383,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+839,Bengaluru -- Gurgaon,8.0,1689.376308671042,1,1,Haryana,Karnataka,Bengaluru,FTL,Gurgaon
+840,Gurgaon nan -- nan Gwalior,8.0,269.5704306203844,1,1,nan Madhya Pradesh,Haryana nan,Gurgaon nan,FTL,nan Gwalior
+841,Mumbai -- Pune,8.0,104.47148512085988,1,1,Maharashtra,Hub Maharashtra,Mumbai,FTL,Pune
+842,Del -- Gurgaon,8.0,48.735594673386586,1,1,Haryana,Delhi,Del,Carting,Gurgaon
+843,Bhiwandi -- Mumbai,8.0,21.44942191296832,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+844,Visakhapatnam Srikakulam -- Srikakulam Visakhapatnam,8.0,193.99435633816577,1,1,Andhra Pradesh,Andhra Pradesh,Visakhapatnam Srikakulam,Carting,Srikakulam Visakhapatnam
+845,MAA -- Chennai,8.0,31.677823814673577,1,1,Tamil Nadu,Tamil Nadu,MAA,Carting,Chennai
+846,Rampur Baheri Pilibhit Puranpur Bilaspur -- Baheri Pilibhit Puranpur Bilaspur Rampur,8.0,147.76210570914918,1,1,Uttar Pradesh,Uttar Pradesh,Rampur Baheri Pilibhit Puranpur Bilaspur,Carting,Baheri Pilibhit Puranpur Bilaspur Rampur
+847,Bengaluru -- Bengaluru,8.0,29.512711864516312,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+848,PNQ -- Pune,8.0,21.819676842489507,1,1,Maharashtra,Maharashtra,PNQ,Carting,Pune
+849,Chandigarh -- Zirakpur Chandigarh,8.0,37.49549731928765,2,1,Punjab,Punjab Chandigarh,Chandigarh,Carting,Zirakpur Chandigarh
+850,Murshidabad Ragunthgnj Jangipur Sagardighi Lalgola -- Ragunthgnj Jangipur Sagardighi Baharampur Lalgola,8.0,73.77229193148486,1,1,West Bengal,West Bengal,Murshidabad Ragunthgnj Jangipur Sagardighi Lalgola,Carting,Ragunthgnj Jangipur Sagardighi Baharampur Lalgola
+851,Akola Shegaon Buldhana Khamgaon Mehkar Chikhli -- Mehkar Akola Khamgaon Shegaon Chikhli Buldhana,8.0,112.23423052375867,1,1,Maharashtra,Maharashtra,Akola Shegaon Buldhana Khamgaon Mehkar Chikhli,FTL,Mehkar Akola Khamgaon Shegaon Chikhli Buldhana
+852,Tirurangadi Malappuram Nilambur Printhlmna -- Malappuram Printhlmna Areacode,7.0,29.887772509568684,1,1,Kerala,Kerala,Tirurangadi Malappuram Nilambur Printhlmna,Carting,Malappuram Printhlmna Areacode
+853,Bengaluru -- Bengaluru,7.0,29.689291231371218,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+854,Mumbai -- Mumbai,7.0,9.324152974341157,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+855,Bhiwandi -- Bengaluru,7.0,830.0747227233936,1,1,Karnataka,Maharashtra,Bhiwandi,FTL,Bengaluru
+856,Bankura Bishnupur Durgapur Barjora -- Durgapur Barjora Bankura Bishnupur,7.0,59.68960449777228,1,1,West Bengal,West Bengal,Bankura Bishnupur Durgapur Barjora,Carting,Durgapur Barjora Bankura Bishnupur
+857,Jaipur Dudu Phulera Renwal -- Dudu Phulera Renwal Jaipur,7.0,151.3136914525729,1,1,Rajasthan,Rajasthan,Jaipur Dudu Phulera Renwal,Carting,Dudu Phulera Renwal Jaipur
+858,Jaipur -- Jaipur,7.0,20.329989926608597,1,1,Rajasthan,Rajasthan,Jaipur,Carting,Jaipur
+859,Kolkata -- CCU,7.0,20.00019443270636,1,1,West Bengal,West Bengal,Kolkata,Carting,CCU
+860,Bengaluru -- BLR,7.0,14.727365918542677,1,1,Karnataka,Karnataka,Bengaluru,Carting,BLR
+861,Del -- GZB,7.0,13.102076889863346,1,1,Uttar Pradesh,Delhi,Del,Carting,GZB
+862,Bhopal Kanpur -- Kanpur Gurgaon,7.0,761.2930912138571,2,2,Uttar Pradesh Haryana,Madhya Pradesh Uttar Pradesh,Bhopal Kanpur,FTL,Kanpur Gurgaon
+863,Bengaluru -- Bengaluru,7.0,15.467701371186774,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+864,Noida -- Gurgaon,7.0,64.16937559047518,1,1,Haryana,Uttar Pradesh,Noida,Carting,Gurgaon
+865,Bengaluru -- Bengaluru,7.0,10.731385295161711,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+866,Agra Kirauli Dholpur -- Kirauli Dholpur nan,7.0,126.23358196081078,2,2,Uttar Pradesh Rajasthan nan,Uttar Pradesh Rajasthan,Agra Kirauli Dholpur,FTL,Kirauli Dholpur nan
+867,Bhiwandi -- Pune,7.0,101.46885411204012,1,1,Maharashtra,Maharashtra,Bhiwandi,FTL,Pune
+868,Korba -- Raigarh,7.0,88.0892347991427,1,1,Chhattisgarh,Chhattisgarh,Korba,FTL,Raigarh
+869,Baharampur Morgram Rampurhat Ghanashyampur Khargram Kandi -- Morgram Rampurhat Khargram Baharampur Kandi Ghanashyampur,7.0,109.2374787636281,1,1,West Bengal,West Bengal,Baharampur Morgram Rampurhat Ghanashyampur Khargram Kandi,Carting,Morgram Rampurhat Khargram Baharampur Kandi Ghanashyampur
+870,Delhi Gurgaon Vadodara -- Gurgaon Vadodara Surat,7.0,801.4054459049877,3,2,Haryana Gujarat,Delhi Haryana Gujarat,Delhi Gurgaon Vadodara,FTL,Gurgaon Vadodara Surat
+871,Hyderabad -- Hyderabad,7.0,21.546449906432837,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+872,Chennai -- MAA,7.0,31.00667612508679,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,MAA
+873,Delhi -- Gurgaon,7.0,37.156514684505915,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+874,Kanpur Agra -- Agra Delhi,7.0,393.9388832037027,1,2,Uttar Pradesh Delhi,Uttar Pradesh,Kanpur Agra,FTL,Agra Delhi
+875,Hyderabad -- Hyderabad,7.0,27.344162732706174,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+876,Gurgaon -- Delhi,7.0,39.48296125562887,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+877,Jaipur -- Gurgaon,7.0,195.73222993436204,1,1,Haryana,Rajasthan,Jaipur,Carting,Gurgaon
+878,Chennai -- MAA,7.0,25.284495982281875,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,MAA
+879,Khammam Kodad Kusumnchi Miryalguda -- Kodad Kusumnchi Miryalguda Khammam,7.0,142.8995823858216,1,1,Telangana,Telangana,Khammam Kodad Kusumnchi Miryalguda,FTL,Kodad Kusumnchi Miryalguda Khammam
+880,Bhiwandi Mumbai -- Mumbai Bhiwandi,7.0,46.73684245829783,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+881,Bengaluru -- HBR,7.0,23.805204676646955,1,1,Karnataka,Karnataka,Bengaluru,Carting,HBR
+882,Basti Gorakhpur Harraiya -- Gorakhpur Khalilabad Kanpur Basti,7.0,190.65563580852222,1,1,Uttar Pradesh,Uttar Pradesh,Basti Gorakhpur Harraiya,FTL,Gorakhpur Khalilabad Kanpur Basti
+883,Pune -- PNQ,7.0,21.426933861304782,1,1,Maharashtra,Maharashtra,Pune,Carting,PNQ
+884,Duddhi Renukoot Anpara Singrauli Chopan -- Renukoot Anpara Singrauli Chopan Robertsganj,7.0,137.3633924360093,2,2,Uttar Pradesh Madhya Pradesh,Uttar Pradesh Madhya Pradesh,Duddhi Renukoot Anpara Singrauli Chopan,FTL,Renukoot Anpara Singrauli Chopan Robertsganj
+885,Kolkata -- Kolkata,7.0,19.976155012008842,1,1,West Bengal,West Bengal,Kolkata,Carting,Kolkata
+886,Bengaluru -- Bengaluru,7.0,19.63215134900684,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+887,Bengaluru -- Bengaluru,7.0,29.6514822707103,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+888,Aluva Guruvayoor -- Guruvayoor Edappal,7.0,82.73453559421658,1,1,Kerala,Kerala,Aluva Guruvayoor,FTL,Guruvayoor Edappal
+889,Karimnagar Vemulawada Luxettipet Jagtial Koratla Metpally -- Vemulawada Metpally Karimnagar DhrmpuriTS Jagtial,7.0,111.25288973623786,1,1,Telangana,Telangana,Karimnagar Vemulawada Luxettipet Jagtial Koratla Metpally,FTL,Vemulawada Metpally Karimnagar DhrmpuriTS Jagtial
+890,Bengaluru -- Bengaluru,7.0,42.06901274156963,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+891,Bengaluru -- Bengaluru,7.0,42.20574142685035,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+892,Morbi Wankaner -- Wankaner Rajkot,7.0,39.152198324141644,1,1,Gujarat,Gujarat,Morbi Wankaner,Carting,Wankaner Rajkot
+893,Sasaram -- Gurgaon,7.0,804.5487618075664,1,1,Haryana,Bihar,Sasaram,FTL,Gurgaon
+894,Pune Bhiwandi -- Bhiwandi Ahmedabad,7.0,511.7787177435411,1,2,Maharashtra Gujarat,Maharashtra,Pune Bhiwandi,FTL,Bhiwandi Ahmedabad
+895,"Hyderabad Vijayawada Khammam Suryapet Nalgonda Miryalguda
+ Choutuppal -- Choutuppal Khammam Suryapet Nalgonda Hyderabad Vijayawada
+ Miryalguda",7.0,420.60370913460076,2,2,Telangana Andhra Pradesh,Telangana Andhra Pradesh,"Hyderabad Vijayawada Khammam Suryapet Nalgonda Miryalguda
+ Choutuppal",FTL,"Choutuppal Khammam Suryapet Nalgonda Hyderabad Vijayawada
+ Miryalguda"
+896,Himmatnagar Mehsana Modasa Khedbrahma -- Modasa Himmatnagar Khedbrahma Mehsana,7.0,134.9880092782445,1,1,Gujarat,Gujarat,Himmatnagar Mehsana Modasa Khedbrahma,FTL,Modasa Himmatnagar Khedbrahma Mehsana
+897,Chennai -- Chennai,7.0,16.502037740697567,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+898,Bengaluru -- Bengaluru,7.0,10.734356844866298,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+899,Bhiwandi Solapur -- Solapur Hyderabad,7.0,617.1979368385098,1,2,Maharashtra Telangana,Maharashtra,Bhiwandi Solapur,FTL,Solapur Hyderabad
+900,Ahmedabad -- Gurgaon,7.0,735.4779205877184,1,1,Haryana,Gujarat,Ahmedabad,FTL,Gurgaon
+901,Mainpuri Firozabad Shikohabad nan -- Firozabad Delhi Shikohabad nan,7.0,141.77331448882072,1,2,Uttar Pradesh Delhi nan,Uttar Pradesh nan,Mainpuri Firozabad Shikohabad nan,FTL,Firozabad Delhi Shikohabad nan
+902,Pune -- Pune,7.0,17.560333869835492,1,1,Maharashtra,Maharashtra,Pune,Carting,Pune
+903,Mumbai -- Bhiwandi,7.0,23.144947906074552,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+904,FBD -- Faridabad,7.0,9.946724007562091,1,1,Haryana,Haryana,FBD,Carting,Faridabad
+905,Bengaluru -- Bhiwandi,7.0,829.8791985295195,1,1,Maharashtra,Karnataka,Bengaluru,FTL,Bhiwandi
+906,Sonipat -- Delhi,7.0,36.16994614362774,1,1,Delhi,Haryana,Sonipat,Carting,Delhi
+907,Pune -- PNQ,7.0,13.290801861708328,1,1,Maharashtra,Maharashtra,Pune,Carting,PNQ
+908,Tirupur -- Coimbatore,7.0,23.574122922300425,1,1,Tamil Nadu,Tamil Nadu,Tirupur,FTL,Coimbatore
+909,Hisar -- Gurgaon,7.0,142.44632053444658,1,1,Haryana,Haryana,Hisar,FTL,Gurgaon
+910,Mumbai -- Mumbai,7.0,9.376322362861151,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+911,Brajrajnagar Sundargarh Jharsuguda -- Sundargarh Rajgangpur,7.0,75.15822568909799,1,1,Orissa,Orissa,Brajrajnagar Sundargarh Jharsuguda,FTL,Sundargarh Rajgangpur
+912,Chennai -- MAA,7.0,25.069856313637526,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,MAA
+913,Bengaluru -- HBR,7.0,23.85473243279699,1,1,Karnataka,Karnataka,Bengaluru,Carting,HBR
+914,Bengaluru -- BLR,7.0,25.522666887173703,1,1,Karnataka,Karnataka,Bengaluru,Carting,BLR
+915,Bengaluru -- Bengaluru,7.0,19.98151167165563,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+916,Udaipur Jaipur -- Ahmedabad Udaipur,7.0,402.4579263928935,1,2,Gujarat Rajasthan,Rajasthan,Udaipur Jaipur,FTL,Ahmedabad Udaipur
+917,Gulbarga Sindagi Indi Aland -- Sindagi Indi Aland Gulbarga,7.0,214.301270877689,1,1,Karnataka,Karnataka,Gulbarga Sindagi Indi Aland,Carting,Sindagi Indi Aland Gulbarga
+918,Rudrapur Haldwani -- Haldwani Rudrapur,6.0,56.63774168523429,1,1,Uttarakhand,Uttarakhand,Rudrapur Haldwani,FTL,Haldwani Rudrapur
+919,Bengaluru -- Bengaluru,6.0,12.575221613450521,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+920,Kolkata Baharampur -- Baharampur Kolkata,6.0,317.80507919360747,1,1,West Bengal,West Bengal,Kolkata Baharampur,FTL,Baharampur Kolkata
+921,Kolkata -- CCU,6.0,15.661981370695608,1,1,West Bengal,West Bengal,Kolkata,Carting,CCU
+922,Lucknow -- Lucknow,6.0,16.519432090792133,1,1,Uttar Pradesh,Uttar Pradesh,Lucknow,Carting,Lucknow
+923,Gurgaon Kanpur -- Kanpur Varanasi,6.0,684.3549519403837,2,1,Uttar Pradesh,Haryana Uttar Pradesh,Gurgaon Kanpur,FTL,Kanpur Varanasi
+924,Gurgaon Gwalior Dholpur -- Gwalior Dholpur Gurgaon,6.0,432.2236994953757,3,3,Madhya Pradesh Rajasthan Haryana,Haryana Madhya Pradesh Rajasthan,Gurgaon Gwalior Dholpur,FTL,Gwalior Dholpur Gurgaon
+925,Bengaluru Jaipur -- Jaipur Delhi,6.0,1764.9537624695747,2,2,Rajasthan Delhi,Karnataka Rajasthan,Bengaluru Jaipur,FTL,Jaipur Delhi
+926,Mumbai -- Mumbai,6.0,15.532091580101104,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+927,Bhiwandi -- Ahmedabad,6.0,410.2988869307239,1,1,Gujarat,Maharashtra,Bhiwandi,FTL,Ahmedabad
+928,Delhi Gurgaon Meham Hansi -- Gurgaon Meham Hisar Hansi,6.0,183.63361872950426,2,1,Haryana,Delhi Haryana,Delhi Gurgaon Meham Hansi,FTL,Gurgaon Meham Hisar Hansi
+929,Hyderabad -- Hyderabad,6.0,17.611634905695727,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+930,Haldia Tamluk Panskura -- Panskura Haldia Tamluk,6.0,71.37205265458853,1,1,West Bengal,West Bengal,Haldia Tamluk Panskura,Carting,Panskura Haldia Tamluk
+931,Goa -- Goa,6.0,23.196234951060916,1,1,Goa,Goa,Goa,Carting,Goa
+932,MAA -- Chennai,6.0,24.947446023175956,1,1,Tamil Nadu,Tamil Nadu,MAA,Carting,Chennai
+933,Bengaluru -- Bengaluru,6.0,38.94606334797016,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+934,Hyderabad -- Hyderabad,6.0,35.0960767583936,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+935,Hyderabad -- Hyderabad,6.0,17.040572627438735,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+936,Bhiwandi Bengaluru -- Bengaluru MAA,6.0,1052.88463836808,2,2,Karnataka Tamil Nadu,Maharashtra Karnataka,Bhiwandi Bengaluru,FTL,Bengaluru MAA
+937,Delhi -- Gurgaon,6.0,36.707614769886796,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+938,Anjar Bhuj -- Bhuj Nakhatrana Gandhidham,6.0,68.02359043897913,1,1,Gujarat,Gujarat,Anjar Bhuj,FTL,Bhuj Nakhatrana Gandhidham
+939,Sonipat Modinagar Khatauli Meerut -- Modinagar Meerut Sonipat,6.0,82.59205395661137,2,2,Uttar Pradesh Haryana,Haryana Uttar Pradesh,Sonipat Modinagar Khatauli Meerut,FTL,Modinagar Meerut Sonipat
+940,Kolkata -- CCU,6.0,15.593495090774212,1,1,West Bengal,West Bengal,Kolkata,Carting,CCU
+941,Gurgaon -- Delhi,6.0,48.207669901337944,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+942,Sonipat Roorkee Haridwar -- Roorkee Haridwar Rishikesh,6.0,168.96424398836663,2,1,Uttarakhand,Haryana Uttarakhand,Sonipat Roorkee Haridwar,FTL,Roorkee Haridwar Rishikesh
+943,Pali Jalore Bhinmal Sirohi Sumerpur Falna -- Jalore Bhinmal Sirohi Sumerpur Falna MarwarJn,6.0,155.98565034955251,1,1,Rajasthan,Rajasthan,Pali Jalore Bhinmal Sirohi Sumerpur Falna,FTL,Jalore Bhinmal Sirohi Sumerpur Falna MarwarJn
+944,Jabalpur -- Jabalpur,6.0,10.850190901144023,1,1,Madhya Pradesh,Madhya Pradesh,Jabalpur,Carting,Jabalpur
+945,Bengaluru -- Bengaluru,6.0,28.273387521232497,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+946,Kendrpara Cuttack Bhubaneshwar Tirtol Paradip -- Cuttack Bhubaneshwar Jagatsghpr Paradip Kendrpara,6.0,42.313967361298104,1,1,Orissa,Orissa,Kendrpara Cuttack Bhubaneshwar Tirtol Paradip,FTL,Cuttack Bhubaneshwar Jagatsghpr Paradip Kendrpara
+947,Guwahati -- Guwahati,6.0,20.071355518890773,1,1,Assam,Assam,Guwahati,Carting,Guwahati
+948,Allahabad Kanpur -- Kanpur Gurgaon,6.0,501.9678964497368,1,2,Uttar Pradesh Haryana,Uttar Pradesh,Allahabad Kanpur,FTL,Kanpur Gurgaon
+949,Mumbai Jasai -- Jasai Mumbai,6.0,22.03999061448963,1,1,Maharashtra,Maharashtra,Mumbai Jasai,Carting,Jasai Mumbai
+950,Attur Villupuram -- Villupuram MAA,6.0,218.93804089544503,1,1,Tamil Nadu,Tamil Nadu,Attur Villupuram,FTL,Villupuram MAA
+951,Delhi -- Gurgaon,6.0,50.92217306392309,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+952,Surat Vapi -- Vapi Bhiwandi,6.0,206.91310302116355,1,2,Gujarat Maharashtra,Gujarat,Surat Vapi,FTL,Vapi Bhiwandi
+953,Mehsana Vadnagar Palanpur Deesa -- Vadnagar Palanpur Deesa Mehsana,6.0,162.25537975709946,1,1,Gujarat,Gujarat,Mehsana Vadnagar Palanpur Deesa,FTL,Vadnagar Palanpur Deesa Mehsana
+954,Bhiwandi -- Surat,6.0,207.34442861935574,1,1,Gujarat,Maharashtra,Bhiwandi,FTL,Surat
+955,Gurgaon -- Del,6.0,36.67459653300984,1,1,Delhi,Haryana,Gurgaon,Carting,Del
+956,Udaipur Pali Ahmedabad -- Pali Jaipur Udaipur,6.0,448.85425019089524,2,1,Rajasthan,Rajasthan Gujarat,Udaipur Pali Ahmedabad,FTL,Pali Jaipur Udaipur
+957,Aluva Guruvayoor Tirur Kozhikode -- Guruvayoor Edappal Kozhikode Aluva,6.0,215.95812497103404,1,1,Kerala,Kerala,Aluva Guruvayoor Tirur Kozhikode,FTL,Guruvayoor Edappal Kozhikode Aluva
+958,Pune -- Pune,6.0,21.533413436570935,1,1,Maharashtra,Maharashtra,Pune,Carting,Pune
+959,Kolkata -- CCU,6.0,20.318100596640548,1,1,West Bengal,West Bengal,Kolkata,Carting,CCU
+960,Hyderabad -- Hyderabad,6.0,27.292828385458424,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+961,Gurgaon -- Alwar,6.0,85.9778789902628,1,1,Rajasthan,Haryana,Gurgaon,FTL,Alwar
+962,Bhiwandi Mumbai -- Mumbai Bhiwandi,6.0,18.605072545182626,1,1,Maharashtra,Maharashtra,Bhiwandi Mumbai,Carting,Mumbai Bhiwandi
+963,Delhi -- Gurgaon,6.0,50.63052272120908,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+964,Bhiwandi -- Mumbai,6.0,21.611443277438507,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+965,Mehsana Unjha Patan Bhabhar Radhanpur -- Unjha Patan Bhabhar Radhanpur Mehsana,6.0,111.80164238920243,1,1,Gujarat,Gujarat,Mehsana Unjha Patan Bhabhar Radhanpur,FTL,Unjha Patan Bhabhar Radhanpur Mehsana
+966,Hyderabad Ongole -- Ongole MAA,6.0,533.3156515679927,2,2,Andhra Pradesh Tamil Nadu,Telangana Andhra Pradesh,Hyderabad Ongole,FTL,Ongole MAA
+967,Pune Rajgurunagar Talegaon -- Rajgurunagar Talegaon Pune,6.0,36.849933737446165,1,1,Maharashtra,Maharashtra,Pune Rajgurunagar Talegaon,Carting,Rajgurunagar Talegaon Pune
+968,CCU -- Kolkata,6.0,19.583147749114346,1,1,West Bengal,West Bengal,CCU,Carting,Kolkata
+969,Mumbai -- Mumbai,6.0,9.292419993310627,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+970,Guwahati -- Guwahati,6.0,15.307553937356444,1,1,Assam,Assam,Guwahati,Carting,Guwahati
+971,Bengaluru -- Bengaluru,6.0,42.02222203041095,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+972,Del -- Gurgaon,6.0,49.01341308860128,1,1,Haryana,Delhi,Del,Carting,Gurgaon
+973,Aligarh SikandraRao Etah Jalesar -- SikandraRao Etah Jalesar Aligarh,6.0,141.61395017207303,1,1,Uttar Pradesh,Uttar Pradesh,Aligarh SikandraRao Etah Jalesar,Carting,SikandraRao Etah Jalesar Aligarh
+974,Hassan Mudigere Sakleshpur Chikmagalur Arsikere Tiptur -- Tiptur Sakleshpur Hassan Mudigere Arsikere,6.0,98.42631949954443,1,1,Karnataka,Karnataka,Hassan Mudigere Sakleshpur Chikmagalur Arsikere Tiptur,FTL,Tiptur Sakleshpur Hassan Mudigere Arsikere
+975,Hyderabad -- Hyderabad,6.0,34.56177462601341,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+976,Hyderabad Rajamundry Vizag Visakhapatnam -- Rajamundry Visakhapatnam Hyderabad,6.0,945.6987513243115,2,2,Andhra Pradesh Telangana,Telangana Andhra Pradesh,Hyderabad Rajamundry Vizag Visakhapatnam,FTL,Rajamundry Visakhapatnam Hyderabad
+977,Goa -- Goa,6.0,19.537807452438045,1,1,Goa,Goa,Goa,Carting,Goa
+978,Bengaluru -- Bengaluru,6.0,24.288806601570155,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+979,Del -- Gurgaon,6.0,48.66879225520566,1,1,Haryana,Delhi,Del,Carting,Gurgaon
+980,Chennai Malemruvathur -- Chennai Malemruvathur,6.0,134.39803576532003,1,1,Tamil Nadu,Tamil Nadu,Chennai Malemruvathur,Carting,Chennai Malemruvathur
+981,Chennai -- Chennai,6.0,33.62337987914873,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+982,Delhi -- GZB,6.0,23.781089333887312,1,1,Uttar Pradesh,Delhi,Delhi,Carting,GZB
+983,Vadakara Kallachi Kuthuparamba Kozhikode Koyilandy -- Kallachi Kuthuparamba Kozhikode Koyilandy Vadakara,6.0,128.1358147378185,1,1,Kerala,Kerala,Vadakara Kallachi Kuthuparamba Kozhikode Koyilandy,Carting,Kallachi Kuthuparamba Kozhikode Koyilandy Vadakara
+984,Jaipur Ajmer Pali Jodhpur Piparcity nan -- Ajmer Pali Jodhpur Piparcity nan Jaipur,6.0,601.1983826170448,1,1,Rajasthan nan,Rajasthan nan,Jaipur Ajmer Pali Jodhpur Piparcity nan,FTL,Ajmer Pali Jodhpur Piparcity nan Jaipur
+985,Aluva Cherthala Kottayam Kothanalloor -- Kottayam Aluva Kothanalloor Vaikom,6.0,117.03129659133344,1,1,Kerala,Kerala,Aluva Cherthala Kottayam Kothanalloor,FTL,Kottayam Aluva Kothanalloor Vaikom
+986,Hyderabad -- Hyderabad,6.0,18.848773924586293,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+987,Dhule -- Chalisgaon,6.0,52.36680247088165,1,1,Maharashtra,Maharashtra,Dhule,Carting,Chalisgaon
+988,Pune -- Nanded,6.0,382.0795933702994,1,1,Maharashtra,Maharashtra,Pune,FTL,Nanded
+989,Sonipat Gajraula Rampur Amroha -- Gajraula Rampur Amroha Sonipat,6.0,369.3566637660465,2,2,Uttar Pradesh Haryana,Haryana Uttar Pradesh,Sonipat Gajraula Rampur Amroha,FTL,Gajraula Rampur Amroha Sonipat
+990,Varanasi Allahabad Kanpur Agra -- Allahabad Kanpur Agra Gurgaon,6.0,634.7135840942211,1,2,Uttar Pradesh Haryana,Uttar Pradesh,Varanasi Allahabad Kanpur Agra,FTL,Allahabad Kanpur Agra Gurgaon
+991,Del -- Sonipat,6.0,40.80006013404861,1,1,Haryana,Delhi,Del,Carting,Sonipat
+992,Delhi -- Gurgaon,6.0,37.171010846435195,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+993,Mumbai -- Mumbai,6.0,9.721786904501496,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+994,Hyderabad Ongole -- Ongole MAA,5.0,478.4248845214761,2,2,Andhra Pradesh Tamil Nadu,Telangana Andhra Pradesh,Hyderabad Ongole,FTL,Ongole MAA
+995,Hisar -- Gurgaon,5.0,143.95796389554545,1,1,Haryana,Haryana,Hisar,FTL,Gurgaon
+996,Rishikesh Pauri -- SrinagarUK Rishikesh,5.0,80.44937662400636,1,1,Uttarakhand,Uttarakhand,Rishikesh Pauri,FTL,SrinagarUK Rishikesh
+997,Bengaluru -- Bengaluru,5.0,24.43237167371966,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+998,Guwahati Kolkata -- Kolkata Bhiwandi,5.0,2157.968311797658,2,2,West Bengal Maharashtra,Assam West Bengal,Guwahati Kolkata,FTL,Kolkata Bhiwandi
+999,Coimbatore -- Coimbatore,5.0,21.08188880487819,1,1,Tamil Nadu,Tamil Nadu,Coimbatore,Carting,Coimbatore
+1000,Bengaluru -- Bengaluru,5.0,39.00172877535833,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1001,Mumbai -- Mumbai,5.0,17.195617795613963,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+1002,PNQ -- Pune,5.0,10.105507851760134,1,1,Maharashtra,Maharashtra,PNQ,Carting,Pune
+1003,Bengaluru -- Bengaluru,5.0,38.98106606314135,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1004,Hyderabad Rajamundry Vizag Visakhapatnam -- Rajamundry Visakhapatnam Hyderabad,5.0,769.606579736521,2,2,Andhra Pradesh Telangana,Telangana Andhra Pradesh,Hyderabad Rajamundry Vizag Visakhapatnam,FTL,Rajamundry Visakhapatnam Hyderabad
+1005,Bengaluru -- Bengaluru,5.0,41.91416045813857,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1006,MAA Ambur -- Ambur Bengaluru,5.0,271.63181167196217,1,2,Tamil Nadu Karnataka,Tamil Nadu,MAA Ambur,FTL,Ambur Bengaluru
+1007,Hyderabad -- Hyderabad,5.0,17.824123191787372,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+1008,AhmedNagar Parner Shirur Pune Ashti -- Parner Shirur Pune AhmedNagar Ashti,5.0,192.84449532459877,1,1,Maharashtra,Maharashtra,AhmedNagar Parner Shirur Pune Ashti,FTL,Parner Shirur Pune AhmedNagar Ashti
+1009,Bengaluru -- Bengaluru,5.0,39.53636942232542,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1010,Muktsar Giddarbaha Abohar Malout -- Malout Muktsar Abohar Giddarbaha,5.0,61.30138254859711,1,1,Punjab,Punjab,Muktsar Giddarbaha Abohar Malout,FTL,Malout Muktsar Abohar Giddarbaha
+1011,Chennai -- Chennai,5.0,22.16673054074934,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+1012,PNQ Pune -- Pune PNQ,5.0,17.440000884789107,1,1,Maharashtra,Maharashtra,PNQ Pune,Carting,Pune PNQ
+1013,Visakhapatnam -- Vishakhapatnam,5.0,11.269977079293074,1,1,Andhra Pradesh,Andhra Pradesh,Visakhapatnam,Carting,Vishakhapatnam
+1014,Fatepur Kakdwip -- Kakdwip CCU,5.0,86.81522406927903,1,1,West Bengal,West Bengal,Fatepur Kakdwip,Carting,Kakdwip CCU
+1015,Goa Panaji -- Panaji Goa,5.0,30.90523940073561,1,1,Goa,Goa,Goa Panaji,Carting,Panaji Goa
+1016,Bhubaneswar -- Bhubaneshwar,5.0,9.277666244862385,1,1,Orissa,Orissa,Bhubaneswar,Carting,Bhubaneshwar
+1017,Bengaluru -- Bengaluru,5.0,10.21283924879827,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1018,Bengaluru -- Bengaluru,5.0,11.372557125569458,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1019,Ranaghat Kolkata Manteswar Krishnanagar Badkulla -- Kolkata Manteswar Nabadwip Hanskhali Krishnanagar Ranaghat,5.0,115.77072730207792,1,1,West Bengal,West Bengal,Ranaghat Kolkata Manteswar Krishnanagar Badkulla,FTL,Kolkata Manteswar Nabadwip Hanskhali Krishnanagar Ranaghat
+1020,Delhi -- Ghaziabad,5.0,35.0871261241463,1,1,Uttar Pradesh,Delhi,Delhi,Carting,Ghaziabad
+1021,Bengaluru Gurgaon -- Gurgaon Chandigarh,5.0,1599.5121147688642,2,2,Haryana Punjab,Karnataka Haryana,Bengaluru Gurgaon,FTL,Gurgaon Chandigarh
+1022,Chennai -- Chennai,5.0,10.08048450206751,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+1023,Coimbatore -- Coimbatore Cjb,5.0,30.55876032918269,1,1,Tamil Nadu,Tamil Nadu,Coimbatore,Carting,Coimbatore Cjb
+1024,Ghaziabad -- Noida,5.0,9.977996175452436,1,1,Uttar Pradesh,Uttar Pradesh,Ghaziabad,Carting,Noida
+1025,Guwahati Hajo -- Hajo Guwahati,5.0,24.673619088422832,1,1,Assam,Assam,Guwahati Hajo,Carting,Hajo Guwahati
+1026,Dehradun -- Sonipat,5.0,177.41362157247275,1,1,Haryana,Uttarakhand,Dehradun,Carting,Sonipat
+1027,Mumbai -- Bhiwandi,5.0,22.518346369360323,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+1028,GZB Ghaziabad -- Ghaziabad GZB,5.0,11.249878439909923,1,1,Uttar Pradesh,Uttar Pradesh,GZB Ghaziabad,Carting,Ghaziabad GZB
+1029,PNQ -- Pune,5.0,9.34644930800832,1,1,Maharashtra,Maharashtra,PNQ,Carting,Pune
+1030,nan Vrindavan -- Mathura Delhi,5.0,169.30548760518167,1,2,Uttar Pradesh Delhi,nan Uttar Pradesh,nan Vrindavan,FTL,Mathura Delhi
+1031,MAA -- Chennai,5.0,34.5558959542777,1,1,Tamil Nadu,Tamil Nadu,MAA,Carting,Chennai
+1032,Bengaluru -- Bengaluru,5.0,40.75777144213059,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1033,Delhi -- Noida,5.0,25.735674705806154,1,1,Uttar Pradesh,Delhi,Delhi,Carting,Noida
+1034,Nanded Latur Udgir Degloor -- Udgir Latur Nanded Degloor,5.0,219.6811752077605,1,1,Maharashtra,Maharashtra,Nanded Latur Udgir Degloor,Carting,Udgir Latur Nanded Degloor
+1035,Ahmedabad Vapi Surat -- Surat Bhiwandi Vapi,5.0,352.6054742178771,1,2,Gujarat Maharashtra,Gujarat,Ahmedabad Vapi Surat,FTL,Surat Bhiwandi Vapi
+1036,CCU Baruipur Jaynagar -- Baruipur Jaynagar CCU,5.0,68.10485447407824,1,1,West Bengal,West Bengal,CCU Baruipur Jaynagar,FTL,Baruipur Jaynagar CCU
+1037,Allahabad -- Allahabad,5.0,30.56354279400849,1,1,Uttar Pradesh,Uttar Pradesh,Allahabad,Carting,Allahabad
+1038,Bengaluru Kolar Mulbagal Chintamani -- Kolar Mulbagal Chintamani Bengaluru,5.0,140.42057983885988,1,1,Karnataka,Karnataka,Bengaluru Kolar Mulbagal Chintamani,Carting,Kolar Mulbagal Chintamani Bengaluru
+1039,Jaipur -- Jaipur,5.0,14.917141390227636,1,1,Rajasthan,Rajasthan,Jaipur,Carting,Jaipur
+1040,Delhi -- Gurgaon,5.0,50.619954301615465,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1041,Jhansi Lalitpur Tikamgarh -- Lalitpur Tikamgarh Gwalior,5.0,211.84141109403808,2,2,Uttar Pradesh Madhya Pradesh,Uttar Pradesh Madhya Pradesh,Jhansi Lalitpur Tikamgarh,FTL,Lalitpur Tikamgarh Gwalior
+1042,Bhatinda RampuraPhul -- RampuraPhul Bhatinda,5.0,36.432786217112046,1,1,Punjab,Punjab,Bhatinda RampuraPhul,FTL,RampuraPhul Bhatinda
+1043,Gurgaon -- Delhi,5.0,50.928180260249206,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+1044,Pune -- Goa,5.0,361.6166334601513,1,1,Goa,Maharashtra,Pune,FTL,Goa
+1045,Delhi -- Gurgaon,5.0,37.08439785407258,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1046,Gurgaon -- Del,5.0,36.9128659936324,1,1,Delhi,Haryana,Gurgaon,Carting,Del
+1047,Delhi -- Sonipat,5.0,36.23805762822269,1,1,Haryana,Delhi,Delhi,Carting,Sonipat
+1048,Chennai -- Chennai,4.0,15.150796755670951,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+1049,Ahmedabad Surat -- Surat Pune,4.0,492.34276019393434,1,2,Gujarat Maharashtra,Gujarat,Ahmedabad Surat,FTL,Surat Pune
+1050,Noida Dadri -- Dadri Noida,4.0,23.86598685453161,1,1,Uttar Pradesh,Uttar Pradesh,Noida Dadri,Carting,Dadri Noida
+1051,MughalSarai Chandauli Varanasi -- Chandauli Gahmar MughalSarai Varanasi,4.0,40.670325022869235,1,1,Uttar Pradesh,Uttar Pradesh,MughalSarai Chandauli Varanasi,Carting,Chandauli Gahmar MughalSarai Varanasi
+1052,Bengaluru -- Bengaluru,4.0,29.296268206373757,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1053,Bengaluru -- Bengaluru,4.0,39.557031537890495,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1054,Del -- Gurgaon,4.0,48.76152784304489,1,1,Haryana,Delhi,Del,Carting,Gurgaon
+1055,Rishikesh Haridwar -- Haridwar Sonipat,4.0,171.28420564053317,1,2,Uttarakhand Haryana,Uttarakhand,Rishikesh Haridwar,FTL,Haridwar Sonipat
+1056,Kolkata -- Kolkata,4.0,20.15404450006783,1,1,West Bengal,West Bengal,Kolkata,Carting,Kolkata
+1057,Mumbai -- Mumbai,4.0,10.663820308210216,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+1058,Pune Ambegaon Rajgurunagar -- Ambegaon Rajgurunagar Pune,4.0,61.649127325156336,1,1,Maharashtra,Maharashtra,Pune Ambegaon Rajgurunagar,Carting,Ambegaon Rajgurunagar Pune
+1059,Bengaluru -- Bengaluru,4.0,28.102755746365546,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1060,Visakhapatnam Bheemunipatnam Vizianagaram -- Visakhapatnam Bheemunipatnam Vizianagaram,4.0,99.19192793595747,1,1,Andhra Pradesh,Andhra Pradesh,Visakhapatnam Bheemunipatnam Vizianagaram,Carting,Visakhapatnam Bheemunipatnam Vizianagaram
+1061,Gurgaon -- Kanpur,4.0,383.7933850913227,1,1,Uttar Pradesh,Haryana,Gurgaon,FTL,Kanpur
+1062,Aizawl Champhai -- Champhai Aizawl,4.0,119.77478220334552,1,1,Mizoram,Mizoram,Aizawl Champhai,FTL,Champhai Aizawl
+1063,Bengaluru -- Bengaluru,4.0,42.57360756203716,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1064,Jamui KharagpurBR Munger -- KharagpurBR Munger Sultanganj,4.0,70.76008032704965,1,1,Bihar,Bihar,Jamui KharagpurBR Munger,FTL,KharagpurBR Munger Sultanganj
+1065,Chennai -- Chennai,4.0,39.04563450781655,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+1066,Del -- Gurgaon,4.0,48.86071195553675,1,1,Haryana,Delhi,Del,Carting,Gurgaon
+1067,Bengaluru -- Bengaluru,4.0,39.50579374500767,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1068,Visakhapatnam Anakapalle Narsiptnm -- Anakapalle Narsiptnm Visakhapatnam,4.0,118.47948006307891,1,1,Andhra Pradesh,Andhra Pradesh,Visakhapatnam Anakapalle Narsiptnm,Carting,Anakapalle Narsiptnm Visakhapatnam
+1069,Bhiwandi Ranchi -- Ranchi Guwahati,4.0,1532.5614458658404,2,2,Jharkhand Assam,Maharashtra Jharkhand,Bhiwandi Ranchi,FTL,Ranchi Guwahati
+1070,Kolhapur Nipani Chikodi Athani Bijapur Jath -- Nipani Chikodi Athani Bijapur Jath Kolhapur,4.0,291.5255544117053,2,2,Karnataka Maharashtra,Maharashtra Karnataka,Kolhapur Nipani Chikodi Athani Bijapur Jath,FTL,Nipani Chikodi Athani Bijapur Jath Kolhapur
+1071,Del -- Noida,4.0,10.06651801730229,1,1,Uttar Pradesh,Delhi,Del,Carting,Noida
+1072,Varanasi Azamgarh Saraimeer Shahganj Badlapur -- Jalalpur Saraimeer Shahganj Badlapur Jaunpur Azamgarh,4.0,130.41414906354396,1,1,Uttar Pradesh,Uttar Pradesh,Varanasi Azamgarh Saraimeer Shahganj Badlapur,FTL,Jalalpur Saraimeer Shahganj Badlapur Jaunpur Azamgarh
+1073,Barh Sheikhpura -- Bakhtiarpur Sheikhpura,4.0,53.0119851274648,1,1,Bihar,Bihar,Barh Sheikhpura,FTL,Bakhtiarpur Sheikhpura
+1074,Bengaluru -- Bengaluru,4.0,38.748805010830324,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1075,Bahadurgarh Sonipat -- Sonipat Bahadurgarh,4.0,34.75808744472571,1,1,Haryana,Haryana,Bahadurgarh Sonipat,FTL,Sonipat Bahadurgarh
+1076,Kolkata Berhampore -- Berhampore Kolkata,4.0,278.1732081849123,1,1,West Bengal,West Bengal,Kolkata Berhampore,FTL,Berhampore Kolkata
+1077,Del -- Gurgaon,4.0,48.75077930578729,1,1,Haryana,Delhi,Del,Carting,Gurgaon
+1078,Ghaziabad -- GZB,4.0,9.197307642332962,1,1,Uttar Pradesh,Uttar Pradesh,Ghaziabad,Carting,GZB
+1079,Sambalpur Bargarh Balangir Sonepur -- Bargarh Balangir Sonepur Sambalpur,4.0,135.75100795302322,1,1,Orissa,Orissa,Sambalpur Bargarh Balangir Sonepur,FTL,Bargarh Balangir Sonepur Sambalpur
+1080,Bengaluru Vellore Ambur -- Bengaluru Vellore Ambur,4.0,249.89285596451208,2,2,Karnataka Tamil Nadu,Karnataka Tamil Nadu,Bengaluru Vellore Ambur,FTL,Bengaluru Vellore Ambur
+1081,Del -- Gurgaon,4.0,49.08522746847631,1,1,Haryana,Delhi,Del,Carting,Gurgaon
+1082,Naugchia -- Khagaria,4.0,59.57492394252474,1,1,Bihar,Bihar,Naugchia,FTL,Khagaria
+1083,Bhiwandi -- Bengaluru,4.0,830.0937703947551,1,1,Karnataka,Maharashtra,Bhiwandi,FTL,Bengaluru
+1084,Varanasi Jaunpur Azamgarh Saraimeer Shahganj -- Jaunpur Jalalpur Saraimeer Shahganj Badlapur,4.0,75.72165249197576,1,1,Uttar Pradesh,Uttar Pradesh,Varanasi Jaunpur Azamgarh Saraimeer Shahganj,FTL,Jaunpur Jalalpur Saraimeer Shahganj Badlapur
+1085,Bengaluru -- Bengaluru,4.0,38.63729052659497,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1086,Bhiwandi -- Surat,4.0,207.60701478133748,1,1,Gujarat,Maharashtra,Bhiwandi,FTL,Surat
+1087,Pune -- PNQ,4.0,13.554212716741507,1,1,Maharashtra,Maharashtra,Pune,Carting,PNQ
+1088,Kottayam Tiruvalla Haripad Alappuzha -- Tiruvalla Haripad Alappuzha Kottayam,4.0,65.23149371335445,1,1,Kerala,Kerala,Kottayam Tiruvalla Haripad Alappuzha,Carting,Tiruvalla Haripad Alappuzha Kottayam
+1089,Gurgaon -- Hisar,4.0,143.50407051226503,1,1,Haryana,Haryana,Gurgaon,FTL,Hisar
+1090,Delhi -- Gurgaon,4.0,37.22231170589598,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1091,Mangalore Manjeshwar Kanhangad -- Manjeshwar Kasaragod Mangalore,4.0,59.11190620659045,2,2,Kerala Karnataka,Karnataka Kerala,Mangalore Manjeshwar Kanhangad,FTL,Manjeshwar Kasaragod Mangalore
+1092,Chennai -- Chennai,4.0,11.583927996758977,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+1093,Bengaluru -- Bengaluru,4.0,42.13865119525725,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1094,Hyd Sangareddy -- Sangareddy Patancheru,4.0,38.52971560818595,1,1,Telangana,Telangana,Hyd Sangareddy,Carting,Sangareddy Patancheru
+1095,Bengaluru -- Bengaluru,4.0,41.597134889949736,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1096,Bhubaneshwar -- Bhubaneshwar,4.0,9.068490552743107,1,1,Orissa,Orissa,Bhubaneshwar,Carting,Bhubaneshwar
+1097,Hyderabad -- Hyderabad,4.0,34.903167783538976,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+1098,Ahmedabad Surat -- Surat Pune,4.0,442.4873711825287,1,2,Gujarat Maharashtra,Gujarat,Ahmedabad Surat,FTL,Surat Pune
+1099,Chennai -- Chennai,4.0,18.167078239298498,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+1100,Mumbai -- Mumbai,4.0,9.16779685193916,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+1101,Aluva Thrissur Vadakkencherry Pallakad -- Thrissur Vadakkencherry Pallakad Bengaluru,4.0,363.93074958164686,1,2,Kerala Karnataka,Kerala,Aluva Thrissur Vadakkencherry Pallakad,FTL,Thrissur Vadakkencherry Pallakad Bengaluru
+1102,Chennai -- MAA,4.0,34.14939507150828,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,MAA
+1103,Allahabad Kanpur -- Kanpur Gurgaon,4.0,470.47630719689863,1,2,Uttar Pradesh Haryana,Uttar Pradesh,Allahabad Kanpur,FTL,Kanpur Gurgaon
+1104,Delhi -- Gurgaon,4.0,38.99977340134079,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1105,Delhi -- Sonipat,4.0,36.50991008391761,1,1,Haryana,Delhi,Delhi,Carting,Sonipat
+1106,Delhi -- Gurgaon,4.0,54.98471070056718,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1107,Delhi -- Sonipat,4.0,35.79930562223551,1,1,Haryana,Delhi,Delhi,Carting,Sonipat
+1108,Salem -- Salem,4.0,9.710916859569014,1,1,Tamil Nadu,Tamil Nadu,Salem,Carting,Salem
+1109,CCU -- Kolkata,4.0,24.32830732855868,1,1,West Bengal,West Bengal,CCU,Carting,Kolkata
+1110,Delhi -- Delhi,4.0,9.92922194637045,1,1,Delhi,Delhi,Delhi,Carting,Delhi
+1111,Goa Central -- Central Goa,4.0,16.58028021730604,1,1,Goa,Goa,Goa Central,Carting,Central Goa
+1112,Bengaluru Vellore Ambur -- Bengaluru Vellore Ambur,4.0,193.46387348725264,2,2,Karnataka Tamil Nadu,Karnataka Tamil Nadu,Bengaluru Vellore Ambur,FTL,Bengaluru Vellore Ambur
+1113,Del -- Gurgaon,4.0,48.87372873225347,1,1,Haryana,Delhi,Del,Carting,Gurgaon
+1114,Delhi -- Gurgaon,4.0,37.64123879482084,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1115,Hyderabad -- Hyderabad,4.0,26.928706113948188,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+1116,Delhi -- Sonipat,4.0,36.01297105714256,1,1,Haryana,Delhi,Delhi,Carting,Sonipat
+1117,Pune -- Pune,4.0,15.547456318713513,1,1,Maharashtra,Maharashtra,Pune,Carting,Pune
+1118,Bengaluru HBR -- HBR Bengaluru,4.0,13.449522878817305,1,1,Karnataka,Karnataka,Bengaluru HBR,Carting,HBR Bengaluru
+1119,Bengaluru Malur Bangarapet Bethamangala -- Malur Bangarapet Bethamangala Bengaluru,4.0,116.11783435755515,1,1,Karnataka,Karnataka,Bengaluru Malur Bangarapet Bethamangala,Carting,Malur Bangarapet Bethamangala Bengaluru
+1120,Ahmedabad Surat -- Surat Bhiwandi,4.0,306.65742559304175,1,2,Gujarat Maharashtra,Gujarat,Ahmedabad Surat,FTL,Surat Bhiwandi
+1121,Bengaluru -- Bengaluru,4.0,21.727307703566538,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1122,Bamangola Gangarampr Malda -- Balurghat Malda Bamangola Gangarmpur,4.0,64.4136719064791,1,1,West Bengal,West Bengal,Bamangola Gangarampr Malda,FTL,Balurghat Malda Bamangola Gangarmpur
+1123,Gurgaon -- GZB,4.0,59.9498894741812,1,1,Uttar Pradesh,Haryana,Gurgaon,Carting,GZB
+1124,Gurgaon -- Delhi,4.0,39.19334387280956,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+1125,Blr -- Bengaluru,4.0,16.92201596485708,1,1,Karnataka,Karnataka,Blr,Carting,Bengaluru
+1126,Del -- Gurgaon,4.0,48.66990526378003,1,1,Haryana,Delhi,Del,Carting,Gurgaon
+1127,Del -- GZB,4.0,13.234207534961214,1,1,Uttar Pradesh,Delhi,Del,Carting,GZB
+1128,Bhiwandi -- Bengaluru,4.0,830.0407891979684,1,1,Karnataka,Maharashtra,Bhiwandi,FTL,Bengaluru
+1129,Gurgaon -- Noida,4.0,58.50179747006779,1,1,Uttar Pradesh,Haryana,Gurgaon,Carting,Noida
+1130,MAA -- Chennai,4.0,34.32616255074433,1,1,Tamil Nadu,Tamil Nadu,MAA,Carting,Chennai
+1131,Del -- Gurgaon,4.0,48.77382408929378,1,1,Haryana,Delhi,Del,Carting,Gurgaon
+1132,Sonepur Hajipur -- Dighwara,4.0,16.960675791938012,1,1,Bihar,Bihar,Sonepur Hajipur,FTL,Dighwara
+1133,Surat -- Surat,4.0,17.538460606016674,1,1,Gujarat,Gujarat,Surat,Carting,Surat
+1134,Gurgaon -- Delhi,4.0,55.13509100412739,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+1135,Kurnool JoguGadwal Raichur Wanaparthy -- JoguGadwal Raichur Kurnool Wanaparthy,4.0,178.24272700173753,3,3,Telangana Karnataka Andhra Pradesh,Andhra Pradesh Telangana Karnataka,Kurnool JoguGadwal Raichur Wanaparthy,FTL,JoguGadwal Raichur Kurnool Wanaparthy
+1136,Vizag Chodavaram -- Chodavaram Visakhapatnam,4.0,60.554644937524856,1,1,Andhra Pradesh,Andhra Pradesh,Vizag Chodavaram,Carting,Chodavaram Visakhapatnam
+1137,Surat -- Surat,4.0,23.316505019700344,1,1,Gujarat,Gujarat,Surat,Carting,Surat
+1138,Bengaluru -- Bengaluru,4.0,32.12381568831308,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1139,PNQ Pune -- Pune PNQ,3.0,13.494695244581294,1,1,Maharashtra,Maharashtra,PNQ Pune,Carting,Pune PNQ
+1140,Gurgaon -- GZB,3.0,59.64019605963207,1,1,Uttar Pradesh,Haryana,Gurgaon,Carting,GZB
+1141,Bengaluru -- BLR,3.0,24.07584744522514,1,1,Karnataka,Karnataka,Bengaluru,Carting,BLR
+1142,Delhi Noida -- Kanpur Noida,3.0,385.60380966896423,2,1,Uttar Pradesh,Delhi Uttar Pradesh,Delhi Noida,FTL,Kanpur Noida
+1143,Kabuganj Silchar Kolasib -- Kolasib Kabuganj Silchar,3.0,90.73194541589616,2,2,Mizoram Assam,Assam Mizoram,Kabuganj Silchar Kolasib,FTL,Kolasib Kabuganj Silchar
+1144,Mumbai -- Mumbai,3.0,10.021977338211485,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+1145,Aluva Guruvayoor -- Guruvayoor Edappal,3.0,61.96026826446944,1,1,Kerala,Kerala,Aluva Guruvayoor,FTL,Guruvayoor Edappal
+1146,MAA Visakhapatnam Bhubaneshwar -- Visakhapatnam Bhubaneshwar Kolkata,3.0,1185.1037541593278,3,3,Andhra Pradesh Orissa West Bengal,Tamil Nadu Andhra Pradesh Orissa,MAA Visakhapatnam Bhubaneshwar,FTL,Visakhapatnam Bhubaneshwar Kolkata
+1147,Bengaluru -- Bengaluru,3.0,42.18673440863517,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1148,Agra -- Delhi,3.0,170.04333092660826,1,1,Delhi,Uttar Pradesh,Agra,Carting,Delhi
+1149,Gurgaon -- Noida,3.0,58.91584651223676,1,1,Uttar Pradesh,Haryana,Gurgaon,Carting,Noida
+1150,Bengaluru -- Tumkur,3.0,46.80941762787554,1,1,Karnataka,Karnataka,Bengaluru,Carting,Tumkur
+1151,Kozhikode Tirurangadi -- Tirurangadi Malappuram,3.0,21.126598148310176,1,1,Kerala,Kerala,Kozhikode Tirurangadi,Carting,Tirurangadi Malappuram
+1152,Bengaluru -- Bengaluru,3.0,39.752692409173214,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1153,Bhubaneshwar Jagatsghpr Paradip -- Jagatsghpr Paradip Kendrpara,3.0,59.289356959567705,1,1,Orissa,Orissa,Bhubaneshwar Jagatsghpr Paradip,FTL,Jagatsghpr Paradip Kendrpara
+1154,Gurgaon -- Delhi,3.0,58.085908065520506,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+1155,Panipat -- Sonipat,3.0,56.75074658355921,1,1,Haryana,Haryana,Panipat,FTL,Sonipat
+1156,Bengaluru -- Bengaluru,3.0,44.57744738480326,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1157,Gurgaon -- Delhi,3.0,39.015544417026966,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+1158,Gurgaon -- Delhi,3.0,54.8227925689988,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+1159,MAA Vellore Ranipet Sholinghur -- Vellore Ranipet Sholinghur MAA,3.0,175.56081187503034,1,1,Tamil Nadu,Tamil Nadu,MAA Vellore Ranipet Sholinghur,FTL,Vellore Ranipet Sholinghur MAA
+1160,GGN -- Gurgaon,3.0,29.5829173803119,1,1,Haryana,Haryana,GGN,Carting,Gurgaon
+1161,Del -- Noida,3.0,10.563646295716731,1,1,Uttar Pradesh,Delhi,Del,Carting,Noida
+1162,Kolkata Dhulian -- Malda Kolkata,3.0,401.81753161241494,1,1,West Bengal,West Bengal,Kolkata Dhulian,FTL,Malda Kolkata
+1163,Delhi -- Gurgaon,3.0,57.97368588549432,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1164,Delhi -- Gurgaon,3.0,54.97303485091288,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1165,nan Hathras Aligarh -- Hathras Aligarh nan,3.0,121.36479713082592,1,1,Uttar Pradesh nan,nan Uttar Pradesh,nan Hathras Aligarh,FTL,Hathras Aligarh nan
+1166,Aurangabad -- Pune,3.0,203.30117966793912,1,1,Maharashtra,Maharashtra,Aurangabad,FTL,Pune
+1167,Chennai -- MAA,3.0,34.51425288640283,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,MAA
+1168,Ahmedabad Surat -- Surat Pune,3.0,492.5653940616467,1,2,Gujarat Maharashtra,Gujarat,Ahmedabad Surat,FTL,Surat Pune
+1169,Hyderabad Pune -- Pune Bhiwandi,3.0,615.3820008183333,2,1,Maharashtra,Telangana Maharashtra,Hyderabad Pune,FTL,Pune Bhiwandi
+1170,Bhadohi Gopiganj -- Gopiganj Mirzapur,3.0,18.636077676662993,1,1,Uttar Pradesh,Uttar Pradesh,Bhadohi Gopiganj,FTL,Gopiganj Mirzapur
+1171,Del -- Noida,3.0,10.250458804461815,1,1,Uttar Pradesh,Delhi,Del,Carting,Noida
+1172,Delhi -- Gurgaon,3.0,35.58819771343244,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1173,Hisar Ratia -- Hisar Ratia Fatehabad,3.0,80.5575879467426,1,1,Haryana,Haryana,Hisar Ratia,FTL,Hisar Ratia Fatehabad
+1174,Bhiwadi Narnaul Rewari -- Neemrana Rewari Dharuhera,3.0,135.26511148451763,2,2,Rajasthan Haryana,Rajasthan Haryana,Bhiwadi Narnaul Rewari,FTL,Neemrana Rewari Dharuhera
+1175,Manjhaul -- Barauni,3.0,15.801812323301524,1,1,Bihar,Bihar,Manjhaul,FTL,Barauni
+1176,Chennai -- MAA,3.0,34.15024756346063,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,MAA
+1177,Mangalore Kumta Ankola Uchila Honnavar -- Uchila Ankola Goa Kundapura Kumta,3.0,120.9903086835538,1,2,Karnataka Goa,Karnataka,Mangalore Kumta Ankola Uchila Honnavar,FTL,Uchila Ankola Goa Kundapura Kumta
+1178,Jaipur Ajmer Pali Jodhpur Piparcity nan -- Ajmer Pali Jodhpur Piparcity nan Jaipur,3.0,628.2459058114405,1,1,Rajasthan nan,Rajasthan nan,Jaipur Ajmer Pali Jodhpur Piparcity nan,FTL,Ajmer Pali Jodhpur Piparcity nan Jaipur
+1179,Kanpur -- Delhi,3.0,382.43381201469134,1,1,Delhi,Uttar Pradesh,Kanpur,FTL,Delhi
+1180,Surat -- Surat,3.0,14.690993255644194,1,1,Gujarat,Gujarat,Surat,Carting,Surat
+1181,Delhi -- Gurgaon,3.0,38.98024959379808,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1182,Hisar Hanumangarh Sirsa Ganga -- Hanumangarh Ganga Hisar Sirsa,3.0,256.943198155528,2,2,Rajasthan Haryana,Haryana Rajasthan,Hisar Hanumangarh Sirsa Ganga,FTL,Hanumangarh Ganga Hisar Sirsa
+1183,Hyderabad -- Hyderabad,3.0,27.63169775342368,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+1184,nan Delhi -- Mainpuri Agra,3.0,314.6389054422131,1,1,Uttar Pradesh,nan Delhi,nan Delhi,FTL,Mainpuri Agra
+1185,Hyderabad Pune -- Pune Bhiwandi,3.0,614.6622764134349,2,1,Maharashtra,Telangana Maharashtra,Hyderabad Pune,FTL,Pune Bhiwandi
+1186,Pune -- Pune,3.0,16.13498594829901,1,1,Maharashtra,Maharashtra,Pune,Carting,Pune
+1187,Jaipur -- Jaipur,3.0,10.094837015174267,1,1,Rajasthan,Rajasthan,Jaipur,Carting,Jaipur
+1188,Ranchi Phusro Bokaro Peterbar -- Phusro Bokaro Peterbar Ranchi,3.0,153.38595042861695,1,1,Jharkhand,Jharkhand,Ranchi Phusro Bokaro Peterbar,FTL,Phusro Bokaro Peterbar Ranchi
+1189,Chennai -- Chennai,3.0,12.517414883889595,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+1190,Gurgaon -- Ghaziabad,3.0,73.06987221529342,1,1,Uttar Pradesh,Haryana,Gurgaon,Carting,Ghaziabad
+1191,Mumbai -- Bhiwandi,3.0,16.153642473542252,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+1192,Chandigarh -- Chandigarh,3.0,32.04804415070228,1,1,Punjab,Chandigarh,Chandigarh,Carting,Chandigarh
+1193,Delhi -- Ghaziabad,3.0,35.33445166657642,1,1,Uttar Pradesh,Delhi,Delhi,Carting,Ghaziabad
+1194,Kanpur -- Gurgaon,3.0,382.89147693200533,1,1,Haryana,Uttar Pradesh,Kanpur,FTL,Gurgaon
+1195,Delhi NOI -- NOI Delhi,3.0,42.122638413210375,1,1,Delhi,Delhi,Delhi NOI,Carting,NOI Delhi
+1196,Trivandrum -- Trivandrum,3.0,9.43895471842759,1,1,Kerala,Kerala,Trivandrum,Carting,Trivandrum
+1197,Sonipat Kurukshetra Pehowa Kaithal Safidon -- Kurukshetra Pehowa Kaithal Assandh Sonipat,3.0,175.5704155996291,1,1,Haryana,Haryana,Sonipat Kurukshetra Pehowa Kaithal Safidon,FTL,Kurukshetra Pehowa Kaithal Assandh Sonipat
+1198,Bengaluru -- Bengaluru,3.0,39.831963740210206,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1199,Bhiwandi -- Mumbai,3.0,21.66116420497882,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+1200,Dalkhola Islampure -- Islampure Lodhan,3.0,32.059204913569225,1,1,West Bengal,West Bengal,Dalkhola Islampure,FTL,Islampure Lodhan
+1201,Bengaluru -- Bengaluru,3.0,20.913149064871106,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1202,PNQ -- Pune,3.0,21.905353204231833,1,1,Maharashtra,Maharashtra,PNQ,Carting,Pune
+1203,Delhi Gurgaon Meham Hansi -- Gurgaon Meham Hansi Hisar,3.0,180.22180931673992,2,1,Haryana,Delhi Haryana,Delhi Gurgaon Meham Hansi,FTL,Gurgaon Meham Hansi Hisar
+1204,Bengaluru -- Bengaluru,3.0,38.957976368879464,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1205,Chennai -- MAA,3.0,25.08394723692102,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,MAA
+1206,Hisar -- Gurgaon,3.0,143.2976486639706,1,1,Haryana,Haryana,Hisar,FTL,Gurgaon
+1207,Surat -- Bengaluru,3.0,1015.0162924007064,1,1,Karnataka,Gujarat,Surat,FTL,Bengaluru
+1208,Vijayawada -- Ongole,3.0,122.41586388154599,1,1,Andhra Pradesh,Andhra Pradesh,Vijayawada,FTL,Ongole
+1209,Pune Hubli -- Hubli Bengaluru,3.0,631.164869899478,2,1,Karnataka,Maharashtra Karnataka,Pune Hubli,FTL,Hubli Bengaluru
+1210,Del -- Delhi,3.0,17.983459271783044,1,1,Delhi,Delhi,Del,Carting,Delhi
+1211,Gurgaon -- Bengaluru,3.0,1687.8792958026036,1,1,Karnataka,Haryana,Gurgaon,FTL,Bengaluru
+1212,GZB -- Ghaziabad,3.0,9.142517071810346,1,1,Uttar Pradesh,Uttar Pradesh,GZB,Carting,Ghaziabad
+1213,Hisar Bhadra -- Rawatsar Nohar Sidhmukh,3.0,127.6447994321976,2,1,Rajasthan,Haryana Rajasthan,Hisar Bhadra,FTL,Rawatsar Nohar Sidhmukh
+1214,Naugarh -- Bansi,3.0,18.275400392198616,1,1,Uttar Pradesh,Uttar Pradesh,Naugarh,Carting,Bansi
+1215,Kolkata -- Kolkata,3.0,19.64707212518033,1,1,West Bengal,West Bengal,Kolkata,Carting,Kolkata
+1216,Vapi -- Silvassa,3.0,14.419865474801313,1,1,Dadra and Nagar Haveli,Gujarat,Vapi,Carting,Silvassa
+1217,Delhi Kanpur -- Kanpur Allahabad,3.0,564.4343979486263,2,1,Uttar Pradesh,Delhi Uttar Pradesh,Delhi Kanpur,FTL,Kanpur Allahabad
+1218,Gurgaon Dholpur Jhansi Gwalior -- Dholpur Gwalior Lalitpur Datia,3.0,318.03863308105156,4,3,Rajasthan Madhya Pradesh Uttar Pradesh,Haryana Rajasthan Uttar Pradesh Madhya Pradesh,Gurgaon Dholpur Jhansi Gwalior,FTL,Dholpur Gwalior Lalitpur Datia
+1219,Hyderabad -- Hyderabad,3.0,9.33595924037968,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+1220,Varanasi MughalSarai Chandauli -- MughalSarai Chandauli Aunrihar,3.0,58.785665693987454,1,1,Uttar Pradesh,Uttar Pradesh,Varanasi MughalSarai Chandauli,Carting,MughalSarai Chandauli Aunrihar
+1221,PNQ -- Pune,3.0,21.672200763577425,1,1,Maharashtra,Maharashtra,PNQ,Carting,Pune
+1222,Jaipur -- Jaipur,3.0,11.482489392137902,1,1,Rajasthan,Rajasthan,Jaipur,Carting,Jaipur
+1223,Bengaluru -- Bengaluru,3.0,29.428379100500496,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1224,Mirik Darjeeling -- Darjeeling Kurseong,3.0,32.81766776742658,1,1,West Bengal,West Bengal,Mirik Darjeeling,FTL,Darjeeling Kurseong
+1225,Pune Bhiwandi -- Bhiwandi Ahmedabad,3.0,478.1779322377309,1,2,Maharashtra Gujarat,Maharashtra,Pune Bhiwandi,FTL,Bhiwandi Ahmedabad
+1226,Delhi -- Gurgaon,3.0,46.17774452888728,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1227,Sonipat Roorkee Haridwar Rishikesh -- Roorkee Haridwar Rishikesh Sonipat,3.0,345.2750343686437,2,2,Uttarakhand Haryana,Haryana Uttarakhand,Sonipat Roorkee Haridwar Rishikesh,FTL,Roorkee Haridwar Rishikesh Sonipat
+1228,Raichur Manvi Sindhanur -- Manvi Sindhanur Siruguppa,3.0,52.918241789642906,1,1,Karnataka,Karnataka,Raichur Manvi Sindhanur,Carting,Manvi Sindhanur Siruguppa
+1229,Bengaluru -- Bengaluru,3.0,39.471865302528236,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1230,Tezpur Bomdila Balipara -- Bhalukpong Tezpur Balipara,2.0,83.3223377451548,2,2,Arunachal Pradesh Assam,Assam Arunachal Pradesh,Tezpur Bomdila Balipara,Carting,Bhalukpong Tezpur Balipara
+1231,Hyd Ghatkesar -- Ghatkesar Hyderabad,2.0,24.065558988977152,1,1,Telangana,Telangana,Hyd Ghatkesar,Carting,Ghatkesar Hyderabad
+1232,Gurgaon -- Kanpur,2.0,383.8382884242769,1,1,Uttar Pradesh,Haryana,Gurgaon,FTL,Kanpur
+1233,Bengaluru -- Bengaluru,2.0,9.178345046414847,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1234,Nanded Loha Gangakher Parli Ambajogai -- Loha Gangakher Parli Ambajogai Pune,2.0,252.9498378271157,1,1,Maharashtra,Maharashtra,Nanded Loha Gangakher Parli Ambajogai,FTL,Loha Gangakher Parli Ambajogai Pune
+1235,MAA Vellore Ranipet Sholinghur -- Vellore MAA Ranipet Sholinghur,2.0,175.89124933909463,1,1,Tamil Nadu,Tamil Nadu,MAA Vellore Ranipet Sholinghur,FTL,Vellore MAA Ranipet Sholinghur
+1236,Bengaluru Gurgaon -- Gurgaon Chandigarh,2.0,1939.9751424547335,2,2,Haryana Punjab,Karnataka Haryana,Bengaluru Gurgaon,FTL,Gurgaon Chandigarh
+1237,Del -- Sonipat,2.0,41.1147663495351,1,1,Haryana,Delhi,Del,Carting,Sonipat
+1238,Delhi -- Sonipat,2.0,36.052860102882306,1,1,Haryana,Delhi,Delhi,Carting,Sonipat
+1239,CCU -- CCU,2.0,10.815284624906688,1,1,West Bengal,West Bengal,CCU,Carting,CCU
+1240,Faridabad -- Gurgaon,2.0,45.78255586761333,1,1,Haryana,Haryana,Faridabad,Carting,Gurgaon
+1241,Bengaluru -- Bengaluru,2.0,28.231015572998576,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1242,Panipat Sonipat -- Sonipat Panipat,2.0,87.46848321975503,1,1,Haryana,Haryana,Panipat Sonipat,FTL,Sonipat Panipat
+1243,Mumbai -- Mumbai,2.0,16.22582086321526,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+1244,Ahmedabad -- Gurgaon,2.0,735.3205651909968,1,1,Haryana,Gujarat,Ahmedabad,FTL,Gurgaon
+1245,Vapi Bhilad -- Bhilad Vapi,2.0,26.22944651778433,1,1,Gujarat,Gujarat,Vapi Bhilad,Carting,Bhilad Vapi
+1246,Pachore Shajapur nan Bhopal Narsinghgarh -- Shajapur nan Bhopal Narsinghgarh Pachore Shujalpur,2.0,193.67809481543236,1,1,Madhya Pradesh nan,Madhya Pradesh nan,Pachore Shajapur nan Bhopal Narsinghgarh,FTL,Shajapur nan Bhopal Narsinghgarh Pachore Shujalpur
+1247,Gurgaon -- Delhi,2.0,39.46617159754767,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+1248,Sonipat Gajraula Rampur Amroha -- Gajraula Rampur Amroha Sonipat,2.0,371.0167076457483,2,2,Uttar Pradesh Haryana,Haryana Uttar Pradesh,Sonipat Gajraula Rampur Amroha,FTL,Gajraula Rampur Amroha Sonipat
+1249,Gurgaon -- GZB,2.0,59.67550703575264,1,1,Uttar Pradesh,Haryana,Gurgaon,Carting,GZB
+1250,Gurgaon -- Noida,2.0,59.04213337703972,1,1,Uttar Pradesh,Haryana,Gurgaon,Carting,Noida
+1251,Gurgaon -- Delhi,2.0,57.82898554063356,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+1252,Jaipur -- Jaipur,2.0,12.288473923799941,1,1,Rajasthan,Rajasthan,Jaipur,Carting,Jaipur
+1253,Sonipat Muzaffrngr Deoband Dehradun -- Muzaffrngr Deoband Dehradun Sonipat,2.0,360.0402357820366,3,3,Uttar Pradesh Uttarakhand Haryana,Haryana Uttar Pradesh Uttarakhand,Sonipat Muzaffrngr Deoband Dehradun,FTL,Muzaffrngr Deoband Dehradun Sonipat
+1254,Ghaziabad -- GZB,2.0,9.901043645467091,1,1,Uttar Pradesh,Uttar Pradesh,Ghaziabad,Carting,GZB
+1255,Bengaluru Hubli -- Hubli Bhiwandi,2.0,841.7842824106006,1,2,Karnataka Maharashtra,Karnataka,Bengaluru Hubli,FTL,Hubli Bhiwandi
+1256,Muktsar Jalalabad Fazilka -- Jalalabad Fazilka Muktsar,2.0,82.80223174640925,1,1,Punjab,Punjab,Muktsar Jalalabad Fazilka,FTL,Jalalabad Fazilka Muktsar
+1257,Anantapur Tadipatri Proddatur Cuddapah Badvel -- Tadipatri Proddatur Cuddapah Badvel Anantapur,2.0,348.01777999640524,1,1,Andhra Pradesh,Andhra Pradesh,Anantapur Tadipatri Proddatur Cuddapah Badvel,FTL,Tadipatri Proddatur Cuddapah Badvel Anantapur
+1258,Bhiwandi -- Mumbai,2.0,15.363159008619212,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+1259,Aligarh Kasganj -- Kasganj Aligarh,2.0,87.28140651490506,1,1,Uttar Pradesh,Uttar Pradesh,Aligarh Kasganj,FTL,Kasganj Aligarh
+1260,Bhiwandi -- Hyderabad,2.0,608.0159194302191,1,1,Telangana,Maharashtra,Bhiwandi,FTL,Hyderabad
+1261,Pune Hubli -- Hubli Bengaluru,2.0,745.7677637698098,2,1,Karnataka,Maharashtra Karnataka,Pune Hubli,FTL,Hubli Bengaluru
+1262,Bengaluru -- BLR,2.0,23.374279442451073,1,1,Karnataka,Karnataka,Bengaluru,Carting,BLR
+1263,Sonipat Roorkee Haridwar Rishikesh -- Roorkee Haridwar Rishikesh Sonipat,2.0,349.65759874214393,2,2,Uttarakhand Haryana,Haryana Uttarakhand,Sonipat Roorkee Haridwar Rishikesh,FTL,Roorkee Haridwar Rishikesh Sonipat
+1264,Kharagpur Keshiary Manglamaro Contai -- Keshiary Manglamaro Contai Kharagpur,2.0,166.34707149564596,1,1,West Bengal,West Bengal,Kharagpur Keshiary Manglamaro Contai,FTL,Keshiary Manglamaro Contai Kharagpur
+1265,Surat -- Surat,2.0,20.88612913579846,1,1,Gujarat,Gujarat,Surat,Carting,Surat
+1266,Gurgaon -- Delhi,2.0,50.913840560916924,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+1267,Delhi Agra -- Agra Gurgaon,2.0,329.9591254050313,2,2,Uttar Pradesh Haryana,Delhi Uttar Pradesh,Delhi Agra,FTL,Agra Gurgaon
+1268,Amb DehraGopipur Dharamshala Palampur -- DehraGopipur Kangra Palampur Chandigarh,2.0,169.95267181442927,1,2,Himachal Pradesh Punjab,Himachal Pradesh,Amb DehraGopipur Dharamshala Palampur,FTL,DehraGopipur Kangra Palampur Chandigarh
+1269,Hyderabad Pune -- Pune Bhiwandi,2.0,565.0319680552061,2,1,Maharashtra,Telangana Maharashtra,Hyderabad Pune,FTL,Pune Bhiwandi
+1270,Bengaluru Kolar Mulbagal Chintamani -- Kolar Mulbagal Chintamani Bengaluru,2.0,106.63916696411438,1,1,Karnataka,Karnataka,Bengaluru Kolar Mulbagal Chintamani,Carting,Kolar Mulbagal Chintamani Bengaluru
+1271,Mumbai -- Bhiwandi,2.0,16.51491975873516,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+1272,Mumbai -- Mumbai,2.0,9.350629168187941,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+1273,Aluva Guruvayoor Tirur -- Guruvayoor Edappal Kozhikode,2.0,99.68285407783188,1,1,Kerala,Kerala,Aluva Guruvayoor Tirur,FTL,Guruvayoor Edappal Kozhikode
+1274,Hyderabad -- Hyderabad,2.0,34.924184340420936,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+1275,Surat -- Ahmedabad,2.0,203.97254867055756,1,1,Gujarat,Gujarat,Surat,FTL,Ahmedabad
+1276,Surat Kolhapur -- Ahmedabad Surat,2.0,459.42021832957556,2,1,Gujarat,Gujarat Maharashtra,Surat Kolhapur,FTL,Ahmedabad Surat
+1277,Delhi -- Gurgaon,2.0,32.98280148879755,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1278,Warangal Mulugu Bhupalpally Mahadevpur -- Mulugu Bhupalpally Mahadevpur Parkal,2.0,108.66833442417203,1,1,Telangana,Telangana,Warangal Mulugu Bhupalpally Mahadevpur,FTL,Mulugu Bhupalpally Mahadevpur Parkal
+1279,Mumbai -- Mumbai,2.0,9.234214112282132,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+1280,Del -- Delhi,2.0,9.974547417869502,1,1,Delhi,Delhi,Del,Carting,Delhi
+1281,Rajkot Gondal -- Gondal Jasdan,2.0,56.61944101262387,1,1,Gujarat,Gujarat,Rajkot Gondal,Carting,Gondal Jasdan
+1282,Del -- Noida,2.0,10.077088432912936,1,1,Uttar Pradesh,Delhi,Del,Carting,Noida
+1283,PNQ Pune -- Pune PNQ,2.0,15.534263843537046,1,1,Maharashtra,Maharashtra,PNQ Pune,Carting,Pune PNQ
+1284,Mumbai -- Bhiwandi,2.0,16.563589153620242,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+1285,Kurukshetra Pehowa Kaithal Sonipat -- Pehowa Kaithal Assandh Kurukshetra,2.0,147.13068140993084,1,1,Haryana,Haryana,Kurukshetra Pehowa Kaithal Sonipat,FTL,Pehowa Kaithal Assandh Kurukshetra
+1286,Surat -- Bengaluru,2.0,1014.8869125322594,1,1,Karnataka,Gujarat,Surat,FTL,Bengaluru
+1287,Dhule Amalner Erandol Pachora -- Jalgaon Amalner Erandol Pachora Dhule,2.0,123.98673435479054,1,1,Maharashtra,Maharashtra,Dhule Amalner Erandol Pachora,Carting,Jalgaon Amalner Erandol Pachora Dhule
+1288,Del -- Delhi,2.0,9.988362660119236,1,1,Delhi,Delhi,Del,Carting,Delhi
+1289,Gurgaon Pataudi -- Pataudi GGN,2.0,59.0706784162212,1,1,Haryana,Haryana,Gurgaon Pataudi,Carting,Pataudi GGN
+1290,Mumbai -- Bhiwandi,2.0,16.207736738744607,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+1291,Mumbai -- Mumbai,2.0,15.271651617136303,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+1292,Kolkata -- Kolkata,2.0,19.500748589132485,1,1,West Bengal,West Bengal,Kolkata,Carting,Kolkata
+1293,MAA -- Chennai,2.0,34.0837753064226,1,1,Tamil Nadu,Tamil Nadu,MAA,Carting,Chennai
+1294,Delhi -- Delhi,2.0,9.668165863333712,1,1,Delhi,Delhi,Delhi,Carting,Delhi
+1295,Bengaluru -- Bengaluru,2.0,28.513830909166202,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1296,Chennai -- Chennai,2.0,9.032298661601477,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+1297,Gurgaon -- Kanpur,2.0,384.2914814426376,1,1,Uttar Pradesh,Haryana,Gurgaon,FTL,Kanpur
+1298,Sitarganj -- Rudrapur,2.0,31.351360970509667,1,1,Uttarakhand,Uttarakhand,Sitarganj,FTL,Rudrapur
+1299,GGN Gurgaon -- Gurgaon,2.0,16.976183791523393,1,1,Haryana,Haryana,GGN Gurgaon,Carting,Gurgaon
+1300,Hyderabad Pune -- Pune Bhiwandi,2.0,614.9724958089084,2,1,Maharashtra,Telangana Maharashtra,Hyderabad Pune,FTL,Pune Bhiwandi
+1301,Hyderabad -- Hyderabad,2.0,27.187632054912015,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+1302,Aluva Cochin -- Cochin Aluva,2.0,31.06267286593001,1,1,Kerala,Kerala,Aluva Cochin,Carting,Cochin Aluva
+1303,Aluva Arimbur Sankaramangalam Shoranur Pazhayannur -- Arimbur Sankaramangalam Shoranur Pazhayannur Aluva,2.0,172.22700138024305,1,1,Kerala,Kerala,Aluva Arimbur Sankaramangalam Shoranur Pazhayannur,Carting,Arimbur Sankaramangalam Shoranur Pazhayannur Aluva
+1304,Irinjlkuda Angamaly Chalakudy -- Aluva Chalakudy Irinjlkuda,2.0,45.4330388299505,1,1,Kerala,Kerala,Irinjlkuda Angamaly Chalakudy,Carting,Aluva Chalakudy Irinjlkuda
+1305,Bengaluru -- Bengaluru,2.0,27.90921399107256,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1306,Sonipat -- Dehradun,2.0,176.60836853987203,1,1,Uttarakhand,Haryana,Sonipat,FTL,Dehradun
+1307,Chennai -- MAA,2.0,25.236723744742676,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,MAA
+1308,Delhi -- Delhi,2.0,9.240412798118044,1,1,Delhi,Delhi,Delhi,Carting,Delhi
+1309,Mumbai -- Mumbai,2.0,17.158104640191354,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+1310,Bengaluru -- Bengaluru,2.0,28.122772176416404,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1311,Kolkata -- CCU,2.0,19.7305130790803,1,1,West Bengal,West Bengal,Kolkata,Carting,CCU
+1312,Delhi -- Delhi,2.0,14.58991030367313,1,1,Delhi,Delhi,Delhi,Carting,Delhi
+1313,Gurgaon -- Delhi,2.0,32.82909701173671,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+1314,Barasat -- CCU,2.0,11.31906759312482,1,1,West Bengal,West Bengal,Barasat,Carting,CCU
+1315,Delhi -- Delhi,2.0,9.132377499322612,1,1,Delhi,Delhi,Delhi,Carting,Delhi
+1316,Gurgaon -- Delhi,2.0,55.423563096898036,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+1317,Gurgaon -- Delhi,2.0,33.10496499319984,1,1,Delhi,Haryana,Gurgaon,Carting,Delhi
+1318,Hyderabad -- Hyderabad,2.0,26.821612749329702,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+1319,Bhiwandi -- Ahmedabad,2.0,411.0122570161509,1,1,Gujarat,Maharashtra,Bhiwandi,FTL,Ahmedabad
+1320,Delhi -- Gurgaon,2.0,55.90350399097613,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1321,Deoghar Dhanbad Godda -- Godda Deoghar Sahebganj,2.0,134.37950826460064,1,1,Jharkhand,Jharkhand,Deoghar Dhanbad Godda,FTL,Godda Deoghar Sahebganj
+1322,Faizabad Gosainganj -- Gosainganj Akbarpur,2.0,42.455492337438415,1,1,Uttar Pradesh,Uttar Pradesh,Faizabad Gosainganj,FTL,Gosainganj Akbarpur
+1323,Delhi -- Delhi,2.0,23.25588310635491,1,1,Delhi,Delhi,Delhi,Carting,Delhi
+1324,Chennai -- Chennai,2.0,13.597044088407113,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+1325,Purnia Katihar Naugchia -- Katihar Naugchia Khagaria,2.0,135.96144276555415,1,1,Bihar,Bihar,Purnia Katihar Naugchia,FTL,Katihar Naugchia Khagaria
+1326,Hyderabad Medchal -- Medchal Hyderabad,2.0,23.807135800830714,1,1,Telangana,Telangana,Hyderabad Medchal,Carting,Medchal Hyderabad
+1327,Bhubaneshwar Balugaon -- Berhampur Tangi,2.0,170.52424392781288,1,1,Orissa,Orissa,Bhubaneshwar Balugaon,FTL,Berhampur Tangi
+1328,Dhule Chalisgaon -- Chalisgaon Kannad,2.0,62.28449118802152,1,1,Maharashtra,Maharashtra,Dhule Chalisgaon,Carting,Chalisgaon Kannad
+1329,Bengaluru -- Bengaluru,2.0,42.31187096304429,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1330,Hyderabad Hyd -- Hyd Hyderabad,2.0,15.01921705139824,1,1,Telangana,Telangana,Hyderabad Hyd,Carting,Hyd Hyderabad
+1331,Delhi -- Delhi,2.0,9.82793334029444,1,1,Delhi,Delhi,Delhi,Carting,Delhi
+1332,Faridabad -- Gurgaon,2.0,47.20252962141709,1,1,Haryana,Haryana,Faridabad,Carting,Gurgaon
+1333,Bhiwandi -- Mumbai,2.0,21.622664385593232,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+1334,Ranchi -- Dhanbad,2.0,120.7316606342015,1,1,Jharkhand,Jharkhand,Ranchi,Carting,Dhanbad
+1335,Dindigul Palani Gujiliam Oddnchtram -- Gujiliam Dindigul Oddnchtram Palani,2.0,122.1951615472243,1,1,Tamil Nadu,Tamil Nadu,Dindigul Palani Gujiliam Oddnchtram,FTL,Gujiliam Dindigul Oddnchtram Palani
+1336,Allahabad -- Allahabad,2.0,21.466091003590464,1,1,Uttar Pradesh,Uttar Pradesh,Allahabad,Carting,Allahabad
+1337,Chennai -- Chennai,2.0,9.61418073704652,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+1338,MAA -- Hyderabad,2.0,494.11858891109864,1,1,Telangana,Tamil Nadu,MAA,FTL,Hyderabad
+1339,CCU -- Kolkata,1.0,20.0571144496344,1,1,West Bengal,West Bengal,CCU,Carting,Kolkata
+1340,FBD Faridabad -- Faridabad FBD,1.0,20.469492939953206,1,1,Haryana,Haryana,FBD Faridabad,Carting,Faridabad FBD
+1341,Mumbai -- Mumbai,1.0,9.052850573599851,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+1342,Nagpur -- Nagpur,1.0,20.596365275920476,1,1,Maharashtra,Maharashtra,Nagpur,Carting,Nagpur
+1343,Chennai -- Chennai,1.0,14.59628232215678,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+1344,Karimnagar Ramagundam Chinnur -- Manthani Chinnur Karimnagar,1.0,175.0608379415532,1,1,Telangana,Telangana,Karimnagar Ramagundam Chinnur,FTL,Manthani Chinnur Karimnagar
+1345,Varanasi -- Varanasi,1.0,9.0275126850741,1,1,Uttar Pradesh,Uttar Pradesh,Varanasi,Carting,Varanasi
+1346,Ghaziabad -- Delhi,1.0,35.33406571132362,1,1,Delhi,Uttar Pradesh,Ghaziabad,Carting,Delhi
+1347,Nipani Chikodi Bijapur -- Chikodi Bijapur Jath,1.0,202.38464177769086,1,2,Karnataka Maharashtra,Karnataka,Nipani Chikodi Bijapur,FTL,Chikodi Bijapur Jath
+1348,Visakhapatnam -- Vishakhapatnam,1.0,11.492270382161449,1,1,Andhra Pradesh,Andhra Pradesh,Visakhapatnam,Carting,Vishakhapatnam
+1349,Varanasi -- Varanasi nan,1.0,20.519246083207136,1,1,Uttar Pradesh nan,Uttar Pradesh,Varanasi,Carting,Varanasi nan
+1350,Bengaluru -- Bengaluru,1.0,38.59876822078152,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1351,Pune -- Pune,1.0,10.65215593484776,1,1,Maharashtra,Maharashtra,Pune,Carting,Pune
+1352,Dhanbad -- Nirsa,1.0,28.17317620351516,1,1,Jharkhand,Jharkhand,Dhanbad,Carting,Nirsa
+1353,Rajamundry Amalapuram Draksharamam -- Palakollu Draksharamam Rajamundry,1.0,121.4553434805321,1,1,Andhra Pradesh,Andhra Pradesh,Rajamundry Amalapuram Draksharamam,FTL,Palakollu Draksharamam Rajamundry
+1354,Varanasi Bhadohi Gopiganj -- Bhadohi Gopiganj Mirzapur,1.0,68.76791069563336,1,1,Uttar Pradesh,Uttar Pradesh,Varanasi Bhadohi Gopiganj,FTL,Bhadohi Gopiganj Mirzapur
+1355,Kozhikode Tirurangadi Malappuram -- Tirurangadi Malappuram Thachnttukra,1.0,60.006573489796516,1,1,Kerala,Kerala,Kozhikode Tirurangadi Malappuram,Carting,Tirurangadi Malappuram Thachnttukra
+1356,Gurgaon -- Gurgaon,1.0,9.444839004637112,1,1,Haryana,Haryana,Gurgaon,Carting,Gurgaon
+1357,Islampur Karad Chiplun Khed -- Karad Chiplun Khed Kolhapur,1.0,256.3609780972264,1,1,Maharashtra,Maharashtra,Islampur Karad Chiplun Khed,FTL,Karad Chiplun Khed Kolhapur
+1358,Bengaluru -- Bengaluru,1.0,9.042020319575272,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1359,Allahabad -- Allahabad,1.0,9.269792028954695,1,1,Uttar Pradesh,Uttar Pradesh,Allahabad,Carting,Allahabad
+1360,Visakhapatnam -- Chodavaram,1.0,28.42313285800024,1,1,Andhra Pradesh,Andhra Pradesh,Visakhapatnam,Carting,Chodavaram
+1361,Gurgaon -- Ghaziabad,1.0,73.04240649821385,1,1,Uttar Pradesh,Haryana,Gurgaon,Carting,Ghaziabad
+1362,Bengaluru Malur Bangarapet Bethamangala -- Malur Bangarapet Bethamangala Bengaluru,1.0,148.45267542221256,1,1,Karnataka,Karnataka,Bengaluru Malur Bangarapet Bethamangala,Carting,Malur Bangarapet Bethamangala Bengaluru
+1363,Bhiwandi -- Surat,1.0,203.4607198706888,1,1,Gujarat,Maharashtra,Bhiwandi,FTL,Surat
+1364,Angul Sonepur Balangir Phulbani -- Sonepur Balangir Phulbani Angul,1.0,352.24183042535793,1,1,Orissa,Orissa,Angul Sonepur Balangir Phulbani,Carting,Sonepur Balangir Phulbani Angul
+1365,Harraiya Basti -- Basti Khalilabad,1.0,56.19265442188204,1,1,Uttar Pradesh,Uttar Pradesh,Harraiya Basti,FTL,Basti Khalilabad
+1366,Ghaziabad -- Gurgaon,1.0,72.69828753237022,1,1,Haryana,Uttar Pradesh,Ghaziabad,Carting,Gurgaon
+1367,Surat -- Surat,1.0,12.691585374731645,1,1,Gujarat,Gujarat,Surat,Carting,Surat
+1368,Vapi -- Daman,1.0,9.376028394774304,1,1,Daman & Diu,Gujarat,Vapi,Carting,Daman
+1369,CCU -- CCU,1.0,10.356802457544118,1,1,West Bengal,West Bengal,CCU,Carting,CCU
+1370,Mumbai -- Bhiwandi,1.0,15.667296145290164,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+1371,Bhiwandi -- Mumbai,1.0,21.863201711424683,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+1372,Amb DehraGopipur Dharamshala Palampur -- DehraGopipur Kangra Palampur Chandigarh,1.0,261.15993788273954,1,2,Himachal Pradesh Punjab,Himachal Pradesh,Amb DehraGopipur Dharamshala Palampur,FTL,DehraGopipur Kangra Palampur Chandigarh
+1373,Tiruppattur Uthangarai -- Uthangarai Ambur,1.0,85.08232782280261,1,1,Tamil Nadu,Tamil Nadu,Tiruppattur Uthangarai,Carting,Uthangarai Ambur
+1374,Delhi -- Guwahati,1.0,1477.5356261254103,1,1,Assam,Delhi,Delhi,FTL,Guwahati
+1375,Dhanbad -- Dhanbad,1.0,10.729804704538642,1,1,Jharkhand,Jharkhand,Dhanbad,Carting,Dhanbad
+1376,Jadcherla Shadnagar -- Shadnagar Hyderabad,1.0,26.56651121670502,1,1,Telangana,Telangana,Jadcherla Shadnagar,FTL,Shadnagar Hyderabad
+1377,Bhiwandi -- Mumbai,1.0,13.557685215626664,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+1378,Karkala Dhrmsthala -- Dhrmsthala Mangalore,1.0,89.13364411783749,1,1,Karnataka,Karnataka,Karkala Dhrmsthala,FTL,Dhrmsthala Mangalore
+1379,MAA Chennai -- Chennai MAA,1.0,49.84684395966757,1,1,Tamil Nadu,Tamil Nadu,MAA Chennai,Carting,Chennai MAA
+1380,Mumbai -- Bhiwandi,1.0,15.591748030409745,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+1381,Ghaziabad -- Delhi,1.0,35.39296463431721,1,1,Delhi,Uttar Pradesh,Ghaziabad,Carting,Delhi
+1382,Kolhapur Surat -- Surat Ahmedabad,1.0,697.7821358717017,2,1,Gujarat,Maharashtra Gujarat,Kolhapur Surat,FTL,Surat Ahmedabad
+1383,PNQ -- Pune,1.0,10.47859599433651,1,1,Maharashtra,Maharashtra,PNQ,Carting,Pune
+1384,Bhopal Kanpur -- Kanpur Gurgaon,1.0,824.7328535685652,2,2,Uttar Pradesh Haryana,Madhya Pradesh Uttar Pradesh,Bhopal Kanpur,FTL,Kanpur Gurgaon
+1385,Allahabad -- Allahabad,1.0,19.00338366922747,1,1,Uttar Pradesh,Uttar Pradesh,Allahabad,Carting,Allahabad
+1386,Delhi -- Delhi,1.0,9.143720141341898,1,1,Delhi,Delhi,Delhi,Carting,Delhi
+1387,Silchar -- Guwahati,1.0,173.41949562232918,1,1,Assam,Assam,Silchar,FTL,Guwahati
+1388,Surat Vapi -- Vapi Surat,1.0,162.51290724462459,1,1,Gujarat,Gujarat,Surat Vapi,FTL,Vapi Surat
+1389,Vadodara -- Vadodara,1.0,10.049461213356974,1,1,Gujarat,Gujarat,Vadodara,Carting,Vadodara
+1390,Bilaspur -- Champa,1.0,47.51013816269054,1,1,Chhattisgarh,Chhattisgarh,Bilaspur,FTL,Champa
+1391,Kolkata -- CCU,1.0,15.30875561432516,1,1,West Bengal,West Bengal,Kolkata,Carting,CCU
+1392,Rudrapur -- Haldwani,1.0,26.378421940115278,1,1,Uttarakhand,Uttarakhand,Rudrapur,FTL,Haldwani
+1393,Delhi -- Delhi,1.0,21.69829629797141,1,1,Delhi,Delhi,Delhi,Carting,Delhi
+1394,Surat -- Surat,1.0,9.497321739928475,1,1,Gujarat,Gujarat,Surat,Carting,Surat
+1395,CCU -- CCU,1.0,18.1181652248746,1,1,West Bengal,West Bengal,CCU,Carting,CCU
+1396,Pune -- Bhiwandi,1.0,101.68901792940372,1,1,Maharashtra,Maharashtra,Pune,FTL,Bhiwandi
+1397,Arimbur Sankaramangalam Shoranur Pazhayannur -- Sankaramangalam Shoranur Pazhayannur Aluva,1.0,126.46888803765728,1,1,Kerala,Kerala,Arimbur Sankaramangalam Shoranur Pazhayannur,Carting,Sankaramangalam Shoranur Pazhayannur Aluva
+1398,GZB -- Ghaziabad,1.0,11.291664423781038,1,1,Uttar Pradesh,Uttar Pradesh,GZB,Carting,Ghaziabad
+1399,Delhi -- North,1.0,9.045083460088444,1,1,Delhi,Delhi,Delhi,Carting,North
+1400,Mumbai -- Mumbai,1.0,9.176511292368472,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+1401,Mainpuri Shikohabad Firozabad -- Shikohabad Firozabad Delhi,1.0,260.0495592069461,1,2,Uttar Pradesh Delhi,Uttar Pradesh,Mainpuri Shikohabad Firozabad,Carting,Shikohabad Firozabad Delhi
+1402,Delhi -- Gurgaon,1.0,54.52949219813182,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1403,Visakhapatnam Anakapalle Narsiptnm -- Anakapalle Narsiptnm Visakhapatnam,1.0,118.88792370486263,1,1,Andhra Pradesh,Andhra Pradesh,Visakhapatnam Anakapalle Narsiptnm,Carting,Anakapalle Narsiptnm Visakhapatnam
+1404,Dadri -- Noida,1.0,17.476161354211083,1,1,Uttar Pradesh,Uttar Pradesh,Dadri,Carting,Noida
+1405,CCU -- CCU,1.0,9.772171233082302,1,1,West Bengal,West Bengal,CCU,Carting,CCU
+1406,Hyderabad -- Patancheru,1.0,30.50298158273665,1,1,Telangana,Telangana,Hyderabad,Carting,Patancheru
+1407,GGN -- Delhi,1.0,9.840096269966264,1,1,Delhi,Haryana,GGN,Carting,Delhi
+1408,Delhi -- Lucknow,1.0,422.8744151142268,1,1,Uttar Pradesh,Delhi,Delhi,FTL,Lucknow
+1409,Vidisha GanjBasoda Sagar -- GanjBasoda Sagar Bhopal,1.0,276.5283188171022,1,1,Madhya Pradesh,Madhya Pradesh,Vidisha GanjBasoda Sagar,FTL,GanjBasoda Sagar Bhopal
+1410,Bengaluru -- Bengaluru,1.0,28.175497316435973,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1411,Bengaluru -- BLR,1.0,24.98188628356136,1,1,Karnataka,Karnataka,Bengaluru,Carting,BLR
+1412,Tezu -- Dibrugarh,1.0,126.78455631982747,1,1,Assam,Arunachal Pradesh,Tezu,Carting,Dibrugarh
+1413,Vadodara -- Vadodara,1.0,10.459651916384733,1,1,Gujarat,Gujarat,Vadodara,Carting,Vadodara
+1414,Mumbai -- Mumbai,1.0,10.050006019646226,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+1415,Bhubaneshwar -- Bhadrak,1.0,107.88511239369952,1,1,Orissa,Orissa,Bhubaneshwar,FTL,Bhadrak
+1416,Delhi -- Kanpur,1.0,382.38044120473353,1,1,Uttar Pradesh,Delhi,Delhi,FTL,Kanpur
+1417,Allahabad -- Satna,1.0,129.74999590608988,1,1,Madhya Pradesh,Uttar Pradesh,Allahabad,FTL,Satna
+1418,Hyderabad Rajamundry Vizag -- Rajamundry Visakhapatnam Hyderabad,1.0,1038.2819915258171,2,2,Andhra Pradesh Telangana,Telangana Andhra Pradesh,Hyderabad Rajamundry Vizag,FTL,Rajamundry Visakhapatnam Hyderabad
+1419,Bhubaneshwar -- Bhadrak,1.0,107.31792299292404,1,1,Orissa,Orissa,Bhubaneshwar,FTL,Bhadrak
+1420,Allahabad -- Allahabad,1.0,39.67226618114959,1,1,Uttar Pradesh,Uttar Pradesh,Allahabad,Carting,Allahabad
+1421,Surat -- Surat,1.0,9.850480057034275,1,1,Gujarat,Gujarat,Surat,Carting,Surat
+1422,Guwahati -- Guwahati,1.0,9.980016172292832,1,1,Assam,Assam,Guwahati,Carting,Guwahati
+1423,Kolkata Baharampur Dhulian -- Baharampur Dhulian Malda,1.0,267.37181295852423,1,1,West Bengal,West Bengal,Kolkata Baharampur Dhulian,FTL,Baharampur Dhulian Malda
+1424,Chennai -- Chennai,1.0,9.006827115890584,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+1425,Delhi -- Gurgaon,1.0,58.787443946274,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1426,Kamareddy -- Hyderabad,1.0,120.08862214157496,1,1,Telangana,Telangana,Kamareddy,FTL,Hyderabad
+1427,Dharmapuri -- Bengaluru,1.0,132.35462075898954,1,1,Karnataka,Tamil Nadu,Dharmapuri,FTL,Bengaluru
+1428,Ludhiana Muktsar -- Muktsar Bhatinda,1.0,191.17103071048064,1,1,Punjab,Punjab,Ludhiana Muktsar,FTL,Muktsar Bhatinda
+1429,Kanpur Auraiya Etawah -- Auraiya Etawah Gurgaon,1.0,392.2873870322919,1,2,Uttar Pradesh Haryana,Uttar Pradesh,Kanpur Auraiya Etawah,FTL,Auraiya Etawah Gurgaon
+1430,Surat -- Surat,1.0,9.109091654619585,1,1,Gujarat,Gujarat,Surat,Carting,Surat
+1431,Vellore -- Bengaluru,1.0,184.1079596635727,1,1,Karnataka,Tamil Nadu,Vellore,FTL,Bengaluru
+1432,Ludhiana -- Jalandhar,1.0,61.75810887804056,1,1,Punjab,Punjab,Ludhiana,FTL,Jalandhar
+1433,Delhi -- Gurgaon,1.0,37.36746456883334,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1434,Barh Sheikhpura -- Sheikhpura Bakhtiarpur,1.0,84.14138889210028,1,1,Bihar,Bihar,Barh Sheikhpura,FTL,Sheikhpura Bakhtiarpur
+1435,Pune -- Pune,1.0,22.18353498123052,1,1,Maharashtra,Maharashtra,Pune,Carting,Pune
+1436,Teok -- Jorhat,1.0,28.391768044575795,1,1,Assam,Assam,Teok,Carting,Jorhat
+1437,Chandigarh BilaspurHP SundarNgr Mandi -- BilaspurHP SundarNgr Mandi Kullu,1.0,174.53542891828658,2,1,Himachal Pradesh,Punjab Himachal Pradesh,Chandigarh BilaspurHP SundarNgr Mandi,FTL,BilaspurHP SundarNgr Mandi Kullu
+1438,Gurgaon -- Gurgaon,1.0,29.23579290390496,1,1,Haryana,Haryana,Gurgaon,Carting,Gurgaon
+1439,Delhi -- Gurgaon,1.0,61.44016426772824,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1440,Delhi -- Gurgaon,1.0,39.57696498348826,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1441,Delhi Noida -- Noida Kanpur,1.0,391.99463957268966,2,1,Uttar Pradesh,Delhi Uttar Pradesh,Delhi Noida,FTL,Noida Kanpur
+1442,Kolkata -- Kolkata,1.0,9.081931379234096,1,1,West Bengal,West Bengal,Kolkata,Carting,Kolkata
+1443,Bengaluru -- Bengaluru,1.0,42.84623114940681,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1444,nan Siwan Barauli -- Siwan Gopalganj nan,1.0,170.202293019918,1,1,Bihar nan,nan Bihar,nan Siwan Barauli,Carting,Siwan Gopalganj nan
+1445,GGN -- Gurgaon,1.0,10.900953172306409,1,1,Haryana,Haryana,GGN,Carting,Gurgaon
+1446,Bengaluru -- Bengaluru,1.0,40.65880381315451,1,1,Karnataka,Karnataka,Bengaluru,FTL,Bengaluru
+1447,Bengaluru -- BLR,1.0,14.74332807354521,1,1,Karnataka,Karnataka,Bengaluru,Carting,BLR
+1448,Bhiwandi -- Mumbai,1.0,21.009429862103328,1,1,Maharashtra,Maharashtra,Bhiwandi,Carting,Mumbai
+1449,Bengaluru -- BLR,1.0,13.4375874602095,1,1,Karnataka,Karnataka,Bengaluru,Carting,BLR
+1450,Shimoga Thirthahalli Koppa -- Thirthahalli Koppa Shimoga,1.0,115.97901515595007,1,1,Karnataka,Karnataka,Shimoga Thirthahalli Koppa,FTL,Thirthahalli Koppa Shimoga
+1451,Mumbai -- Bhiwandi,1.0,23.111736038555037,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Bhiwandi
+1452,PNQ -- Pune,1.0,10.301718622960957,1,1,Maharashtra,Maharashtra,PNQ,Carting,Pune
+1453,Gurgaon nan Gwalior -- nan Gwalior Gurgaon,1.0,528.152960718506,2,2,nan Madhya Pradesh Haryana,Haryana nan Madhya Pradesh,Gurgaon nan Gwalior,FTL,nan Gwalior Gurgaon
+1454,Delhi nan Hathras Aligarh -- nan Hathras Aligarh Delhi,1.0,365.82206577556167,2,2,nan Uttar Pradesh Delhi,Delhi nan Uttar Pradesh,Delhi nan Hathras Aligarh,FTL,nan Hathras Aligarh Delhi
+1455,Sonipat Haridwar -- Roorkee Rishikesh,1.0,148.29342313195372,2,1,Uttarakhand,Haryana Uttarakhand,Sonipat Haridwar,FTL,Roorkee Rishikesh
+1456,Chennai -- Chennai,1.0,34.64771689700039,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+1457,FBD Faridabad -- Faridabad FBD,1.0,33.83818610098203,1,1,Haryana,Haryana,FBD Faridabad,Carting,Faridabad FBD
+1458,Salem -- Salem,1.0,9.040985753808274,1,1,Tamil Nadu,Tamil Nadu,Salem,Carting,Salem
+1459,Surat -- Surat,1.0,9.68546160998063,1,1,Gujarat,Gujarat,Surat,Carting,Surat
+1460,Manjhaul -- Barauni,1.0,15.816290146358153,1,1,Bihar,Bihar,Manjhaul,FTL,Barauni
+1461,Bengaluru -- Bengaluru,1.0,42.18687096062767,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1462,Delhi -- Gurgaon,1.0,37.37250783509383,1,1,Haryana,Delhi,Delhi,Carting,Gurgaon
+1463,Hyderabad -- Hyderabad,1.0,9.33539944717219,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+1464,Hyderabad Ongole -- Ongole MAA,1.0,532.7805610211901,2,2,Andhra Pradesh Tamil Nadu,Telangana Andhra Pradesh,Hyderabad Ongole,FTL,Ongole MAA
+1465,Hyderabad -- Hyderabad,1.0,9.15564189950292,1,1,Telangana,Telangana,Hyderabad,Carting,Hyderabad
+1466,Guwahati -- Silchar,1.0,176.0111285841479,1,1,Assam,Assam,Guwahati,FTL,Silchar
+1467,Delhi -- Delhi,1.0,9.460834092477958,1,1,Delhi,Delhi,Delhi,Carting,Delhi
+1468,Bhubaneswar -- Bhubaneshwar,1.0,9.450542900678109,1,1,Orissa,Orissa,Bhubaneswar,Carting,Bhubaneshwar
+1469,Kolkata -- Howrah,1.0,10.018285597448555,1,1,West Bengal,West Bengal,Kolkata,Carting,Howrah
+1470,Chennai -- Chennai,1.0,9.401193524867644,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+1471,PNQ -- Pune,1.0,11.210490817926804,1,1,Maharashtra,Maharashtra,PNQ,Carting,Pune
+1472,Lucknow -- Lucknow,1.0,11.98548393632328,1,1,Uttar Pradesh,Uttar Pradesh,Lucknow,Carting,Lucknow
+1473,PNQ -- Pune,1.0,27.656946745998397,1,1,Maharashtra,Maharashtra,PNQ,Carting,Pune
+1474,Silchar Dharmanagr -- Dharmanagr Agartala,1.0,183.0235690521354,2,1,Tripura,Assam Tripura,Silchar Dharmanagr,FTL,Dharmanagr Agartala
+1475,Chennai -- Chennai,1.0,9.546367241639013,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+1476,Kollam Trivandrum Kayamkulam Manthuka -- Trivandrum Kollam Karungaply Manthuka Aluva,1.0,241.32830748330656,1,1,Kerala,Kerala,Kollam Trivandrum Kayamkulam Manthuka,FTL,Trivandrum Kollam Karungaply Manthuka Aluva
+1477,Bengaluru -- Bengaluru,1.0,41.96435993978971,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1478,Delhi -- Noida,1.0,24.513220690824664,1,1,Uttar Pradesh,Delhi,Delhi,FTL,Noida
+1479,Hyderabad -- Gurgaon,1.0,1237.2217747527675,1,1,Haryana,Telangana,Hyderabad,FTL,Gurgaon
+1480,Gwalior -- Shivpuri,1.0,104.73070829819996,1,1,Madhya Pradesh,Madhya Pradesh,Gwalior,FTL,Shivpuri
+1481,Goa -- Goa,1.0,53.73721621968626,1,1,Goa,Goa,Goa,Carting,Goa
+1482,Delhi -- Delhi,1.0,9.491885958126108,1,1,Delhi,Delhi,Delhi,Carting,Delhi
+1483,Nanded Majalgaon -- Parbhani Nanded,1.0,177.78591700171134,1,1,Maharashtra,Maharashtra,Nanded Majalgaon,Carting,Parbhani Nanded
+1484,Bengaluru -- BLR,1.0,28.86623632976241,1,1,Karnataka,Karnataka,Bengaluru,Carting,BLR
+1485,Kolkata Baharampur -- Baharampur Kolkata,1.0,317.0199665786905,1,1,West Bengal,West Bengal,Kolkata Baharampur,FTL,Baharampur Kolkata
+1486,Chennai -- Chennai,1.0,9.089016752329522,1,1,Tamil Nadu,Tamil Nadu,Chennai,Carting,Chennai
+1487,Aluva Cherthala -- Kottayam Aluva,1.0,113.8688062044825,1,1,Kerala,Kerala,Aluva Cherthala,FTL,Kottayam Aluva
+1488,Madnapalle -- Palamaner,1.0,39.82140957185518,1,1,Andhra Pradesh,Andhra Pradesh,Madnapalle,FTL,Palamaner
+1489,Mumbai -- Mumbai,1.0,15.861332727363658,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+1490,Bengaluru -- Bengaluru,1.0,34.06417641183635,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1491,Gurgaon -- Kanpur,1.0,384.1528341845609,1,1,Uttar Pradesh,Haryana,Gurgaon,FTL,Kanpur
+1492,Visakhapatnam Vizag -- Vishakhapatnam,1.0,20.975222333351937,1,1,Andhra Pradesh,Andhra Pradesh,Visakhapatnam Vizag,Carting,Vishakhapatnam
+1493,Surat -- Surat,1.0,9.47166056409999,1,1,Gujarat,Gujarat,Surat,Carting,Surat
+1494,Bengaluru -- Bengaluru,1.0,35.41953114179351,1,1,Karnataka,Karnataka,Bengaluru,Carting,Bengaluru
+1495,Del -- Gurgaon,1.0,48.71308611631781,1,1,Haryana,Delhi,Del,Carting,Gurgaon
+1496,Mumbai -- Mumbai,1.0,9.362187437064978,1,1,Maharashtra,Maharashtra,Mumbai,Carting,Mumbai
+1497,Ahmedabad Kapadvanj -- Kapadvanj Lunawada,1.0,103.17051591142965,1,1,Gujarat,Gujarat,Ahmedabad Kapadvanj,Carting,Kapadvanj Lunawada
