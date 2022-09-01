@@ -10,4 +10,5 @@
 - Statistical Analysis
 - Hypothesis Testing
 
-
+- Biq-Query API |  SQL 
+- Tableau
