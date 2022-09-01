@@ -1,0 +1,8 @@
+- This project is about an e-commerce company data. Dataset contains order details , customer details , product details , payment info etc .
+- given this data to analyze and provide some insights and recommendations from it.
+
+- Fetching data from Big-Query API to jupyter environment 
+- doing necessary visualization using python seaborn library 
+- have used PowerBI to get snow flake schema desgin
+- using Tableau for geo maping the stats level inforamtion 
+- have done statistical analysis on delivery times and Confidence Interval for delivery time per states.
