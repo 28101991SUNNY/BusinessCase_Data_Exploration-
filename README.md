@@ -12,3 +12,6 @@
 
 - Biq-Query API |  SQL 
 - Tableau
+
+- Regression
+- Machine Learning
