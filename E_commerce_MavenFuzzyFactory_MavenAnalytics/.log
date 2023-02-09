@@ -2845,3 +2845,36 @@
 2023-02-09 11:20:39,193 [10644] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2023-02-09 11:20:39,197 [10644] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2023-02-09 11:20:39,198 [10644] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-02-09 15:54:10,156 [10644] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\site-packages\pandas\core\frame.py
+2023-02-09 15:54:10,349 [10644] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2023-02-09 15:54:10,364 [10644] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\site-packages\pandas\__init__.py
+2023-02-09 15:54:10,375 [10644] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\site-packages\pandas\core\__init__.py
+2023-02-09 15:54:10,481 [10644] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\site-packages\pandas\core\generic.py
+2023-02-09 15:54:10,529 [10644] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\site-packages\pandas\core\base.py
+2023-02-09 15:54:10,609 [10644] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\site-packages\pandas\core\accessor.py
+2023-02-09 15:54:10,661 [10644] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\site-packages\pandas\core\indexing.py
+2023-02-09 15:54:10,682 [10644] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\site-packages\pandas\core\arraylike.py
+2023-02-09 16:11:10,434 [10644] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-02-09 16:11:10,435 [10644] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-02-09 16:11:10,435 [10644] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-02-09 16:11:10,435 [10644] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-02-09 16:11:10,435 [10644] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-02-09 16:19:50,565 [10644] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-02-09 16:19:50,565 [10644] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 5
+2023-02-09 16:19:50,567 [10644] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[1:1] new[1:5]
+2023-02-09 16:19:50,567 [10644] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 1 to 5 (to 4 in part parser)
+2023-02-09 16:19:50,567 [10644] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-02-09 16:39:09,169 [10644] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-02-09 16:39:09,170 [10644] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 5; new: 37
+2023-02-09 16:39:09,171 [10644] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[1:4] new[1:4]
+2023-02-09 16:39:09,172 [10644] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 1 to 34 (to 34 in part parser)
+2023-02-09 16:39:09,172 [10644] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[5:5] new[5:37]
+2023-02-09 16:39:09,173 [10644] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 35 to 37 (to 36 in part parser)
+2023-02-09 16:39:09,173 [10644] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-02-09 16:39:09,191 [10644] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\site-packages\pyforest\_importable.py
+2023-02-09 16:39:09,267 [10644] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\typing.py
+2023-02-09 16:39:09,291 [10644] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2023-02-09 16:39:09,341 [10644] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\site-packages\pandas\_typing.py
+2023-02-09 16:39:09,354 [10644] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-02-09 16:39:09,379 [10644] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\types.py
+2023-02-09 16:39:09,390 [10644] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\types.pyi
