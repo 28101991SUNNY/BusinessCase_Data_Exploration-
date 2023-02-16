@@ -1,0 +1,33 @@
+2023-02-13 14:45:35,826 [30192] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-13 14:45:35,827 [30192] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-13 14:45:35,827 [30192] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-13 14:45:35,829 [30192] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-13 14:45:35,830 [30192] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-13 14:45:35,831 [30192] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-02-13 14:45:37,994 [30192] INFO     numexpr.utils:145: [JupyterRequire] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-02-13 14:45:37,996 [30192] INFO     numexpr.utils:157: [JupyterRequire] NumExpr defaulting to 8 threads.
+2023-02-13 14:45:41,307 [30192] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\site-packages\pyforest\_importable.py
+2023-02-13 14:45:41,438 [30192] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2023-02-13 14:45:41,524 [30192] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-13 14:45:41,524 [30192] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-13 14:45:41,524 [30192] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-13 14:45:41,525 [30192] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-13 14:45:41,527 [30192] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-13 14:45:41,527 [30192] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-02-13 14:45:43,332 [30192] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-02-13 14:45:43,334 [30192] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-02-13 14:45:43,334 [30192] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-02-13 14:45:43,334 [30192] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-02-13 14:45:43,334 [30192] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-02-13 14:50:21,348 [30192] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-02-13 14:50:21,348 [30192] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 11
+2023-02-13 14:50:21,348 [30192] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[1:1] new[1:11]
+2023-02-13 14:50:21,355 [30192] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 1 to 11 (to 10 in part parser)
+2023-02-13 14:50:21,356 [30192] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-02-13 14:50:21,373 [30192] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\sunny\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-02-13 17:48:28,260 [30192] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-13 17:48:28,265 [30192] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-13 17:48:28,265 [30192] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-13 17:48:28,311 [30192] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-13 17:48:28,314 [30192] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-13 17:48:28,316 [30192] DEBUG    root:97: [JupyterRequire] Registering comm targets.
