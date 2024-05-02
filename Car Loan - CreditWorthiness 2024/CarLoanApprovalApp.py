@@ -20,52 +20,49 @@ def predict_with_mapping(input_data, model, mappings):
     
     return predictions
 
-def main():
-    st.title("Car Worthiness Prediction")
 
-    model, mappings = load_model_and_mappings()
+st.title("Car Worthiness Prediction")
 
-    # Create input fields
-    occupation = st.selectbox("Occupation", list(mappings["Occupation"].keys()))
-    monthly_income = st.number_input("Monthly Income", value=6000, min_value=0, max_value=150000)
-    credit_score = st.number_input("Credit Score", value=800, min_value=300, max_value=800)
-    years_of_employment = st.number_input("Years of Employment", value=5)
-    finance_status = st.selectbox("Finance Status", list(mappings["Finance Status"].keys()))
-    finance_history = st.selectbox("Finance History", list(mappings["Finance History"].keys()))
-    num_children = st.number_input("Number of Children", value=0, min_value=0)
+model, mappings = load_model_and_mappings()
 
-    if st.button("Predict"):
-        error = False
-        error_messages = []
+# Create input fields
+occupation = st.selectbox("Occupation", list(mappings["Occupation"].keys()))
+monthly_income = st.number_input("Monthly Income", value=6000, min_value=0, max_value=150000)
+credit_score = st.number_input("Credit Score", value=800, min_value=300, max_value=800)
+years_of_employment = st.number_input("Years of Employment", value=5)
+finance_status = st.selectbox("Finance Status", list(mappings["Finance Status"].keys()))
+finance_history = st.selectbox("Finance History", list(mappings["Finance History"].keys()))
+num_children = st.number_input("Number of Children", value=0, min_value=0)
 
-        if monthly_income < 0 or monthly_income > 150000:
-            error = True
-            error_messages.append("Monthly Income should be between 0 and 150000")
+if st.button("Predict"):
+    error = False
+    error_messages = []
+
+    if monthly_income < 0 or monthly_income > 150000:
+        error = True
+        error_messages.append("Monthly Income should be between 0 and 150000")
+    
+    if credit_score < 300 or credit_score > 800:
+        error = True
+        error_messages.append("Credit Score should be between 300 and 800")
+    
+    if num_children < 0:
+        error = True
+        error_messages.append("Number of Children cannot be negative")
+    
+    if error:
+        st.error("\n".join(error_messages))
+    else:
+        input_data = pd.DataFrame({
+            'Occupation': [occupation],
+            'Monthly Income': [monthly_income],
+            'Credit Score': [credit_score],
+            'Years of Employment': [years_of_employment],
+            'Finance Status': [finance_status],
+            'Finance History': [finance_history],
+            'Number of Children': [num_children]
+        })
+
+        prediction = predict_with_mapping(input_data, model, mappings)
         
-        if credit_score < 300 or credit_score > 800:
-            error = True
-            error_messages.append("Credit Score should be between 300 and 800")
-        
-        if num_children < 0:
-            error = True
-            error_messages.append("Number of Children cannot be negative")
-        
-        if error:
-            st.error("\n".join(error_messages))
-        else:
-            input_data = pd.DataFrame({
-                'Occupation': [occupation],
-                'Monthly Income': [monthly_income],
-                'Credit Score': [credit_score],
-                'Years of Employment': [years_of_employment],
-                'Finance Status': [finance_status],
-                'Finance History': [finance_history],
-                'Number of Children': [num_children]
-            })
-
-            prediction = predict_with_mapping(input_data, model, mappings)
-            
-            st.write("Prediction:", prediction)
-if __name__ == "__main__":
-    main()
-
+        st.write("Prediction:", prediction)
